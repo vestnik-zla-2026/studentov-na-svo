@@ -19,15 +19,22 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Ставропольский край
 
-| Город      | Колледж, техникум                                      | Ссылки           | Копии               | Ответственные лица | Структурные подразделения |
-| ---------- | ------------------------------------------------------ | ---------------- | ------------------- | ------------------ | ------------------------- |
-| Ставрополь | Ставропольское училище олимпийского резерва (техникум) | [сайт][stv_site] | [сайт][stv_archive] |                    |                           |
+| Город            | Колледж, техникум                                      | Ссылки                                                                | Копии                                                                           | Ответственные лица           | Структурные подразделения |
+| ---------------- | ------------------------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------- | ------------------------- |
+| Минеральные Воды | Социально-экономический колледж «Перспектива»          | [сайт][perspektiva_28192643]<br/>[документ][perspektiva_pdf_28192650] | [сайт][perspektiva_28192643_arch]<br/>[документ][perspektiva_pdf_28192650_arch] | 1. Лидак Сергей Владимирович |                           |
+| Ставрополь       | Ставропольское училище олимпийского резерва (техникум) | [сайт][stv_site]                                                      | [сайт][stv_archive]                                                             | 1. Асадчев Сергей Николаевич |                           |
 
 [stv_site]: https://suor26.ru/teachers/news/v-uchilishche-olimpiyskogo-rezerva-proshlo-vazhnoe-meropriyatie-napravlennoe-na-privlechenie-student/
 
-
 [stv_archive]: https://web.archive.org/web/20260410221104/https://suor26.ru/teachers/news/v-uchilishche-olimpiyskogo-rezerva-proshlo-vazhnoe-meropriyatie-napravlennoe-na-privlechenie-student/
 
+[perspektiva_28192643]: https://perspektiva-college.ru/press-center/news/for-applicants/prokhozhdenie-sluzhby-po-kontraktu-v-voyskakh-bespilotnykh-sistem-v-vsrf/
 
+[perspektiva_28192643_arch]: https://web.archive.org/web/20260428192643/https://perspektiva-college.ru/press-center/news/for-applicants/prokhozhdenie-sluzhby-po-kontraktu-v-voyskakh-bespilotnykh-sistem-v-vsrf/  
+
+[perspektiva_pdf_28192650]: https://perspektiva-college.ru/upload/iblock/0be/9akfph6u15l4s7ammi78a9t4v09kl6g3.pdf
+
+[perspektiva_pdf_28192650_arch]: https://web.archive.org/web/20260428192650/https://perspektiva-college.ru/upload/iblock/0be/9akfph6u15l4s7ammi78a9t4v09kl6g3.pdf  
