@@ -93,15 +93,15 @@
 
 ## Приволжский федеральный округ
 
-| Регион                  | Учебные заведения                                                                                                  | Регион                         | Учебные заведения                                                                              |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ---------------------------------------------------------------------------------------------- |
-| Республика Башкортостан | [университеты](Universities/Volga/Bashkortostan.md), [колледжи](Colleges/Volga/Bashkortostan.md)                   | Республика Марий Эл            |                                                                                                |
-| Республика Мордовия     |                                                                                                                    | Республика Татарстан           |                                                                                                |
-| Удмуртская Республика   |                                                                                                                    | Чувашская Республика — Чувашия | [колледжи](Colleges/Volga/Chuvashia.md)                                                        |
-| Пермский край           | [колледжи](Colleges/Volga/Perm-Krai.md)                                                                            | Кировская область              | [университеты](Universities/Volga/Kirov-Oblast.md), [колледжи](Colleges/Volga/Kirov-Oblast.md) |
-| Нижегородская область   | [университеты](Universities/Volga/Nizhny-Novgorod-Oblast.md), [колледжи](Colleges/Volga/Nizhny-Novgorod-Oblast.md) | Оренбургская область           | [колледжи](Colleges/Volga/Orenburg-Oblast.md)                                                  |
-| Пензенская область      |                                                                                                                    | Самарская область              | [колледжи](Colleges/Volga/Samara-Oblast.md)                                                    |
-| Саратовская область     |                                                                                                                    | Ульяновская область            |                                                                                                |
+| Регион                  | Учебные заведения                                                                                                  | Регион                         | Учебные заведения                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------------------------------------------ |
+| Республика Башкортостан | [университеты](Universities/Volga/Bashkortostan.md), [колледжи](Colleges/Volga/Bashkortostan.md)                   | Республика Марий Эл            |                                                                                                  |
+| Республика Мордовия     |                                                                                                                    | Республика Татарстан           |                                                                                                  |
+| Удмуртская Республика   |                                                                                                                    | Чувашская Республика — Чувашия | [колледжи](Colleges/Volga/Chuvashia.md)                                                          |
+| Пермский край           | [колледжи](Colleges/Volga/Perm-Krai.md)                                                                            | Кировская область              | [университеты](Universities/Volga/Kirov-Oblast.md), [колледжи](Colleges/Volga/Kirov-Oblast.md)   |
+| Нижегородская область   | [университеты](Universities/Volga/Nizhny-Novgorod-Oblast.md), [колледжи](Colleges/Volga/Nizhny-Novgorod-Oblast.md) | Оренбургская область           | [колледжи](Colleges/Volga/Orenburg-Oblast.md)                                                    |
+| Пензенская область      |                                                                                                                    | Самарская область              | [университеты](Universities/Volga/Samara-Oblast.md), [колледжи](Colleges/Volga/Samara-Oblast.md) |
+| Саратовская область     |                                                                                                                    | Ульяновская область            |                                                                                                  |
 
 ## Северо-Западный федеральный округ
 
@@ -116,12 +116,12 @@
 
 ## Северо-Кавказский федеральный округ
 
-| Регион                              | Учебные заведения                                     | Регион                          | Учебные заведения                                                 |
-| ----------------------------------- | ----------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- |
-| Республика Дагестан                 | [колледжи](Colleges/North-Caucasus/Dagestan.md)       | Республика Ингушетия            | [колледжи](Colleges/North-Caucasus/Ingushetia.md)                 |
-| Кабардино-Балкарская Республика     |                                                       | Карачаево-Черкесская Республика | [колледжи](Colleges/North-Caucasus/Karachay-Cherkess-Republic.md) |
-| Республика Северная Осетия — Алания |                                                       | Чеченская Республика            |                                                                   |
-| Ставропольский край                 | [колледжи](Colleges/North-Caucasus/Stavropol-Krai.md) |                                 |                                                                   |
+| Регион                              | Учебные заведения                                                                                                    | Регион                          | Учебные заведения                                                 |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- |
+| Республика Дагестан                 | [колледжи](Colleges/North-Caucasus/Dagestan.md)                                                                      | Республика Ингушетия            | [колледжи](Colleges/North-Caucasus/Ingushetia.md)                 |
+| Кабардино-Балкарская Республика     |                                                                                                                      | Карачаево-Черкесская Республика | [колледжи](Colleges/North-Caucasus/Karachay-Cherkess-Republic.md) |
+| Республика Северная Осетия — Алания |                                                                                                                      | Чеченская Республика            |                                                                   |
+| Ставропольский край                 | [университеты](Universities/North-Caucasus/Stavropol-Krai.md), [колледжи](Colleges/North-Caucasus/Stavropol-Krai.md) |                                 |                                                                   |
 
 ## Сибирский федеральный округ
 
@@ -182,11 +182,11 @@
 
 ## Оккупированные территории Украины
 
-| Регион                     | Учебные заведения                                                                                                                          |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Автономная Республика Крым | [университеты](Universities/Occupied-Territories/Ukraine__Crimea.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Crimea.md)         |
-| Донецкая область           | [университеты](Universities/Occupied-Territories/Ukraine__Donetsk-Oblast.md)                                                               |
-| Запорожская область        | [университеты](Universities/Occupied-Territories/Ukraine__Zaporizhzhia-Oblast.md)                                                          |
-| Луганская область          | [университеты](Universities/Occupied-Territories/Ukraine__Luhansk-Oblast.md)                                                               |
-| Херсонская область         | [университеты](Universities/Occupied-Territories/Ukraine__Kherson-Oblast.md)                                                               |
-| Севастополь                | [университеты](Universities/Occupied-Territories/Ukraine__Sevastopol.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Sevastopol.md) |
+| Регион                     | Учебные заведения                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Автономная Республика Крым | [университеты](Universities/Occupied-Territories/Ukraine__Crimea.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Crimea.md)                 |
+| Донецкая область           | [университеты](Universities/Occupied-Territories/Ukraine__Donetsk-Oblast.md)                                                                       |
+| Запорожская область        | [университеты](Universities/Occupied-Territories/Ukraine__Zaporizhzhia-Oblast.md)                                                                  |
+| Луганская область          | [университеты](Universities/Occupied-Territories/Ukraine__Luhansk-Oblast.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Luhansk-Oblast.md) |
+| Херсонская область         | [университеты](Universities/Occupied-Territories/Ukraine__Kherson-Oblast.md)                                                                       |
+| Севастополь                | [университеты](Universities/Occupied-Territories/Ukraine__Sevastopol.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Sevastopol.md)         |
