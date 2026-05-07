@@ -19,11 +19,13 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Чувашская Республика — Чувашия
 
-| Город          | Колледж, техникум                             | Ссылки                                                                 | Копии                                                                                 | Ответственные лица        |
-| -------------- | --------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------- |
-| Новочебоксарск | Новочебоксарский химико-механический техникум | [сайт][nhmt_1]<br/>[вконтакте 1][vk_14793]<br/>[вконтакте 2][vk_14779] | [сайт][nhmt_1_arch]<br/>[вконтакте 1][vk_14793_arch]<br/>[вконтакте 2][vk_14779_arch] | 1. Пристова Елена Юрьевна |
+| Город          | Колледж, техникум                                                            | Ссылки                                                                                                                                                                                                            | Копии                                                                                                                                                                                                                                                | Ответственные лица                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Новочебоксарск | Новочебоксарский химико-механический техникум                                | [сайт][nhmt_1]<br/>[вконтакте 1][vk_14793]<br/>[вконтакте 2][vk_14779]                                                                                                                                            | [сайт][nhmt_1_arch]<br/>[вконтакте 1][vk_14793_arch]<br/>[вконтакте 2][vk_14779_arch]                                                                                                                                                                | 1. Пристова Елена Юрьевна                                                                                               |
+| Чебоксары      | Межрегиональный центр компетенций – Чебоксарский электромеханический колледж | [сайт 1][chemk_site1]<br/>[сайт 2][chemk_site2]<br/>[сайт 3][chemk_site3]<br/>[вконтакте 1][chemk_vk_18459]<br/>[вконтакте 2][chemk_vk_18327]<br/>[вконтакте 3][chemk_vk_18256]<br/>[вконтакте 4][chemk_vk_17888] | [сайт 1][chemk_site1_arch]<br/>[сайт 2][chemk_site2_arch]<br/>[сайт 3][chemk_site3_arch]<br/>[вконтакте 1][chemk_vk_18459_arch]<br/>[вконтакте 2][chemk_vk_18327_arch]<br/>[вконтакте 3][chemk_vk_18256_arch]<br/>[вконтакте 4][chemk_vk_17888_arch] | 1. Каргин Николай Юрьевич<br/>3. Павлов Иван<br/>3. Исмаилов Илья<br/>3. Русских Артём<br/>3. Кузьмин Михаил Николаевич |
 
 [nhmt_1]: https://nhmt.ru/news/voyska-bespilotnykh-sistem-/
 
@@ -36,3 +38,31 @@
 [vk_14779]: https://vk.com/wall-132124237_14779
 
 [vk_14779_arch]: https://archive.md/IZiia
+
+[chemk_site1]: http://www.chemk.org/index.php/meropriatia-news/2961-vstrecha-s-voenkomatom-bps-2026
+
+[chemk_site1_arch]: https://web.archive.org/web/20260506202338/http://www.chemk.org/index.php/meropriatia-news/2961-vstrecha-s-voenkomatom-bps-2026
+
+[chemk_site2]: http://www.chemk.org/index.php/meropriatia-news/2930-vstrecha-s-predstavitelem-voysk-bpla-2026
+
+[chemk_site2_arch]: https://web.archive.org/web/20260506202354/http://www.chemk.org/index.php/meropriatia-news/2930-vstrecha-s-predstavitelem-voysk-bpla-2026
+
+[chemk_site3]: http://www.chemk.org/index.php/meropriatia-news/2760-vstrecha-s-voennymi-bespilotnye-sistemy-2026
+
+[chemk_site3_arch]: https://web.archive.org/web/20260506202330/http://www.chemk.org/index.php/meropriatia-news/2760-vstrecha-s-voennymi-bespilotnye-sistemy-2026
+
+[chemk_vk_18459]: https://vk.com/wall-87807636_18459
+
+[chemk_vk_18459_arch]: https://archive.md/ONGio
+
+[chemk_vk_18327]: https://vk.com/wall-87807636_18327
+
+[chemk_vk_18327_arch]: https://archive.md/hyZJP
+
+[chemk_vk_18256]: https://vk.com/wall-87807636_18256
+
+[chemk_vk_18256_arch]: https://archive.md/U3Emy
+
+[chemk_vk_17888]: https://vk.com/wall-87807636_17888
+
+[chemk_vk_17888_arch]: https://archive.md/Zeipk
