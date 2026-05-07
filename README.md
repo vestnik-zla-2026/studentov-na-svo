@@ -65,10 +65,12 @@
 
 **Важно: не отправляйте донаты, если находитесь или бываете в России!**
 
-## СМИ о нас
+## НКО, СМИ, блогеры и публичные спикеры о нас
 
-* Телеграм-канал Дмитрия Колезева: https://t.me/kolezev/17415.
+* Дмитрий Колезев: https://t.me/kolezev/17415.
 * Activatica.org: https://activatica.org/content/14ee73bc-e74c-4e46-87b0-3dbaf8cf22aa/vestnik-zla-fiksiruet-fakty-verbovki-studentov-v-armiyu.
+* ДСО — Движение сознательных отказчиков: https://t.me/stoparmy/6731.
+* Сергей Медведев: https://www.facebook.com/sergei.medvedev3/posts/10242795458810861/.
 
 ## Полезные ссылки
 
