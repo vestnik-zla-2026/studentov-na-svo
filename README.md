@@ -70,6 +70,7 @@
 * Дмитрий Колезев: https://t.me/kolezev/17415.
 * Activatica.org: https://activatica.org/content/14ee73bc-e74c-4e46-87b0-3dbaf8cf22aa/vestnik-zla-fiksiruet-fakty-verbovki-studentov-v-armiyu.
 * ДСО — Движение сознательных отказчиков: https://t.me/stoparmy/6731.
+* Дискурс: https://t.me/discoursio/9091.
 * Сергей Медведев: https://www.facebook.com/sergei.medvedev3/posts/10242795458810861/.
 
 ## Полезные ссылки
