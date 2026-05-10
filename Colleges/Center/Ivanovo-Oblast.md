@@ -19,15 +19,32 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Ивановская область
 
-| Город   | Колледж, техникум                    | Ссылки           | Копии               | Ответственные лица          | Структурные подразделения |
-| ------- | ------------------------------------ | ---------------- | ------------------- | --------------------------- | ------------------------- |
-| Родники | Родниковский политехнический колледж | [сайт][rod_site] | [сайт][rod_archive] | 1. Любимов Сергей Борисович |                           |
+| Город   | Колледж, техникум, отделение СПО вуза                                                         | Ссылки                                                                                                            | Копии                                                                                                                                             | Ответственные лица                                                                                                          | Структурные подразделения |
+| ------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Иваново | Отделение СПО Ивановского филиала Российского экономического университета им. Г. В. Плеханова | [сайт 1][rea_spo_site1]<br/>[сайт 2][rea_spo_site2]<br/>[вконтакте 1][rea_spo_vk1]<br/>[вконтакте 2][rea_spo_vk2] | [сайт 1][rea_spo_site1_archive]<br/>[сайт 2][rea_spo_site2_archive]<br/>[вконтакте 1][rea_spo_vk1_archive]<br/>[вконтакте 2][rea_spo_vk2_archive] | 1. Жукова Яна Эрнестовна ([@][rea_zhukova_email])<br/>1. Карабанова Анна Михайловна<br/>3. Беседов А. Г.<br/>3. Долганов А. |                           |
+| Родники | Родниковский политехнический колледж                                                          | [сайт][rod_site]                                                                                                  | [сайт][rod_archive]                                                                                                                               | 1. Любимов Сергей Борисович                                                                                                 |                           |
 
 [rod_site]: http://rpk.rodniki.ru/?p=20706
 
-
 [rod_archive]: https://megalodon.jp/2026-0411-0749-04/rpk.rodniki.ru/?p=20706
 
+[rea_spo_site1]: https://www.rea.ru/news/63271-vstrecha-vyipusknikov-otdeleniya-spo-s-predstavitelyami-punkta-otbora-na-voennuyu-slujbu
 
+[rea_spo_site1_archive]: https://web.archive.org/web/20260509120842/https://www.rea.ru/news/63271-vstrecha-vyipusknikov-otdeleniya-spo-s-predstavitelyami-punkta-otbora-na-voennuyu-slujbu
+
+[rea_spo_site2]: https://www.rea.ru/news/63588-vstrecha-studentov-otdeleniya-spo-s-predstavitelyami-punkta-otbora-na-voennuyu-slujbu
+
+[rea_spo_site2_archive]: https://web.archive.org/web/20260509121549/https://www.rea.ru/news/63588-vstrecha-studentov-otdeleniya-spo-s-predstavitelyami-punkta-otbora-na-voennuyu-slujbu
+
+[rea_spo_vk1]: https://vk.com/wall-70647565_5301
+
+[rea_spo_vk1_archive]: https://archive.md/yWudS
+
+[rea_spo_vk2]: https://vk.com/wall-70647565_5283
+
+[rea_spo_vk2_archive]: https://archive.md/MNOrf
+
+[rea_zhukova_email]: mailto:Zhukova.YE@rea.ru
