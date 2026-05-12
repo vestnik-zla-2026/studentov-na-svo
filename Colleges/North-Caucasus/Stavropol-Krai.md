@@ -25,8 +25,9 @@
 | Город            | Колледж, техникум                                                           | Ссылки                                                                                                                                  | Копии                                                                                                                                                            | Ответственные лица                                                                                                                                                                    | Структурные подразделения |
 | ---------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | Минеральные Воды | Социально-экономический колледж «Перспектива»                               | [сайт][perspektiva_28192643]<br/>[документ][perspektiva_pdf_28192650]                                                                   | [сайт][perspektiva_28192643_arch]<br/>[документ][perspektiva_pdf_28192650_arch]                                                                                  | 1. Лидак Сергей Владимирович                                                                                                                                                          |                           |
-| Невинномысск     | Колледж Невинномысского государственного гуманитарно-технического института | [вконтакте][wall_6898]                                                                                                                  | [вконтакте][wall_6898_archive]                                                                                                                                   | 1. Херовинчук Ирина Сергеевна<br/>2.  Мащенко Анастасия<br/>2. Малеваный Кирилл Викторович ([vk][vk_kirillm54], [дума][mal_kir_duma])                                                 |                           |
+| Невинномысск     | Колледж Невинномысского государственного гуманитарно-технического института | [вк][wall_6898]                                                                                                                         | [вк][wall_6898_archive]                                                                                                                                          | 1. Херовинчук Ирина Сергеевна<br/>2.  Мащенко Анастасия<br/>2. Малеваный Кирилл Викторович ([vk][vk_kirillm54], [дума][mal_kir_duma])                                                 |                           |
 | Светлоград       | Светлоградский региональный сельскохозяйственный колледж                    | [документ][svetrsk_doc]<br/>[сайт 1][svetrsk_site1]<br/>[сайт 2][svetrsk_site2]<br/>[сайт 3][svetrsk_site3]<br/>[сайт 4][svetrsk_site4] | [документ][svetrsk_doc_arch]<br/>[сайт 1][svetrsk_site1_arch]<br/>[сайт 2][svetrsk_site2_arch]<br/>[сайт 3][svetrsk_site3_arch]<br/>[сайт 4][svetrsk_site4_arch] | 1. Шаповалов Анатолий Дмитриевич ([vk][shapovalov_vk])<br/>2. Горбиенко Антон Александрович ([vk][gorbienko_vk])<br/>3. Семенихин Егор Сергеевич<br/>3. Войщиков Сергей Александрович |                           |
+| Ставрополь       | Колледж Северо-Кавказского федерального университета в г. Ставрополе        | [сайт][ncfu_news]<br/>[буклет 1][ncfu_doc1]<br/>[буклет 2][ncfu_doc2]<br/>[вк 1][ncfu_vk1]<br/>[вк 2][ncfu_vk2]                         | [сайт][ncfu_news_archive]<br/>[буклет 1][ncfu_doc1_archive]<br/>[буклет 2][ncfu_doc2_archive]<br/>[вк 1][ncfu_vk1_archive]<br/>[вк 2][ncfu_vk2_archive]          | 1. Торишный Олег Анатольевич                                                                                                                                                          |                           |
 | Ставрополь       | Ставропольское училище олимпийского резерва (техникум)                      | [сайт][stv_site]                                                                                                                        | [сайт][stv_archive]                                                                                                                                              | 1. Асадчев Сергей Николаевич                                                                                                                                                          |                           |
 
 [stv_site]: https://suor26.ru/teachers/news/v-uchilishche-olimpiyskogo-rezerva-proshlo-vazhnoe-meropriyatie-napravlennoe-na-privlechenie-student/
@@ -72,3 +73,23 @@
 [shapovalov_vk]: https://vk.com/id682178809
 
 [gorbienko_vk]: https://vk.com/id389528557
+
+[ncfu_news]: https://ncfu.ru/spo//news/20643/
+
+[ncfu_news_archive]: https://web.archive.org/web/20260512201248/https://ncfu.ru/spo//news/20643/
+
+[ncfu_doc1]: https://spo.ncfu.ru/upload/medialibrary/4c2/zy0j1s4zq5vaqfwtus0yc6nc0ppnbuoc/Voennaya-sluzhba-po-kontraktu.pdf
+
+[ncfu_doc1_archive]: https://web.archive.org/web/20260512201301/https://spo.ncfu.ru/upload/medialibrary/4c2/zy0j1s4zq5vaqfwtus0yc6nc0ppnbuoc/Voennaya-sluzhba-po-kontraktu.pdf
+
+[ncfu_doc2]: https://spo.ncfu.ru/upload/medialibrary/141/lfezu9pcg2vu57htp7i4nhwjd9z5sfvy/Sluzhba-po-kontraktu-v-voyskakh-bespilotnykh-sistem-.pdf
+
+[ncfu_doc2_archive]: https://web.archive.org/web/20260512201314/https://spo.ncfu.ru/upload/medialibrary/141/lfezu9pcg2vu57htp7i4nhwjd9z5sfvy/Sluzhba-po-kontraktu-v-voyskakh-bespilotnykh-sistem-.pdf
+
+[ncfu_vk1]: https://vk.com/wall-209264101_782
+
+[ncfu_vk1_archive]: https://archive.md/b9jqz
+
+[ncfu_vk2]: https://vk.com/wall-209264101_684
+
+[ncfu_vk2_archive]: https://archive.md/TvS1I
