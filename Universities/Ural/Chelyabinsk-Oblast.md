@@ -19,16 +19,34 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Челябинская область
 
-| Город     | Университет, институт, филиал                                          | Ссылки               | Копии                   | Ответственные лица                           | Структурные подразделения |
-| --------- | ---------------------------------------------------------------------- | -------------------- | ----------------------- | -------------------------------------------- | ------------------------- |
-| Челябинск | Южно-Уральский государственный институт искусств им. П. И. Чайковского | [сайт][chelyab_site] | [сайт][chelyab_archive] | 1. [Сизова Елена Равильевна][chelyab_person] |                           |
+| Город      | Университет, институт, филиал                                                                              | Ссылки                                                       | Копии                                                                                | Ответственные лица                                                                                                            | Структурные подразделения |
+| ---------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Трёхгорный | Трехгорный технологический институт – филиал Национального исследовательского ядерного университета «МИФИ» | [сайт 1][tti_site1]<br/>[сайт 2][tti_site2]<br/>[вк][tti_vk] | [сайт 1][tti_site1_archive]<br/>[сайт 2][tti_site2_archive]<br/>[вк][tti_vk_archive] | 1. Улитина Татьяна Ивановна ([@][ulitina_mail])<br/>2. Суровцова Елена Георгиевна ([@][surovtsova_mail], [vk][surovtsova_vk]) |                           |
+| Челябинск  | Южно-Уральский государственный институт искусств им. П. И. Чайковского                                     | [сайт][chelyab_site]                                         | [сайт][chelyab_archive]                                                              | 1. [Сизова Елена Равильевна][chelyab_person]                                                                                  |                           |
 
 [chelyab_site]: https://www.uyrgii.ru/ministerstvo-oborony-rf-priglashaet-na-sluzhbu-po-kontraktu-v-voyskah-bespilotnyh-sistem-vbs
 
-
 [chelyab_archive]: https://web.archive.org/web/20260404031345/https://www.uyrgii.ru/ministerstvo-oborony-rf-priglashaet-na-sluzhbu-po-kontraktu-v-voyskah-bespilotnyh-sistem-vbs
 
-
 [chelyab_person]: https://www.uyrgii.ru/%D0%A1%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%A0%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0
+
+[tti_site1]: https://tti-mephi.ru/node/1503
+
+[tti_site1_archive]: https://web.archive.org/web/20260517171439/https://tti-mephi.ru/node/1503
+
+[tti_site2]: https://tti-mephi.ru/node/1515
+
+[tti_site2_archive]: https://web.archive.org/web/20260517171524/https://tti-mephi.ru/node/1515
+
+[tti_vk]: https://vk.com/wall-59792086_12932
+
+[tti_vk_archive]: https://archive.md/6cBRf
+
+[ulitina_mail]: mailto:TIUlitina@mephi.ru
+
+[surovtsova_mail]: mailto:EGSurovtsova@mephi.ru
+
+[surovtsova_vk]: https://vk.com/id206465818
