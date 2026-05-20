@@ -1,0 +1,39 @@
+# Воронежская область
+
+| Город       | Университет, институт, филиал                                                                                   | Ссылки                                                                                                                                           | Копии                                                                                                                                                                                                    | Ответственные лица                                                                                                                | Структурные подразделения |
+| ----------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Нововоронеж | Нововоронежский политехнический институт – филиал Национального исследовательского ядерного университета «МИФИ» | [сайт][nvpk_site1]<br/>[вк 1][nvpk_vk1]<br/>[вк 2][nvpk_vk2]<br/>[вк 3][nvpk_vk3]<br/>[вк 4][nvpk_vk4]<br/>[вк 5][nvpk_vk5]<br/>[вк 6][nvpk_vk6] | [сайт][nvpk_site1_archive]<br/>[вк 1][nvpk_vk1_archive]<br/>[вк 2][nvpk_vk2_archive]<br/>[вк 3][nvpk_vk3_archive]<br/>[вк 4][nvpk_vk4_archive]<br/>[вк 5][nvpk_vk5_archive]<br/>[вк 6][nvpk_vk6_archive] | 1. Булатова Елена Наримановна ([@][bulatova_mail])<br/>2. Кочеткова Марина Валерьевна ([@][kochetkova_mail], [vk][kochetkova_vk]) |                           |
+
+[nvpk_site1]: https://nvpk-mephi.ru/2026/05/12/%d0%bc%d0%b8%d0%bd%d0%be%d0%b1%d0%be%d1%80%d0%be%d0%bd%d1%8b-%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b8%d0%bb%d0%be-%d1%8d%d0%ba%d1%81%d0%ba%d0%bb%D1%8E/
+
+[nvpk_site1_archive]: https://web.archive.org/web/20260517180259/https://nvpk-mephi.ru/2026/05/12/%D0%BC%D0%B8%D0%BD%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B8%D0%BB%D0%BE-%D1%8D%D0%BA%D1%81%D0%BA%D0%BB%D1%8E/
+
+[nvpk_vk1]: https://vk.com/wall-187594886_9834
+
+[nvpk_vk1_archive]: https://archive.md/9eWWb
+
+[nvpk_vk2]: https://vk.com/wall-187594886_9958
+
+[nvpk_vk2_archive]: https://archive.md/2OJBi
+
+[nvpk_vk3]: https://vk.com/wall-187594886_9808
+
+[nvpk_vk3_archive]: https://web.archive.org/web/20260517181018/https://vk.com/wall-187594886_9808
+
+[nvpk_vk4]: https://vk.com/wall-187594886_9589
+
+[nvpk_vk4_archive]: https://archive.md/HXvnq
+
+[nvpk_vk5]: https://vk.com/wall-187594886_9420
+
+[nvpk_vk5_archive]: https://archive.md/QiNsY
+
+[nvpk_vk6]: https://vk.com/wall-187594886_9045
+
+[nvpk_vk6_archive]: https://archive.md/XBqxP
+
+[bulatova_mail]: mailto:ENBulatova@mephi.ru
+
+[kochetkova_mail]: mailto:marka0490@yandex.ru
+
+[kochetkova_vk]: https://vk.com/id3384122
