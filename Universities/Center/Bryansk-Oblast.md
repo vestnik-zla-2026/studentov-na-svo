@@ -1,10 +1,17 @@
 <!-- PREAMBLE START -->
 
-[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/Vestnik_Zla)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vestnik-zla/studentov-na-svo)
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/vestnik-zla/studentov-na-svo)
-[![Gitea](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white)](https://gitea.com/vestnik-zla/studentov-na-svo/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8A2D2D?logo=protonmail&logoColor=white)](mailto:protiv.fashizma.ru@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Vestnik_Zla)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Vestnik_Zla)
+
+[![Proton Mail](https://img.shields.io/badge/ProtonMail-8A2D2D?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:protiv.fashizma.ru@proton.me)
+[![Telegram /admin/](https://img.shields.io/badge/Telegram_Админ-0088CC?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Vestnik_Zla_admin)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vestnik-zla/studentov-na-svo)
+[![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)](https://bitbucket.org/vestnik-zla/studentov-na-svo)
+[![Gitea](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge)](https://gitea.com/vestnik-zla/studentov-na-svo)
+[![SourceHut](https://img.shields.io/badge/SourceHut-000000?logo=sourcehut&logoColor=white&style=for-the-badge)](https://sr.ht/~vestnik-zla/studentov-na-svo)
+[![Framagit](https://img.shields.io/badge/Framagit-FF6F00?logo=framagit&logoColor=white&style=for-the-badge)](https://framagit.org/vestnik-zla/studentov-na-svo)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/vestnik-zla/studentov-na-svo)
 
 Проект «Вестник Zла» — это независимая волонтёрская инициатива по сбору и сохранению публично доступной информации **о фактах вербовки студентов российских вузов и колледжей в войска беспилотных систем ВС РФ**.
 
