@@ -118,6 +118,6 @@
 
 [unitech_vk5_archive]: https://archive.md/tpGWr
 
-[dubna1_tg_screenshot]: https://t.me/Vestnik_Zla/10
+[dubna1_tg_screenshot]: https://web.archive.org/web/20260525181746/https://t.me/Vestnik_Zla/10#
 
-[dubna2_tg_screenshot]: https://t.me/Vestnik_Zla/11
+[dubna2_tg_screenshot]: https://web.archive.org/web/20260525181914/https://t.me/Vestnik_Zla/11#
