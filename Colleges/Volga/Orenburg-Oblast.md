@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vestnik-zla/studentov-na-svo)
 [![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)](https://bitbucket.org/vestnik-zla/studentov-na-svo)
 [![Gitea](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge)](https://gitea.com/vestnik-zla/studentov-na-svo)
-[![SourceHut](https://img.shields.io/badge/SourceHut-000000?logo=sourcehut&logoColor=white&style=for-the-badge)](https://sr.ht/~vestnik-zla/studentov-na-svo)
+[![SourceHut](https://img.shields.io/badge/SourceHut-000000?logo=sourcehut&logoColor=white&style=for-the-badge)](https://git.sr.ht/~vestnik-zla/studentov-na-svo)
 [![Framagit](https://img.shields.io/badge/Framagit-FF6F00?logo=framagit&logoColor=white&style=for-the-badge)](https://framagit.org/vestnik-zla/studentov-na-svo)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/vestnik-zla/studentov-na-svo)
 
