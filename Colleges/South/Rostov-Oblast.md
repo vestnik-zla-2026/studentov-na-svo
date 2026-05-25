@@ -29,24 +29,26 @@
 
 # Ростовская область
 
-| Город                              | Колледж, техникум                                                  | Ссылки                                       | Копии                                                        | Ответственные лица                                                                                                                                                                      | Структурные подразделения |
-| ---------------------------------- | ------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Жирнов (Тацинский р-н)             | Тацинский казачий кадетский техникум                               | [вконтакте][vk2662]                          | [вконтакте][vk2662_arch_N0Kbj]                               | 1. [Петрова Лилия Владимировна][petrova_site] ([@][petrova_mail], [vk][petrova_vk])                                                                                                     |                           |
-| Ростов-на-Дону                     | Донской промышленно-технический колледж (ПУ № 8) им. Б. Н. Слюсаря | [документ][pu8_bpla]<br/>[вконтакте][vk1065] | [документ][pu8_bpla_arch]<br/>[вконтакте][vk1065_arch_zLJ19] | 1. Ширяев Игорь Михайлович ([@][shiryaev_mail])<br/>2. Березова Юлия Геннадиевна ([vk][berezova_vk])<br/>2. Курегов Игорь ([vk][kuregov_vk])<br/>2. Зайцев Александр ([vk][zaytsev_vk]) |                           |
-| Ростов-на-Дону                     | Ростовский колледж рекламы, сервиса и туризма «Сократ»             | [вконтакте][vk1465]                          | [вконтакте][vk1465_arch_BkUj7]                               | 1. Ковалев Алексей Юрьевич<br/>2. Гречанова Анна Владимировна ([vk][grechanova_vk])                                                                                                     |                           |
-| Ростов-на-Дону                     | Ростовский-на-Дону колледж связи и информатики                     | [сайт][H3hLS]                                | [сайт][7jTVe]                                                | 1. Горбунов Сергей Николаевич<br/>3. Королькова Ольга Валерьевна ([@][dvr5V])<br/>3. Калинина Наталья Георгиевна ([@][Evl3a])<br/>3. Смирнов Владимир Павлович ([@][3hLSb])             |                           |
-| Шахты                              | Шахтинский техникум дизайна и сервиса «Дон-Текс»                   | [сайт][donteks1799]                          | [сайт][donteks1799_arch]                                     | 1. Сударкин Сергей Петрович                                                                                                                                                             |                           |
-| Шолоховский (Белокалитвинский р-н) | Белокалитвинский технологический техникум (р. п. Шолоховский)      | [сайт][u1a66]                                | [сайт][v2b77]                                                | 1. Кудинов Максим Николаевич                                                                                                                                                            |                           |
+| Город                              | Колледж, техникум                                                  | Ссылки                                                                                            | Копии                                                                                                                             | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                                              | Структурные подразделения |
+| ---------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Азов                               | Филиал Донского педагогического колледжа в г. Азове                | [сайт][azov_dpc_site]<br/>[вконтакте][azov_dpc_vk]                                                | [сайт][azov_dpc_site_archive]<br/>[вконтакте][azov_dpc_vk_archive]                                                                | 1. Божинская Татьяна Леонидовна ([профиль][bozhinskaya_profile])<br/>3. Островенок Ирина Владимировна ([профиль][ostrovenok_profile])<br/>3. Перлина Наталья Анатольевна ([профиль][perlina_profile])<br/>3. Беликова В. М.<br/>3. Сидоренко Лариса Витальевна ([профиль][sidorenko_profile])<br/>3. Якунина Татьяна Викторовна ([профиль][yakunina_profile])<br/>3. Егоров Игорь Анатольевич                                   |                           |
+| Жирнов (Тацинский р-н)             | Тацинский казачий кадетский техникум                               | [вконтакте][vk2662]                                                                               | [вконтакте][vk2662_arch_n0kbj]                                                                                                    | 1. Петрова Лилия Владимировна ([профиль][lvpetrova_site], [@][lvpetrova_mail], [vk][lvpetrova_vk])                                                                                                                                                                                                                                                                                                                              |                           |
+| Ростов-на-Дону                     | Донской педагогический колледж                                     | [сайт][dpc_site]<br/>[вконтакте 1][dpc_vk1]<br/>[вконтакте 2][dpc_vk2]<br/>[вконтакте 3][dpc_vk3] | [сайт][dpc_site_archive]<br/>[вконтакте 1][dpc_vk1_archive]<br/>[вконтакте 2][dpc_vk2_archive]<br/>[вконтакте 3][dpc_vk3_archive] | 1. Пискунов Пётр Иванович ([профиль][piskunov_profile])<br/>3. Сычёва Марина Александровна ([профиль][sycheva_profile])<br/>3. Будникова Валентина Ивановна ([профиль][budnikova_profile])<br/>3. Аванесян Ирина Эдуардовна ([профиль][avanesyan_profile])<br/>3. Сыромолот Сергей Васильевич ([профиль][syromolot_profile])<br/>3. Кулачко Наталья Станиславовна ([профиль][kulachko_profile])<br/>3. Егоров Игорь Анатольевич |                           |
+| Ростов-на-Дону                     | Донской промышленно-технический колледж (ПУ № 8) им. Б. Н. Слюсаря | [документ][pu8_bpla]<br/>[вконтакте][vk1065]                                                      | [документ][pu8_bpla_arch]<br/>[вконтакте][vk1065_arch_zlj19]                                                                      | 1. Ширяев Игорь Михайлович ([@][shiryaev_mail])<br/>2. Березова Юлия Геннадиевна ([vk][berezova_vk])<br/>2. Курегов Игорь ([vk][kuregov_vk])<br/>2. Зайцев Александр ([vk][zaytsev_vk])                                                                                                                                                                                                                                         |                           |
+| Ростов-на-Дону                     | Ростовский колледж рекламы, сервиса и туризма «Сократ»             | [вконтакте][vk1465]                                                                               | [вконтакте][vk1465_arch_bkuj7]                                                                                                    | 1. Ковалев Алексей Юрьевич<br/>2. Гречанова Анна Владимировна ([vk][grechanova_vk])                                                                                                                                                                                                                                                                                                                                             |                           |
+| Ростов-на-Дону                     | Ростовский-на-Дону колледж связи и информатики                     | [сайт][h3hls]                                                                                     | [сайт][7jtve]                                                                                                                     | 1. Горбунов Сергей Николаевич<br/>3. Королькова Ольга Валерьевна ([@][dvr5v])<br/>3. Калинина Наталья Георгиевна ([@][evl3a])<br/>3. Смирнов Владимир Павлович ([@][3hlsb])                                                                                                                                                                                                                                                     |                           |
+| Шахты                              | Шахтинский техникум дизайна и сервиса «Дон-Текс»                   | [сайт][donteks1799]                                                                               | [сайт][donteks1799_arch]                                                                                                          | 1. Сударкин Сергей Петрович                                                                                                                                                                                                                                                                                                                                                                                                     |                           |
+| Шолоховский (Белокалитвинский р-н) | Белокалитвинский технологический техникум (р. п. Шолоховский)      | [сайт][u1a66]                                                                                     | [сайт][v2b77]                                                                                                                     | 1. Кудинов Максим Николаевич                                                                                                                                                                                                                                                                                                                                                                                                    |                           |
 
-[H3hLS]: https://rksi.ru/bpla
+[h3hls]: https://rksi.ru/bpla
 
-[7jTVe]: https://web.archive.org/web/20260404020255/https://rksi.ru/bpla
+[7jtve]: https://web.archive.org/web/20260404020255/https://rksi.ru/bpla
 
-[dvr5V]: mailto:zamur@adm.rksi.ru
+[dvr5v]: mailto:zamur@adm.rksi.ru
 
-[Evl3a]: mailto:kalinina@adm.rksi.ru
+[evl3a]: mailto:kalinina@adm.rksi.ru
 
-[3hLSb]: mailto:smirnow@edu.rksi.ru
+[3hlsb]: mailto:smirnow@edu.rksi.ru
 
 [u1a66]: https://bktt.ru/vyberi-professiyu-budushhego/
 
@@ -54,7 +56,7 @@
 
 [vk1465]: https://vk.com/wall-217063740_1465
 
-[vk1465_arch_BkUj7]: https://archive.md/BkUj7
+[vk1465_arch_bkuj7]: https://archive.md/BkUj7
 
 [grechanova_vk]: https://vk.com/id212438883
 
@@ -64,7 +66,7 @@
 
 [vk1065]: https://vk.com/wall-199146298_1065
 
-[vk1065_arch_zLJ19]: https://archive.md/zLJ19
+[vk1065_arch_zlj19]: https://archive.md/zLJ19
 
 [shiryaev_mail]: mailto:shiriaew.i@yandex.ru
 
@@ -80,10 +82,56 @@
 
 [vk2662]: https://vk.com/wall-217321585_2662
 
-[vk2662_arch_N0Kbj]: https://archive.md/N0Kbj
+[vk2662_arch_n0kbj]: https://archive.md/N0Kbj
 
-[petrova_vk]: https://vk.com/id764191767
+[lvpetrova_vk]: https://vk.com/id764191767
 
-[petrova_mail]: mailto:liliyapetrova80@yandex.ru
+[lvpetrova_mail]: mailto:liliyapetrova80@yandex.ru
 
-[petrova_site]: https://казачий-техникум.рф/index.php/nash-tekhnikum/rukovodstvo/752-petrova-liliya-vladimirovna
+[lvpetrova_site]: https://казачий-техникум.рф/index.php/nash-tekhnikum/rukovodstvo/752-petrova-liliya-vladimirovna
+
+[dpc_site]: https://college-dpc.ru/index.php?url=news&id=20260323-400-29
+
+[dpc_site_archive]: https://web.archive.org/web/20260524130927/https://college-dpc.ru/index.php?url=news&id=20260323-400-29
+
+[dpc_vk1]: https://vk.com/wall-54908245_6678
+
+[dpc_vk1_archive]: https://archive.md/FwMXR
+
+[dpc_vk2]: https://vk.com/wall-54908245_6672
+
+[dpc_vk2_archive]: https://archive.md/ZD5fo
+
+[dpc_vk3]: https://vk.com/wall-54908245_6646
+
+[dpc_vk3_archive]: https://archive.md/veEEy
+
+[piskunov_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=44
+
+[sycheva_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=48
+
+[budnikova_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=49
+
+[avanesyan_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=594
+
+[syromolot_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=802
+
+[kulachko_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=65
+
+[azov_dpc_site]: https://college-dpc.ru/index.php?url=news&id=20260326-400-81
+
+[azov_dpc_site_archive]: https://web.archive.org/web/20260524130835/https://college-dpc.ru/index.php?url=news&id=20260326-400-81
+
+[azov_dpc_vk]: https://vk.com/wall-54908245_6683
+
+[azov_dpc_vk_archive]: https://archive.md/M7864
+
+[bozhinskaya_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=690
+
+[ostrovenok_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=707
+
+[perlina_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=708
+
+[sidorenko_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=710
+
+[yakunina_profile]: https://college-dpc.ru/app/index.php?page=view_users&tip=2&id=713
