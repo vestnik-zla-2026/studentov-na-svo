@@ -26,11 +26,13 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Кировская область
 
-| Город   | Колледж, техникум         | Ссылки                                                                    | Копии                                                                                    | Ответственные лица                                                                                                                  | Структурные подразделения |
-| ------- | ------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Советск | Суводский лесхоз-техникум | [вконтакте 1][vk7516]<br/>[вконтакте 2][vk7413]<br/>[вконтакте 3][vk7241] | [вконтакте 1][vk7516_arch]<br/>[вконтакте 2][vk7413_arch]<br/>[вконтакте 3][vk7241_arch] | 1. Порубова Татьяна Алексеевна<br/>3. Ошуев Владимир Петрович<br/>3. Емельянов Евгений Иванович<br/>3. Осинников Михаил Анатольевич |                           |
+| Город      | Колледж, техникум                                    | Ссылки                                                                                                                                                                                                                                                                                                                                        | Копии                                                                                                                                                                                                                                                                                                                                                                                                                                         | Ответственные лица                                                                                                                                                                                                                                                        | Структурные подразделения |
+| ---------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Слободской | Слободской колледж педагогики и социальных отношений | [сайт][slob_site]<br/>[лифлет][slob_leaflet]<br/>[презентация][slob_presentation]<br/>[вконтакте 1][slob_vk1]<br/>[вконтакте 2][slob_vk2]<br/>[вконтакте 3][slob_vk3]<br/>[вконтакте 4][slob_vk4]<br/>[вконтакте 5][slob_vk5]<br/>[вконтакте 6][slob_vk6]<br/>[вконтакте 7][slob_vk7]<br/>[вконтакте 8][slob_vk8]<br/>[вконтакте 9][slob_vk9] | [сайт][slob_site_archive]<br/>[лифлет][slob_leaflet_archive]<br/>[презентация][slob_presentation_archive]<br/>[вконтакте 1][slob_vk1_archive]<br/>[вконтакте 2][slob_vk2_archive]<br/>[вконтакте 3][slob_vk3_archive]<br/>[вконтакте 4][slob_vk4_archive]<br/>[вконтакте 5][slob_vk5_archive]<br/>[вконтакте 6][slob_vk6_archive]<br/>[вконтакте 7][slob_vk7_archive]<br/>[вконтакте 8][slob_vk8_archive]<br/>[вконтакте 9][slob_vk9_archive] | 1. Шеренцова Ольга Михайловна ([профиль][sherentsova_profile])<br/>2. Лялина Марина Викторовна ([vk][lyalina_vk], [упоминание][lyalina_mention])<br/>3. Зонов Данил Михайлович ([vk][zonov_vk], [сайт][zonov_site], [tg][zonov_tg], [@][zonov_mail])<br/>3. Баженов А. Н. |                           |
+| Советск    | Суводский лесхоз-техникум                            | [вконтакте 1][vk7516]<br/>[вконтакте 2][vk7413]<br/>[вконтакте 3][vk7241]                                                                                                                                                                                                                                                                     | [вконтакте 1][vk7516_arch]<br/>[вконтакте 2][vk7413_arch]<br/>[вконтакте 3][vk7241_arch]                                                                                                                                                                                                                                                                                                                                                      | 1. Порубова Татьяна Алексеевна<br/>3. Ошуев Владимир Петрович<br/>3. Емельянов Евгений Иванович<br/>3. Осинников Михаил Анатольевич                                                                                                                                       |                           |
 
 [vk7516]: https://vk.com/wall-4085345_7516
 
@@ -43,3 +45,65 @@
 [vk7241]: https://vk.com/wall-4085345_7241
 
 [vk7241_arch]: https://archive.md/0kILk
+
+[slob_site]: https://slobkoll.ru/news/1121/66/sluzhi-po-kontraktu-v-vojskah-bespilotnyh-sistem/
+
+[slob_site_archive]: https://web.archive.org/web/20260526190750/https://slobkoll.ru/news/1121/66/sluzhi-po-kontraktu-v-vojskah-bespilotnyh-sistem/
+
+[slob_leaflet]: https://slobkoll.ru/uploads/pdf/general_news_liflet_vbs.pdf
+
+[slob_leaflet_archive]: http://web.archive.org/web/20260525213127/https://slobkoll.ru/uploads/pdf/general_news_liflet_vbs.pdf
+
+[slob_presentation]: https://slobkoll.ru/uploads/pdf/general_news_urok_vbs.pdf
+
+[slob_presentation_archive]: https://web.archive.org/web/20260526190004/https://slobkoll.ru/uploads/pdf/general_news_urok_vbs.pdf
+
+[slob_vk1]: https://vk.com/wall-24316094_11780
+
+[slob_vk1_archive]: https://archive.md/b5oIa
+
+[slob_vk2]: https://vk.com/wall-24316094_11633
+
+[slob_vk2_archive]: https://archive.md/Pz3kT
+
+[slob_vk3]: https://vk.com/wall-24316094_11502
+
+[slob_vk3_archive]: https://archive.md/s4HXC
+
+[slob_vk4]: https://vk.com/wall-24316094_11481
+
+[slob_vk4_archive]: https://archive.md/TKHnF
+
+[slob_vk5]: https://vk.com/wall-24316094_11466
+
+[slob_vk5_archive]: https://archive.md/UbUfE
+
+[slob_vk6]: https://vk.com/wall-24316094_11458
+
+[slob_vk6_archive]: https://archive.md/CTRVQ
+
+[slob_vk7]: https://vk.com/wall-24316094_11447
+
+[slob_vk7_archive]: https://archive.md/Vezgl
+
+[slob_vk8]: https://vk.com/wall-24316094_11440
+
+[slob_vk8_archive]: https://archive.md/OFR7P
+
+[slob_vk9]: https://vk.com/wall-217910211_183
+
+[slob_vk9_archive]: https://archive.md/tdbLf
+
+[sherentsova_profile]: https://slobkoll.ru/uploads/2023/sostav/dir.pdf
+
+[lyalina_vk]: https://vk.com/id429989122
+
+[lyalina_mention]: https://archive.md/683fX
+
+[zonov_vk]: https://vk.com/z_fara
+
+[zonov_site]: https://позывнойфара.рф/
+
+[zonov_tg]: https://t.me/fara_zov
+
+[zonov_mail]: mailto:direct@позывнойфара.рф

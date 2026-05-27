@@ -29,14 +29,21 @@
 
 # Республика Коми
 
-| Город   | Колледж, техникум                                      | Ссылки                                          | Копии                                                     | Ответственные лица                                                                                                                                                                                                                          | Структурные подразделения |
-| ------- | ------------------------------------------------------ | ----------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Воркута | Воркутинский арктический горно-политехнический колледж | [сайт 1][vagpk11_81]<br/>[сайт 2][vagpk11_educ] | [сайт 1][vagpk11_81_arch]<br/>[сайт 2][vagpk11_educ_arch] | 1. Волок Валентина Борисовна ([@][vagpk11_volok])                                                                                                                                                                                           |                           |
-| Усинск  | Усинский политехнический техникум                      | [вконтакте][o5a88]                              | [вконтакте][p6b99]                                        | 1. [Рубан Олег Васильевич][q7c11]<br/>2. Адиуллина Олеся ([vk][r8d22])<br/>2. Стародубцева Полина ([vk][s9e33])<br/>2. [Билык Анна Сергеевна][t1f44] ([vk][u2a55])<br/>3. Тодарук Виталий Дмитриевич<br/>3. Севостьянов Александр Сергеевич |                           |
+| Город      | Колледж, техникум                                                            | Ссылки                                                                                                                      | Копии                                                                                                                                                                       | Ответственные лица                                                                                                                                                                                                                          | Структурные подразделения |
+| ---------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Воркута    | Воркутинский арктический горно-политехнический колледж                       | [сайт 1][vagpk11_81]<br/>[сайт 2][vagpk11_educ]                                                                             | [сайт 1][vagpk11_81_arch]<br/>[сайт 2][vagpk11_educ_arch]                                                                                                                   | 1. Волок Валентина Борисовна ([@][vagpk11_volok])                                                                                                                                                                                           |                           |
+| Печора     | Печорский промышленно-экономический техникум                                 | [документ][ppet_pdf]<br/>[вк 1][ppet_vk1]<br/>[вк 2][ppet_vk2]                                                              | [документ][ppet_pdf_archive]<br/>[вк 1][ppet_vk1_archive]<br/>[вк 2][ppet_vk2_archive]                                                                                      | 1. Паншина Наталья Николаевна ([профиль][panshina_profile])                                                                                                                                                                                 |                           |
+| Сосногорск | Сосногорский технологический техникум                                        | [сайт 1][stt_site1]<br/>[сайт 2][stt_site2]<br/>[вк 1][stt_vk1]<br/>[вк 2][stt_vk2]<br/>[вк 3][stt_vk3]<br/>[вк 4][stt_vk4] | [сайт 1][stt_site1_archive]<br/>[сайт 2][stt_site2_archive]<br/>[вк 1][stt_vk1_archive]<br/>[вк 2][stt_vk2_archive]<br/>[вк 3][stt_vk3_archive]<br/>[вк 4][stt_vk4_archive] | 1. Ушакова Ирина Васильевна ([профиль][ushakova_profile])<br/>3. Захарчук О. И.<br/>3. Латкин Н. Н.<br/>3. Иванов А. С.                                                                                                                     |                           |
+| Усинск     | Усинский политехнический техникум                                            | [вк 1][o5a88]<br/>[вк 2][upt_vk2]                                                                                           | [вк 1][p6b99]<br/>[вк 2][upt_vk2_a]                                                                                                                                         | 1. [Рубан Олег Васильевич][q7c11]<br/>2. Адиуллина Олеся ([vk][r8d22])<br/>2. Стародубцева Полина ([vk][s9e33])<br/>2. [Билык Анна Сергеевна][t1f44] ([vk][u2a55])<br/>3. Тодарук Виталий Дмитриевич<br/>3. Севостьянов Александр Сергеевич |                           |
+| Ухта       | Горно-нефтяной колледж Ухтинского государственного технического университета | [вк 1][gnk_vk1]<br/>[вк 2][gnk_vk2]<br/>[вк 3][gnk_vk3]<br/>[вк 4][gnk_vk4]                                                 | [вк 1][gnk_vk1_archive]<br/>[вк 2][gnk_vk2_archive]<br/>[вк 3][gnk_vk3_archive]<br/>[вк 4][gnk_vk4_archive]                                                                 | 1. Полишвайко Денис Владимирович ([@][polishvajko_mail])<br/>2. Рассошных Ольга Юрьевна ([vk][rassoshnykh_vk])                                                                                                                              |                           |
 
 [o5a88]: https://vk.com/wall-152801880_12271
 
 [p6b99]: https://archive.md/63KYi
+
+[upt_vk2]: https://vk.com/wall-127735716_18089
+
+[upt_vk2_a]: https://archive.md/HnQfe
 
 [q7c11]: https://upt-11.gosuslugi.ru/o-nas/sotrudniki/ruban-oleg-vasilevich.html
 
@@ -57,3 +64,63 @@
 [vagpk11_educ_arch]: https://web.archive.org/web/20260426224442/https://vagpk11.gosuslugi.ru/tsentr-karery/vypuskniku/kuda-poyti-uchitsya/
 
 [vagpk11_volok]: https://vagpk11.gosuslugi.ru/o-nas/sotrudniki/volok-valentina-borisovna.html
+
+[ppet_pdf]: https://tech-ppet-r11.gosweb.gosuslugi.ru/netcat_files/22/4/Informatsiya_dlya_dovedeniya_dlya_VUS_SUZ_.pdf
+
+[ppet_pdf_archive]: https://web.archive.org/web/20260506212016/https://tech-ppet-r11.gosweb.gosuslugi.ru/netcat_files/22/4/Informatsiya_dlya_dovedeniya_dlya_VUS_SUZ_.pdf
+
+[ppet_vk1]: https://vk.com/wall-52282016_12020
+
+[ppet_vk1_archive]: https://archive.md/tZumW
+
+[ppet_vk2]: https://vk.com/wall-52282016_12016
+
+[ppet_vk2_archive]: https://archive.md/zcNqp
+
+[panshina_profile]: https://tech-ppet-r11.gosweb.gosuslugi.ru/o-nas/sotrudniki/panshina-natalya-nikolaevna.html
+
+[stt_site1]: https://stt-komi.gosuslugi.ru/novosti-i-sobytiya/nashi-gosti-.html
+
+[stt_site1_archive]: https://web.archive.org/web/20260527152956/https://stt-komi.gosuslugi.ru/novosti-i-sobytiya/nashi-gosti-.html
+
+[stt_site2]: https://stt-komi.gosuslugi.ru/novosti-i-sobytiya/buduschim-vypusknikam.html
+
+[stt_site2_archive]: https://web.archive.org/web/20260527152959/https://stt-komi.gosuslugi.ru/novosti-i-sobytiya/buduschim-vypusknikam.html
+
+[stt_vk1]: https://vk.com/wall-146424901_3128
+
+[stt_vk1_archive]: https://archive.md/1hmjQ
+
+[stt_vk2]: https://vk.com/wall-146424901_3025
+
+[stt_vk2_archive]: https://archive.md/4pllV
+
+[stt_vk3]: https://vk.com/wall-146424901_2958
+
+[stt_vk3_archive]: https://archive.md/UIFbk
+
+[stt_vk4]: https://vk.com/wall-174918845_39906
+
+[stt_vk4_archive]: https://archive.md/cxcMp
+
+[ushakova_profile]: https://stt-komi.gosuslugi.ru/o-nas/sotrudniki/ushakova-irina-vasilevna.html
+
+[gnk_vk1]: https://vk.com/wall-174918845_39867
+
+[gnk_vk1_archive]: https://archive.md/TLizV
+
+[gnk_vk2]: https://vk.com/wall-174918845_39805
+
+[gnk_vk2_archive]: https://archive.md/aKBPn
+
+[gnk_vk3]: https://vk.com/wall-202513492_4331
+
+[gnk_vk3_archive]: https://archive.md/AT5X9
+
+[gnk_vk4]: https://vk.com/wall-202513492_4308
+
+[gnk_vk4_archive]: https://archive.md/CZpZx
+
+[polishvajko_mail]: mailto:dpolishvajko@ugtu.net
+
+[rassoshnykh_vk]: https://vk.com/id58146023
