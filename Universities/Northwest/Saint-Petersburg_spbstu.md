@@ -47,4 +47,4 @@
 
 [popovich_profile]: https://immit.spbstu.ru/person/popovich_anatoliy_anatolevich/
 
-[popovich_email]: popovich_aa@spbstu.ru
+[popovich_email]: mailto:popovich_aa@spbstu.ru
