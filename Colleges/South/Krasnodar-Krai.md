@@ -29,13 +29,15 @@
 
 # Краснодарский край
 
-| Город        | Колледж, техникум                                        | Ссылки                                                                                                                                                                 | Копии                                                                                                                                                                                           | Ответственные лица                                                                                                                                                                                         | Структурные подразделения |
-| ------------ | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Горячий Ключ | Горячеключевской медицинский колледж                     | [вконтакте 1][e2c11]<br/>[вконтакте 2][f4d66]                                                                                                                          | [вконтакте 1][g5e77]<br/>[вконтакте 2][h6f88]                                                                                                                                                   | 1. Ремизов Игорь Викторович                                                                                                                                                                                |                           |
-| Горячий Ключ | Горячеключевской технологический техникум                | [вконтакте][i7a22]                                                                                                                                                     | [вконтакте][j8b33]                                                                                                                                                                              | 1. Хабарова Татьяна Васильевна                                                                                                                                                                             |                           |
-| Новороссийск | Новороссийский музыкальный колледж им. Д. Д. Шостаковича | [вконтакте][nmk_vk]                                                                                                                                                    | [вконтакте][nmk_archive]                                                                                                                                                                        | 1. Ниривняя Галина Геннадьевна ([vk][nirivnaya_vk])<br/>3. Ермакова Людмила Васильевна ([vk][ermakova_vk])<br/>3. Погосова Татьяна Владимировна ([vk][pogosova_vk])<br/>3. Пехова Дарья ([vk][pekhova_vk]) |                           |
-| Туапсе       | Туапсинский гидрометеорологический техникум              | [сайт][tuapse_gmt_website]<br/>[вконтакте 1][tuapse_gmt_2097]<br/>[вконтакте 2][tuapse_gmt_2040]<br/>[вконтакте 3][tuapse_gmt_1997]<br/>[вконтакте 4][tuapse_gmt_1993] | [сайт][tuapse_gmt_website_arch]<br/>[вконтакте 1][tuapse_gmt_2097_arch]<br/>[вконтакте 2][tuapse_gmt_2040_arch]<br/>[вконтакте 3][tuapse_gmt_1997_arch]<br/>[вконтакте 4][tuapse_gmt_1993_arch] | 1. Яйли Дмитрий Ервантович ([vk][yayli_vk], [диссернет][dissernet_yayli], [профиль][yayli_site])<br/>2. Жигайлова Инна Игоревна ([vk][zhigaylova_vk], [профиль][zhigaylova_site])                                            |                           |
-| Туапсе       | Туапсинский социально-педагогический колледж             | [вконтакте 1][tspk_3452]<br/>[вконтакте 2][tspk_3383]<br/>[вконтакте 3][tspk_3352]<br/>[вконтакте 4][tspk_3344]                                                        | [вконтакте 1][tspk_3452_arch]<br/>[вконтакте 2][tspk_3383_arch]<br/>[вконтакте 3][tspk_3352_arch]<br/>[вконтакте 4][tspk_3344_arch]                                                             | 1. Синихина Виктория Павловна ([профиль][sinihina_site])<br/>2. Володин Андрей ([vk][volodin_vk])                                                                                                                    |                           |
+| Город        | Колледж, техникум                                        | Ссылки                                                                                                                                                                 | Копии                                                                                                                                                                                           | Ответственные лица                                                                                                                                                                                                                                                                                       | Структурные подразделения |
+| ------------ | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Горячий Ключ | Горячеключевской медицинский колледж                     | [вконтакте 1][e2c11]<br/>[вконтакте 2][f4d66]                                                                                                                          | [вконтакте 1][g5e77]<br/>[вконтакте 2][h6f88]                                                                                                                                                   | 1. Ремизов Игорь Викторович                                                                                                                                                                                                                                                                              |                           |
+| Горячий Ключ | Горячеключевской технологический техникум                | [вконтакте][i7a22]                                                                                                                                                     | [вконтакте][j8b33]                                                                                                                                                                              | 1. Хабарова Татьяна Васильевна                                                                                                                                                                                                                                                                           |                           |
+| Ейск         | Ейский медицинский колледж                               | [сайт][emk_site1]<br/>[вконтакте 1][emk_vk1]<br/>[вконтакте 2][emk_vk2]<br/>[вконтакте 3][emk_vk3]<br/>[вконтакте 4][emk_vk4]                                          | [сайт][emk_site1_archive]<br/>[вконтакте 1][emk_vk1_archive]<br/>[вконтакте 2][emk_vk2_archive]<br/>[вконтакте 3][emk_vk3_archive]<br/>[вконтакте 4][emk_vk4_archive]                           | 1. Дорошенко Валерий Аркадьевич ([vk][doroshenko_vk], [профиль][doroshenko_profile])<br/>2. Сердюк Эдуард Сергеевич ([tg][serdyuk_tg], [vk][serdyuk_vk], [профиль][serdyuk_profile])<br/>2. Сергиенко Евгений Геннадьевич ([vk][sergienko_vk], [@][sergienko_mail])<br/>3. Литвинов Александр Викторович |                           |
+| Ейск         | Ейский полипрофильный колледж                            | [вконтакте 1][eisk_vk1]<br/>[вконтакте 2][eisk_vk2]<br/>[вконтакте 3][eisk_vk3]<br/>[вконтакте 4][eisk_vk4]<br/>[вконтакте 5][eisk_vk5]                                | [вконтакте 1][eisk_vk1_archive]<br/>[вконтакте 2][eisk_vk2_archive]<br/>[вконтакте 3][eisk_vk3_archive]<br/>[вконтакте 4][eisk_vk4_archive]<br/>[вконтакте 5][eisk_vk5_archive]                 | 1. Матузкова Наталья Геннадьевна ([профиль][eisk_matuzkova])<br/>2. Корж Сергей ([vk][eisk_korzh_vk])<br/>3. Ефременко Александр Александрович                                                                                                                                                           |                           |
+| Новороссийск | Новороссийский музыкальный колледж им. Д. Д. Шостаковича | [вконтакте][nmk_vk]                                                                                                                                                    | [вконтакте][nmk_archive]                                                                                                                                                                        | 1. Ниривняя Галина Геннадьевна ([vk][nirivnaya_vk])<br/>3. Ермакова Людмила Васильевна ([vk][ermakova_vk])<br/>3. Погосова Татьяна Владимировна ([vk][pogosova_vk])<br/>3. Пехова Дарья ([vk][pekhova_vk])                                                                                               |                           |
+| Туапсе       | Туапсинский гидрометеорологический техникум              | [сайт][tuapse_gmt_website]<br/>[вконтакте 1][tuapse_gmt_2097]<br/>[вконтакте 2][tuapse_gmt_2040]<br/>[вконтакте 3][tuapse_gmt_1997]<br/>[вконтакте 4][tuapse_gmt_1993] | [сайт][tuapse_gmt_website_arch]<br/>[вконтакте 1][tuapse_gmt_2097_arch]<br/>[вконтакте 2][tuapse_gmt_2040_arch]<br/>[вконтакте 3][tuapse_gmt_1997_arch]<br/>[вконтакте 4][tuapse_gmt_1993_arch] | 1. Яйли Дмитрий Ервантович ([vk][yayli_vk], [диссернет][dissernet_yayli], [профиль][yayli_site])<br/>2. Жигайлова Инна Игоревна ([vk][zhigaylova_vk], [профиль][zhigaylova_site])                                                                                                                        |                           |
+| Туапсе       | Туапсинский социально-педагогический колледж             | [вконтакте 1][tspk_3452]<br/>[вконтакте 2][tspk_3383]<br/>[вконтакте 3][tspk_3352]<br/>[вконтакте 4][tspk_3344]                                                        | [вконтакте 1][tspk_3452_arch]<br/>[вконтакте 2][tspk_3383_arch]<br/>[вконтакте 3][tspk_3352_arch]<br/>[вконтакте 4][tspk_3344_arch]                                                             | 1. Синихина Виктория Павловна ([профиль][sinihina_site])<br/>2. Володин Андрей ([vk][volodin_vk])                                                                                                                                                                                                        |                           |
 
 [yayli_site]: https://tuapsegmt.gosuslugi.ru/o-nas/sotrudniki/yayli-dmitriy-ervantovich.html
 
@@ -110,3 +112,61 @@
 [dissernet_yayli]: https://dissernet.org/person/AjliDE
 
 [zhigaylova_vk]: https://vk.com/id23453847
+
+[eisk_vk1]: https://vk.com/wall-1382156_17761
+
+[eisk_vk1_archive]: https://archive.md/2r9ib
+
+[eisk_vk2]: https://vk.com/wall-1382156_17366
+
+[eisk_vk2_archive]: https://archive.md/b8PsM
+
+[eisk_vk3]: https://vk.com/wall-1382156_17273
+
+[eisk_vk3_archive]: https://archive.md/DRtTw
+
+[eisk_vk4]: https://vk.com/wall-1382156_17247
+
+[eisk_vk4_archive]: https://megalodon.jp/2026-0531-0750-50/https://vk.com:443/wall-1382156_17247
+
+[eisk_vk5]: https://vk.com/wall-1382156_16981
+
+[eisk_vk5_archive]: https://archive.md/lwMy1
+
+[eisk_matuzkova]: https://college-eisk.gosuslugi.ru/svedeniya-ob-organizatsii/rukovodstvo/sidorenko-elena-grigorevna.html
+
+[eisk_korzh_vk]: https://vk.com/wisher717
+
+[emk_site1]: https://emk1935.gosuslugi.ru/novosti-i-sobytiya/vstrecha-s-predstavitelyami-voennogo-komissariata.html
+
+[emk_site1_archive]: https://web.archive.org/web/20260530224424/https://emk1935.gosuslugi.ru/novosti-i-sobytiya/vstrecha-s-predstavitelyami-voennogo-komissariata.html
+
+[emk_vk1]: https://vk.com/wall-179863230_9417
+
+[emk_vk1_archive]: https://archive.md/tQjbt
+
+[emk_vk2]: https://vk.com/wall-179863230_4765
+
+[emk_vk2_archive]: https://archive.md/OoOkZ
+
+[emk_vk3]: https://vk.com/wall-179863230_4731
+
+[emk_vk3_archive]: https://archive.md/g97Mq
+
+[emk_vk4]: https://vk.com/wall-179863230_4701
+
+[emk_vk4_archive]: https://archive.md/qflOj
+
+[doroshenko_vk]: https://vk.com/id17782452
+
+[doroshenko_profile]: https://emk1935.gosuslugi.ru/svedeniya-ob-organizatsii/rukovodstvo/doroshenko-valeriy-arkadevich.html
+
+[serdyuk_tg]: https://t.me/ed_serdyuk
+
+[serdyuk_vk]: https://vk.com/ed.serdyuk
+
+[serdyuk_profile]: https://web.archive.org/web/20260530225526/https://emk1935.gosuslugi.ru/svedeniya-ob-organizatsii/rukovodstvo/elena-igorevna-zhidko-2.html
+
+[sergienko_vk]: https://vk.com/id273246285
+
+[sergienko_mail]: mailto:1985seg@rambler.ru
