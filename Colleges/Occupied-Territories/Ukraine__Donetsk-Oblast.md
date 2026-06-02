@@ -42,6 +42,9 @@
 | Макеевка   | Макеевский техникум коммунального хозяйства и быта                                                                                   | [вк][makeevka_kkh_vk]                                                                   | [вк][makeevka_kkh_vk_archive]                                                                                           | 1. Хасанов Анвар Нургалиевич<br/>2. Чалкина Людмила Игоревна ([vk][chalkina_vk])                                                                                                                                                                                                                                         |                           |
 | Макеевка   | Макеевский транспортно-технологический колледж                                                                                       | [сайт 1][mttk_site1]<br/>[сайт 2][mttk_site2]<br/>[вк 1][mttk_vk1]<br/>[вк 2][mttk_vk2] | [сайт 1][mttk_site1_archive]<br/>[сайт 2][mttk_site2_archive]<br/>[вк 1][mttk_vk1_archive]<br/>[вк 2][mttk_vk2_archive] | 1. Бондаренко Светлана Анатольевна ([профиль][bondarenko_profile])<br/>2. Серховец Наталья ([vk][serkhovets_vk])                                                                                                                                                                                                         |                           |
 | Мариуполь  | Мариупольский металлургический профильный техникум им. И. А. Лута                                                                    | [вк 1][mariupol_lut_vk1]<br/>[вк 2][mariupol_lut_vk2]                                   | [вк 1][mariupol_lut_vk1_archive]<br/>[вк 2][mariupol_lut_vk2_archive]                                                   | 1. Мудрова Елена Валерьевна<br/>2. Коренева Ирина Викторовна ([vk][koreneva_vk])                                                                                                                                                                                                                                         |                           |
+| Мариуполь  | Мариупольский промышленно-технологический техникум                                                                                   | [сайт][mptt_site1]<br/>[вк 1][mptt_vk1]<br/>[вк 2][mptt_vk2]                            | [сайт][mptt_site1_archive]<br/>[вк 1][mptt_vk1_archive]<br/>[вк 2][mptt_vk2_archive]                                    | 1. Пичкур Светлана Александровна<br/>2. Абальмаз Сергей Сергеевич ([vk][mptt_abalmaz_vk], [упоминание][mptt_abalmaz_mention_archive])                                                                                                                                                                                    |                           |
+| Мариуполь  | Мариупольский строительный профильный колледж                                                                                        | [вк][mspk_vk1]                                                                          | [вк][mspk_vk1_archive]                                                                                                  | 1. Гирейко Александр Владимирович ([профиль][mspk_gireyko_profile], [@][mspk_gireyko_mail], [vk][mspk_gireyko_vk])<br/>2. Березовская Елена ([vk][mspk_berezovskaya_vk])<br/>2. Серикова Елена ([vk][mspk_serikova_vk])                                                                                                  |                           |
+| Мариуполь  | Мариупольский техникум отраслевых технологий                                                                                         | [вк][mtot_vk1]                                                                          | [вк][mtot_vk1_archive]                                                                                                  | 1. Яковлева Лилия Викторовна ([профиль][mtot_yakovleva_profile])<br/>2. Ротмистрова Ольга Сергеевна ([профиль][mtot_rotmistrova_profile])<br/>2. Андреева Яна Ивановна ([профиль][mtot_andreeva_profile])                                                                                                                |                           |
 | Мариуполь  | Мариупольский электромеханический колледж                                                                                            | [вк][memk_vk]                                                                           | [вк][memk_vk_archive]                                                                                                   | 1. Пигарева Галина Павловна<br/>2. Корнеева Светлана Владимировна ([vk][korneeva_vk])<br/>3. Дубровский Андрей Борисович                                                                                                                                                                                                 |                           |
 | Новоазовск | Новоазовский индустриальный техникум                                                                                                 | [вк][novoazovsk_ind_vk]                                                                 | [вк][novoazovsk_ind_vk_archive]                                                                                         | 1. Кузубов Алексей Григорьевич ([vk][kuzubov_vk])<br/>2. Демченко Татьяна Олеговна ([vk][demchenko_vk])                                                                                                                                                                                                                  |                           |
 | Чистяково  | Торезский индустриальный техникум им. А. Ф. Засядько                                                                                 | [сайт][torez_ind_site]                                                                  | [сайт][torez_ind_site_archive]                                                                                          | 1. Богачев Сергей Николаевич ([@][bogachev_mail], [профиль][bogachev_profile], [vk][bogachev_vk])<br/>3. Кучеренко Ярослав Олегович<br/>3. Свеженцев Даниил Вячеславович                                                                                                                                                 |                           |
@@ -193,3 +196,43 @@
 [bondarenko_profile]: https://college-mttk-r897.gosweb.gosuslugi.ru/o-nas/sotrudniki/bondarenko-svetlana-anatolevna.html
 
 [serkhovets_vk]: https://vk.com/id299043898
+
+[mptt_site1]: https://mptt52.siteedu.ru/news/proforientatsiya-78/
+
+[mptt_site1_archive]: https://web.archive.org/web/20260531212758/https://mptt52.siteedu.ru/news/proforientatsiya-78/
+
+[mptt_vk1]: https://vk.com/wall-219869385_1239
+
+[mptt_vk1_archive]: https://archive.md/WHsKO
+
+[mptt_vk2]: https://vk.com/wall-219869385_1004
+
+[mptt_vk2_archive]: https://archive.md/DJzyk
+
+[mptt_abalmaz_vk]: https://vk.com/s_e_r_e_j_aa
+
+[mptt_abalmaz_mention_archive]: https://web.archive.org/web/20260531193511/https://media.siteedu.ru/sub/3476/documents/scan_01.pdf
+
+[mspk_vk1]: https://vk.com/wall-217771679_1553
+
+[mspk_vk1_archive]: https://archive.md/u5yoq
+
+[mspk_gireyko_profile]: https://gbpou-mspk.gosuslugi.ru/o-nas/sotrudniki/gireyko-alexandr-vladimirovich.html
+
+[mspk_gireyko_mail]: mailto:gere.ru@rambler.ru
+
+[mspk_gireyko_vk]: https://vk.com/id770613860
+
+[mspk_berezovskaya_vk]: https://vk.com/id8096747
+
+[mspk_serikova_vk]: https://vk.com/id132981079
+
+[mtot_vk1]: https://vk.com/wall-219763437_743
+
+[mtot_vk1_archive]: https://archive.md/qOb07
+
+[mtot_yakovleva_profile]: https://tech-mtot-r897.gosweb.gosuslugi.ru/o-nas/sotrudniki/yakovleva-liliya-viktorovna.html
+
+[mtot_rotmistrova_profile]: https://tech-mtot-r897.gosweb.gosuslugi.ru/o-nas/sotrudniki/rotmistrova-olga-sergeevna.html
+
+[mtot_andreeva_profile]: https://tech-mtot-r897.gosweb.gosuslugi.ru/o-nas/sotrudniki/andreeva-yana-ivanovna.html
