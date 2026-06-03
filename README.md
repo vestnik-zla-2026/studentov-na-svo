@@ -196,11 +196,11 @@
 
 ## Оккупированные территории Украины
 
-| Регион                     | Учебные заведения                                                                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Автономная Республика Крым | [университеты](Universities/Occupied-Territories/Ukraine__Crimea.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Crimea.md)                 |
-| Донецкая область           | [университеты](Universities/Occupied-Territories/Ukraine__Donetsk-Oblast.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Donetsk-Oblast.md) |
-| Запорожская область        | [университеты](Universities/Occupied-Territories/Ukraine__Zaporizhzhia-Oblast.md)                                                                  |
-| Луганская область          | [университеты](Universities/Occupied-Territories/Ukraine__Luhansk-Oblast.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Luhansk-Oblast.md) |
-| Херсонская область         | [университеты](Universities/Occupied-Territories/Ukraine__Kherson-Oblast.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Kherson-Oblast.md) |
-| Севастополь                | [университеты](Universities/Occupied-Territories/Ukraine__Sevastopol.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Sevastopol.md)         |
+| Регион                     | Учебные заведения                                                                                                                                            |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Автономная Республика Крым | [университеты](Universities/Occupied-Territories/Ukraine__Crimea.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Crimea.md)                           |
+| Донецкая область           | [университеты](Universities/Occupied-Territories/Ukraine__Donetsk-Oblast.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Donetsk-Oblast.md)           |
+| Запорожская область        | [университеты](Universities/Occupied-Territories/Ukraine__Zaporizhzhia-Oblast.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Zaporizhzhia-Oblast.md) |
+| Луганская область          | [университеты](Universities/Occupied-Territories/Ukraine__Luhansk-Oblast.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Luhansk-Oblast.md)           |
+| Херсонская область         | [университеты](Universities/Occupied-Territories/Ukraine__Kherson-Oblast.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Kherson-Oblast.md)           |
+| Севастополь                | [университеты](Universities/Occupied-Territories/Ukraine__Sevastopol.md), [колледжи](Colleges/Occupied-Territories/Ukraine__Sevastopol.md)                   |
