@@ -29,19 +29,26 @@
 
 # Луганская область (оккупированная территория Украины)
 
-| Город          | Колледж, техникум                                                                       | Ссылки                                                                                                                      | Копии                                                                                                                                                                       | Ответственные лица                                                                                                                                                                                                                                                                                 | Структурные подразделения |
-| -------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Алчевск        | Алчевский политехнический колледж                                                       | [вк][apk_vk1]                                                                                                               | [вк][apk_vk1_archive]                                                                                                                                                       | 1. Чепурнов Виталий Михайлович<br/>2. Стасенко Ольга ([vk][apk_stasenko_vk])<br/>2. Куницкая Анна Андреевна ([vk][apk_kunitskaya_vk])<br/>2. Мамонова Ольга Викторовна ([vk][apk_mamonova_vk])                                                                                                     |                           |
-| Антрацит       | Антрацитовский колледж автомобильного транспорта                                        | [вк][akat_vk1]                                                                                                              | [вк][akat_vk1_archive]                                                                                                                                                      | 1. Щербина Геннадий Викторович<br/>2. Мальцева Ольга А. ([vk][akat_maltseva_vk])<br/>3. Шейко О. С.                                                                                                                                                                                                |                           |
-| Брянка         | Брянковский колледж                                                                     | [вк 1][bk_vk1]<br/>[вк 2][bk_vk2]<br/>[вк 3][bk_vk3]                                                                        | [вк 1][bk_vk1_archive]<br/>[вк 2][bk_vk2_archive]<br/>[вк 3][bk_vk3_archive]                                                                                                | 1. Белых Олег Викторович ([профиль][bk_belykh_profile], [vk][bk_belykh_vk])<br/>2. Лебедев Владимир ([vk][bk_lebedev_vk])<br/>2. Хисматулина Анастасия ([vk][bk_khismatulina_vk])                                                                                                                  |                           |
-| Брянка         | Брянковский колледж (филиал) Луганского государственного педагогического университета   | [вк][bk_lgpu_vk1]                                                                                                           | [вк][bk_lgpu_vk1_archive]                                                                                                                                                   | 1. Миронюк Сергей Леонидович ([@][bk_lgpu_mironuk_mail])                                                                                                                                                                                                                                           |                           |
-| Голубовка      | Кировский транспортный техникум                                                         | [вк][kt_vk1]                                                                                                                | [вк][kt_vk1_archive]                                                                                                                                                        | 1. Кузьминская Екатерина Евгеньевна ([профиль][kt_kuzminska_profile])<br/>2. Кирейчик Артём ([vk][kt_kireychik_vk])<br/>3. Постельный Иван Андреевич<br/>3. Бурый А. В.                                                                                                                            |                           |
-| Северскодонецк | Колледж Северодонецкого технологического института                                      | [вк 1][wall_764]<br/>[вк 2][wall_642]                                                                                       | [вк 1][wall_764_archive]<br/>[вк 2][wall_642_archive]                                                                                                                       | 1. Лескин Владимир Николаевич<br/>3. Шкурат Виталий Викторович                                                                                                                                                                                                                                     |                           |
-| Северскодонецк | Северодонецкий торгово-кулинарный колледж                                               | [вк 1][stkk_vk1]<br/>[вк 2][stkk_vk2]<br/>[вк 3][stkk_vk3]<br/>[вк 4][stkk_vk4]<br/>[вк 5][stkk_vk5]                        | [вк 1][stkk_vk1_archive]<br/>[вк 2][stkk_vk2_archive]<br/>[вк 3][stkk_vk3_archive]<br/>[вк 4][stkk_vk4_archive]<br/>[вк 5][stkk_vk5_archive]                                | 1. Лищишин Николай Владимирович<br/>2. Брагинец Виктория Николаевна ([vk][stkk_braginets_vk])<br/>2. Халявин Сергей ([vk][stkk_khalyavin_vk])                                                                                                                                                      |                           |
-| Старобельск    | Старобельский колледж (филиал) Луганского государственного педагогического университета | [вк][starobelsk_college_vk]                                                                                                 | [вк][starobelsk_college_vk_archive]                                                                                                                                         | 1. Момот Наталья Сергеевна                                                                                                                                                                                                                                                                         |                           |
-| Старобельск    | Старобельский профессиональный колледж                                                  | [вк][starobelsk_prof_vk]                                                                                                    | [вк][starobelsk_prof_vk_archive]                                                                                                                                            | 1. Барков Сергей Николаевич                                                                                                                                                                                                                                                                        |                           |
-| Хрустальный    | Краснолучский горно-промышленный колледж                                                | [сайт][kgpk_site1]<br/>[вк 1][kgpk_vk1]<br/>[вк 2][kgpk_vk2]<br/>[вк 3][kgpk_vk3]<br/>[вк 4][kgpk_vk4]<br/>[вк 5][kgpk_vk5] | [сайт][kgpk_site1_archive]<br/>[вк 1][kgpk_vk1_archive]<br/>[вк 2][kgpk_vk2_archive]<br/>[вк 3][kgpk_vk3_archive]<br/>[вк 4][kgpk_vk4_archive]<br/>[вк 5][kgpk_vk5_archive] | 1. Вертий Александр Анатольевич ([профиль][kgpk_vertiy_profile])<br/>3. Шатунов Борис Борисович ([профиль][kgpk_shatunov_profile])                                                                                                                                                                 |                           |
-| Хрустальный    | Краснолучский колледж технологии строительства и прикладного искусства                  | [вк 1][kktsi_vk1]<br/>[вк 2][kktsi_vk2]                                                                                     | [вк 1][kktsi_vk1_archive]<br/>[вк 2][kktsi_vk2_archive]                                                                                                                     | 1. Родченко Владимир Владимирович<br/>2. Столба Артур Георгиевич ([vk][kktsi_stolba_vk])<br/>2. Золотухина (Демченко) Татьяна Александровна ([vk][kktsi_zolotukhina_vk1], [vk][kktsi_zolotukhina_vk2], [@][kktsi_zolotukhina_mail])<br/>2. Гончарова Виктория Олеговна ([vk][kktsi_goncharova_vk]) |                           |
+| Город          | Колледж, техникум                                                                       | Ссылки                                                                                                                                                     | Копии                                                                                                                                                                                                              | Ответственные лица                                                                                                                                                                                                                                                                                                                       | Структурные подразделения |
+| -------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Алчевск        | Алчевский политехнический колледж                                                       | [вк][apk_vk1]                                                                                                                                              | [вк][apk_vk1_archive]                                                                                                                                                                                              | 1. Чепурнов Виталий Михайлович<br/>2. Стасенко Ольга ([vk][apk_stasenko_vk])<br/>2. Куницкая Анна Андреевна ([vk][apk_kunitskaya_vk])<br/>2. Мамонова Ольга Викторовна ([vk][apk_mamonova_vk])                                                                                                                                           |                           |
+| Антрацит       | Антрацитовский колледж автомобильного транспорта                                        | [вк][akat_vk1]                                                                                                                                             | [вк][akat_vk1_archive]                                                                                                                                                                                             | 1. Щербина Геннадий Викторович<br/>2. Мальцева Ольга А. ([vk][akat_maltseva_vk])<br/>3. Шейко О. С.                                                                                                                                                                                                                                      |                           |
+| Брянка         | Брянковский колледж                                                                     | [вк 1][bk_vk1]<br/>[вк 2][bk_vk2]<br/>[вк 3][bk_vk3]                                                                                                       | [вк 1][bk_vk1_archive]<br/>[вк 2][bk_vk2_archive]<br/>[вк 3][bk_vk3_archive]                                                                                                                                       | 1. Белых Олег Викторович ([профиль][bk_belykh_profile], [vk][bk_belykh_vk])<br/>2. Лебедев Владимир ([vk][bk_lebedev_vk])<br/>2. Хисматулина Анастасия ([vk][bk_khismatulina_vk])                                                                                                                                                        |                           |
+| Брянка         | Брянковский колледж (филиал) Луганского государственного педагогического университета   | [вк][bk_lgpu_vk1]                                                                                                                                          | [вк][bk_lgpu_vk1_archive]                                                                                                                                                                                          | 1. Миронюк Сергей Леонидович ([@][bk_lgpu_mironuk_mail])                                                                                                                                                                                                                                                                                 |                           |
+| Голубовка      | Кировский транспортный техникум                                                         | [вк][kt_vk1]                                                                                                                                               | [вк][kt_vk1_archive]                                                                                                                                                                                               | 1. Кузьминская Екатерина Евгеньевна ([профиль][kt_kuzminska_profile])<br/>2. Кирейчик Артём ([vk][kt_kireychik_vk])<br/>3. Постельный Иван Андреевич<br/>3. Бурый А. В.                                                                                                                                                                  |                           |
+| Луганск        | Луганский архитектурно-строительный колледж им. архитектора А. С. Шеремета              | [вк 1][lask_vk1]<br/>[вк 2][lask_vk2]<br/>[вк 3][lask_vk3]<br/>[вк 4][lask_vk4]<br/>[вк 5][lask_vk5]<br/>[вк 6][lask_vk6]<br/>[вк 7][lask_vk7]             | [вк 1][lask_vk1_archive]<br/>[вк 2][lask_vk2_archive]<br/>[вк 3][lask_vk3_archive]<br/>[вк 4][lask_vk4_archive]<br/>[вк 5][lask_vk5_archive]<br/>[вк 6][lask_vk6_archive]<br/>[вк 7][lask_vk7_archive]             | 1. Меженский Александр Николаевич                                                                                                                                                                                                                                                                                                        |                           |
+| Луганск        | Луганский колледж автосервиса им. А. А. Гизая                                           | [сайт 1][lkag_site1]<br/>[сайт 2][lkag_site2]<br/>[вк 1][lkag_vk1]<br/>[вк 2][lkag_vk2]<br/>[вк 3][lkag_vk3]                                               | [сайт 1][lkag_site1_archive]<br/>[сайт 2][lkag_site2_archive]<br/>[вк 1][lkag_vk1_archive]<br/>[вк 2][lkag_vk2_archive]<br/>[вк 3][lkag_vk3_archive]                                                               | 1. Ткачев Валерий Иванович ([профиль][lkag_tkachev_profile])<br/>2. Безкоровайная Наталья Викторовна ([vk][lkag_bezkorovaynaya_vk], [профиль][lkag_bezkorovaynaya_profile])<br/>2. Савченкова Альбина ([vk][lkag_savchenkova_vk])<br/>3. Черевик А. С.<br/>3. Новиков С. В.                                                              |                           |
+| Луганск        | Луганский колледж информационных технологий и предпринимательства                       | [сайт 1][lkitp_site1]<br/>[сайт 2][lkitp_site2]<br/>[вк 1][lkitp_vk1]<br/>[вк 2][lkitp_vk2]                                                                | [сайт 1][lkitp_site1_archive]<br/>[сайт 2][lkitp_site2_archive]<br/>[вк 1][lkitp_vk1_archive]<br/>[вк 2][lkitp_vk2_archive]                                                                                        | 1. Сорока Марина Павловна ([профиль][lkitp_soroka_profile])                                                                                                                                                                                                                                                                              |                           |
+| Луганск        | Луганский колледж строительства, экономики и права                                      | [вк 1][lksep_vk1]<br/>[вк 2][lksep_vk2]<br/>[вк 3][lksep_vk3]<br/>[вк 4][lksep_vk4]<br/>[вк 5][lksep_vk5]<br/>[вк 6][lksep_vk6]                            | [вк 1][lksep_vk1_archive]<br/>[вк 2][lksep_vk2_archive]<br/>[вк 3][lksep_vk3_archive]<br/>[вк 4][lksep_vk4_archive]<br/>[вк 5][lksep_vk5_archive]<br/>[вк 6][lksep_vk6_archive]                                    | 1. Шийко Наталья Валентиновна<br/>3. Максутова Анастасия Сергеевна ([vk][lksep_maksutova_vk])<br/>3. Черевик<br/>3. Бирюков                                                                                                                                                                                                              |                           |
+| Луганск        | Луганский колледж технологий торговых процессов и кулинарного мастерства                | [вк][lkttpkm_vk1]                                                                                                                                          | [вк][lkttpkm_vk1_archive]                                                                                                                                                                                          | 1. Петрова Елена Валериевна<br/>2. Лелявин Александр Викторович ([vk][lkttpkm_lelyavin_vk], [упоминание][lkttpkm_lelyavin_mention])                                                                                                                                                                                                      |                           |
+| Луганск        | Луганский технологический колледж                                                       | [сайт][ltk_site1]<br/>[вк][ltk_vk1]                                                                                                                        | [сайт][ltk_site1_archive]<br/>[вк][ltk_vk1_archive]                                                                                                                                                                | 1. Димитриев Андрей Степанович ([профиль][ltk_dimitriev_profile])<br/>2. Лосик Оксана Михайловна ([vk][ltk_losik_vk], [@][ltk_losik_mail], [профиль][ltk_losik_profile])<br/>2. Лянная Лилия Павловна ([vk][ltk_lyannaya_vk])<br/>2. Сидорук Оксана Николаевна ([vk][ltk_sidoruk_vk])                                                    |                           |
+| Луганск        | Луганский художественно-промышленный колледж                                            | [сайт 1][lxpk_site1]<br/>[сайт 2][lxpk_site2]<br/>[сайт 3][lxpk_site3]<br/>[вк 1][lxpk_vk1]<br/>[вк 2][lxpk_vk2]<br/>[вк 3][lxpk_vk3]<br/>[вк 4][lxpk_vk4] | [сайт 1][lxpk_site1_archive]<br/>[сайт 2][lxpk_site2_archive]<br/>[сайт 3][lxpk_site3_archive]<br/>[вк 1][lxpk_vk1_archive]<br/>[вк 2][lxpk_vk2_archive]<br/>[вк 3][lxpk_vk3_archive]<br/>[вк 4][lxpk_vk4_archive] | 1. Филатова Людмила Алексеевна ([профиль][lxpk_filatova_profile], [vk][lxpk_filatova_vk], [tg][lxpk_filatova_tg])<br/>2. Титаренко Анна Евгеньевна ([профиль][lxpk_titarenko_profile], [vk][lxpk_titarenko_vk], [tg][lxpk_titarenko_tg], [@][lxpk_titarenko_mail])<br/>3. Постельный Иван Андреевич<br/>3. Нагорский Владислав Романович |                           |
+| Северскодонецк | Колледж Северодонецкого технологического института                                      | [вк 1][wall_764]<br/>[вк 2][wall_642]                                                                                                                      | [вк 1][wall_764_archive]<br/>[вк 2][wall_642_archive]                                                                                                                                                              | 1. Лескин Владимир Николаевич<br/>3. Шкурат Виталий Викторович                                                                                                                                                                                                                                                                           |                           |
+| Северскодонецк | Северодонецкий торгово-кулинарный колледж                                               | [вк 1][stkk_vk1]<br/>[вк 2][stkk_vk2]<br/>[вк 3][stkk_vk3]<br/>[вк 4][stkk_vk4]<br/>[вк 5][stkk_vk5]                                                       | [вк 1][stkk_vk1_archive]<br/>[вк 2][stkk_vk2_archive]<br/>[вк 3][stkk_vk3_archive]<br/>[вк 4][stkk_vk4_archive]<br/>[вк 5][stkk_vk5_archive]                                                                       | 1. Лищишин Николай Владимирович<br/>2. Брагинец Виктория Николаевна ([vk][stkk_braginets_vk])<br/>2. Халявин Сергей ([vk][stkk_khalyavin_vk])                                                                                                                                                                                            |                           |
+| Старобельск    | Старобельский колледж (филиал) Луганского государственного педагогического университета | [вк][starobelsk_college_vk]                                                                                                                                | [вк][starobelsk_college_vk_archive]                                                                                                                                                                                | 1. Момот Наталья Сергеевна                                                                                                                                                                                                                                                                                                               |                           |
+| Старобельск    | Старобельский профессиональный колледж                                                  | [вк][starobelsk_prof_vk]                                                                                                                                   | [вк][starobelsk_prof_vk_archive]                                                                                                                                                                                   | 1. Барков Сергей Николаевич                                                                                                                                                                                                                                                                                                              |                           |
+| Хрустальный    | Краснолучский горно-промышленный колледж                                                | [сайт][kgpk_site1]<br/>[вк 1][kgpk_vk1]<br/>[вк 2][kgpk_vk2]<br/>[вк 3][kgpk_vk3]<br/>[вк 4][kgpk_vk4]<br/>[вк 5][kgpk_vk5]                                | [сайт][kgpk_site1_archive]<br/>[вк 1][kgpk_vk1_archive]<br/>[вк 2][kgpk_vk2_archive]<br/>[вк 3][kgpk_vk3_archive]<br/>[вк 4][kgpk_vk4_archive]<br/>[вк 5][kgpk_vk5_archive]                                        | 1. Вертий Александр Анатольевич ([профиль][kgpk_vertiy_profile])<br/>3. Шатунов Борис Борисович ([профиль][kgpk_shatunov_profile])                                                                                                                                                                                                       |                           |
+| Хрустальный    | Краснолучский колледж технологии строительства и прикладного искусства                  | [вк 1][kktsi_vk1]<br/>[вк 2][kktsi_vk2]                                                                                                                    | [вк 1][kktsi_vk1_archive]<br/>[вк 2][kktsi_vk2_archive]                                                                                                                                                            | 1. Родченко Владимир Владимирович<br/>2. Столба Артур Георгиевич ([vk][kktsi_stolba_vk])<br/>2. Золотухина (Демченко) Татьяна Александровна ([vk][kktsi_zolotukhina_vk1], [vk][kktsi_zolotukhina_vk2], [@][kktsi_zolotukhina_mail])<br/>2. Гончарова Виктория Олеговна ([vk][kktsi_goncharova_vk])                                       |                           |
 
 [wall_764]: https://vk.com/wall-202960113_764
 
@@ -192,3 +199,173 @@
 [stkk_braginets_vk]: https://vk.com/id805223226
 
 [stkk_khalyavin_vk]: https://vk.com/id34644564
+
+[lksep_vk1]: https://vk.com/wall-3785042_17999
+
+[lksep_vk1_archive]: https://archive.md/3OeQN
+
+[lksep_vk2]: https://vk.com/wall-3785042_17874
+
+[lksep_vk2_archive]: https://archive.md/oFs4F
+
+[lksep_vk3]: https://vk.com/wall-3785042_17784
+
+[lksep_vk3_archive]: https://archive.md/sErVt
+
+[lksep_vk4]: https://vk.com/wall-3785042_17773
+
+[lksep_vk4_archive]: https://archive.md/j0qLz
+
+[lksep_vk5]: https://vk.com/wall-3785042_17688
+
+[lksep_vk5_archive]: https://archive.md/MqI0M
+
+[lksep_vk6]: https://vk.com/wall-235437436_8
+
+[lksep_vk6_archive]: https://archive.md/r4pH0
+
+[lksep_maksutova_vk]: https://vk.com/club235437436
+
+[lkttpkm_vk1]: https://vk.com/wall-221408046_1016
+
+[lkttpkm_vk1_archive]: https://archive.md/5YvJC
+
+[lkttpkm_lelyavin_vk]: https://vk.com/id34319964
+
+[lkttpkm_lelyavin_mention]: https://archive.md/iLptc
+
+[ltk_site1]: https://college-ltk-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/sluzhba-v-armii-eto-grazhdanskiy-dolg-kazhdogo-muzhchiny.html
+
+[ltk_site1_archive]: https://web.archive.org/web/20260602213606/https://college-ltk-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/sluzhba-v-armii-eto-grazhdanskiy-dolg-kazhdogo-muzhchiny.html
+
+[ltk_vk1]: https://vk.com/wall-199965218_5047
+
+[ltk_vk1_archive]: https://archive.md/W94b4
+
+[ltk_dimitriev_profile]: https://college-ltk-r181.gosweb.gosuslugi.ru/o-nas/sotrudniki/dimitriev-andrey-stepanovich.html
+
+[ltk_losik_vk]: https://vk.com/id29806259
+
+[ltk_losik_mail]: mailto:losik_ok@mail.ru
+
+[ltk_losik_profile]: https://college-ltk-r181.gosweb.gosuslugi.ru/svedeniya-ob-organizatsii/rukovodstvo/losik-oxana-mihaylovna.html
+
+[ltk_lyannaya_vk]: https://vk.com/id47359627
+
+[ltk_sidoruk_vk]: https://vk.com/id141809369
+
+[lkitp_site1]: https://college-lkitp-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/lektsiya-o-voennoy-sluzhbe-po-kontraktu-v-luganskom-kolledzhe-informatsionnyh-tehnologiy-i-predprinimatelstva.html
+
+[lkitp_site1_archive]: https://web.archive.org/web/20260602213006/https://college-lkitp-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/lektsiya-o-voennoy-sluzhbe-po-kontraktu-v-luganskom-kolledzhe-informatsionnyh-tehnologiy-i-predprinimatelstva.html
+
+[lkitp_site2]: https://college-lkitp-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/news-and-events_440.html
+
+[lkitp_site2_archive]: https://web.archive.org/web/20260602213104/https://college-lkitp-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/news-and-events_440.html
+
+[lkitp_vk1]: https://vk.com/wall-65804908_2248
+
+[lkitp_vk1_archive]: https://archive.md/Xv9LG
+
+[lkitp_vk2]: https://vk.com/wall-65804908_2153
+
+[lkitp_vk2_archive]: https://archive.md/Gd7rS
+
+[lkitp_soroka_profile]: https://web.archive.org/web/20260602213543/https://college-lkitp-r181.gosweb.gosuslugi.ru/o-nas/sotrudniki/familiya-imya-otchestvo-1.html
+
+[lxpk_site1]: https://college-lxpk-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/segodnya-v-nashem-uchebnom-zavedenii-sostoyalas-vstrecha-posvyaschennaya-otboru-na-voennuyu-sluzhbu-po-kontraktu-v-podrazdeleniya-bespilotnyh-sistem.html
+
+[lxpk_site1_archive]: https://web.archive.org/web/20260603121808/https://college-lxpk-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/segodnya-v-nashem-uchebnom-zavedenii-sostoyalas-vstrecha-posvyaschennaya-otboru-na-voennuyu-sluzhbu-po-kontraktu-v-podrazdeleniya-bespilotnyh-sistem.html
+
+[lxpk_site2]: https://college-lxpk-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/12-fevralya-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-1-razryada-g-lugansk.html
+
+[lxpk_site2_archive]: https://web.archive.org/web/20260603121829/https://college-lxpk-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/12-fevralya-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-1-razryada-g-lugansk.html
+
+[lxpk_site3]: https://college-lxpk-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/agitatsionnye-meropriyatiya.html
+
+[lxpk_site3_archive]: https://web.archive.org/web/20260603121841/https://college-lxpk-r181.gosweb.gosuslugi.ru/novosti-i-sobytiya/agitatsionnye-meropriyatiya.html
+
+[lxpk_vk1]: https://vk.com/wall-48286391_3495
+
+[lxpk_vk1_archive]: https://archive.md/Ylc0o
+
+[lxpk_vk2]: https://vk.com/wall-48286391_3365
+
+[lxpk_vk2_archive]: https://archive.md/TRPTg
+
+[lxpk_vk3]: https://vk.com/wall-48286391_3273
+
+[lxpk_vk3_archive]: https://archive.md/2c7YO
+
+[lxpk_vk4]: https://vk.com/wall-48286391_3249
+
+[lxpk_vk4_archive]: https://archive.md/gD8RN
+
+[lxpk_filatova_profile]: https://college-lxpk-r181.gosweb.gosuslugi.ru/o-nas/sotrudniki/filatova-lyudmila-alexeevna.html
+
+[lxpk_filatova_vk]: https://vk.com/id290956464
+
+[lxpk_filatova_tg]: https://t.me/LudmilaFilatova80
+
+[lxpk_titarenko_profile]: https://college-lxpk-r181.gosweb.gosuslugi.ru/o-nas/sotrudniki/titarenko-anna-evgenevna.html
+
+[lxpk_titarenko_vk]: https://vk.com/id105138332
+
+[lxpk_titarenko_tg]: https://t.me/titarenkoanna95
+
+[lxpk_titarenko_mail]: mailto:nyura.titarenko95@mail.ru
+
+[lask_vk1]: https://vk.com/wall-114811720_3865
+
+[lask_vk1_archive]: https://archive.md/j1j12
+
+[lask_vk2]: https://vk.com/wall-114811720_3785
+
+[lask_vk2_archive]: https://archive.md/4OBJC
+
+[lask_vk3]: https://vk.com/wall-114811720_3765
+
+[lask_vk3_archive]: https://archive.md/CNeew
+
+[lask_vk4]: https://vk.com/wall-114811720_3712
+
+[lask_vk4_archive]: https://archive.md/aLQJq
+
+[lask_vk5]: https://vk.com/wall-114811720_3687
+
+[lask_vk5_archive]: https://archive.md/Uwtqj
+
+[lask_vk6]: https://vk.com/wall-114811720_3618
+
+[lask_vk6_archive]: https://archive.md/dA6G9
+
+[lask_vk7]: https://vk.com/wall-114811720_3603
+
+[lask_vk7_archive]: https://archive.md/p62Pt
+
+[lkag_site1]: https://lug-avtoskill.gosuslugi.ru/novosti-i-sobytiya/v-ramkah-patrioticheskogo-vospitaniya-03-marta-2026-goda-v-luganskom-kolledzhe-avtoservisa-imaagizaya-proshla-vstrecha-obuchayuschihsya-s-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-v-voyska-bespilotnyh-sistem.html
+
+[lkag_site1_archive]: https://web.archive.org/web/20260603123355/https://lug-avtoskill.gosuslugi.ru/novosti-i-sobytiya/v-ramkah-patrioticheskogo-vospitaniya-03-marta-2026-goda-v-luganskom-kolledzhe-avtoservisa-imaagizaya-proshla-vstrecha-obuchayuschihsya-s-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-v-voyska-bespilotnyh-sistem.html
+
+[lkag_site2]: https://lug-avtoskill.gosuslugi.ru/novosti-i-sobytiya/predstaviteli-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-1-razryada-g-lugansk-proveli-proforientatsionnuyu-besedu-so-studentami-kolledzha.html
+
+[lkag_site2_archive]: https://web.archive.org/web/20260603123415/https://lug-avtoskill.gosuslugi.ru/novosti-i-sobytiya/predstaviteli-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-1-razryada-g-lugansk-proveli-proforientatsionnuyu-besedu-so-studentami-kolledzha.html
+
+[lkag_vk1]: https://vk.com/wall-107732386_2117
+
+[lkag_vk1_archive]: https://archive.md/7rQXw
+
+[lkag_vk2]: https://vk.com/wall-107732386_2051
+
+[lkag_vk2_archive]: https://archive.md/Ns2tC
+
+[lkag_vk3]: https://vk.com/wall-107732386_1952
+
+[lkag_vk3_archive]: https://archive.md/vJNhP
+
+[lkag_tkachev_profile]: https://lug-avtoskill.gosuslugi.ru/svedeniya-ob-organizatsii/rukovodstvo/tkachev-valeriy-ivanovich.html
+
+[lkag_bezkorovaynaya_vk]: https://vk.com/id8966932
+
+[lkag_bezkorovaynaya_profile]: https://lug-avtoskill.gosuslugi.ru/o-nas/sotrudniki/bezkorovaynaya-natalya-viktorovna.html
+
+[lkag_savchenkova_vk]: https://vk.com/id15703726
