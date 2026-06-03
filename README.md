@@ -90,6 +90,18 @@
 
 * *Максим Кац*. Вербовка студентов: исследование нашей редакции‬: https://www.youtube.com/watch?v=tYEXdcQqZOc.
 
+## Лицензирование / Licensing
+
+**RU:**
+Если не указано иное, все оригинальные тексты, наборы данных, компиляции и структурированные данные в этом репозитории распространяются по лицензии Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Материалы третьих лиц, архивные копии и цитируемый контент остаются под действием соответствующих авторских прав.
+
+**EN:**
+Unless otherwise stated, all original texts, datasets, compilations, and structured data in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Third-party materials, archived copies, and quoted content remain subject to their respective copyrights.
+
 ---
 
 # Регионы России
