@@ -29,12 +29,13 @@
 
 # Свердловская область
 
-| Город        | Университет, институт, филиал                                                                                                                          | Ссылки                                                                                                                     | Копии                                                                                                                                                    | Ответственные лица                                                                                                                                                                                                                                                                             | Структурные подразделения              |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| Екатеринбург | Уральский государственный экономический университет                                                                                                    | [газета][usue_newspaper]<br/>[вк][usue_vk]                                                                                 | [газета][usue_newspaper_archive]<br/>[вк][usue_vk_archive]                                                                                               | 1. Силин Яков Петрович ([@][silin_mail], [диссернет][silin_dissernet], [профиль][silin_profile])<br/>2. Краснов Роман Валерьевич ([@][krasnov_mail], [профиль][krasnov_profile])<br/>2. Берсенёва Е.<br/>3. Кобров Сергей Геннадьевич<br/>3. Каримов Алгис                                     | [институты](Sverdlovsk-Oblast_usue.md) |
-| Екатеринбург | Уральский технический институт связи и информатики (филиал) Сибирского государственного университета телекоммуникаций и информатики в г. Екатеринбурге | [сайт][uisi_bpla]<br/>[вк 1][vk_10525]<br/>[вк 2][vk_10505]<br/>[вк 3][vk_10441]<br/>[вк 4][vk_10397]<br/>[вк 5][vk_10376] | [сайт][uisi_bpla_arch]<br/>[вк 1][vk_10525_arch]<br/>[вк 2][vk_10505_arch]<br/>[вк 3][vk_10441_arch]<br/>[вк 4][vk_10397_arch]<br/>[вк 5][vk_10376_arch] | 1. Минина Елена Александровна ([профиль][minina_elena])<br/>3. Плотникова Екатерина Леонидовна ([@][plotnikova_ekaterina_email], [vk][vk_5650324], [профиль][plotnikova_ekaterina])<br/>3. Каримов Алгис Данилович<br/>3. Пермяков Иван Сергеевич                                                                 |                                        |
-| Екатеринбург | Уральский федеральный университет им. первого Президента России Б. Н. Ельцина                                                                          | [сайт][urfu_site1]                                                                                                         | [сайт][urfu_site1_archive]                                                                                                                               | 1. Обабков Илья Николаевич ([профиль][urfu_obabkov_profile], [профиль ЕР][urfu_obabkov_er])<br/>3. Самохвалов Юрий Павлович ([профиль][urfu_samokhvalov_profile], [@][urfu_samokhvalov_mail])                                                                                                  |                                        |
-| Новоуральск  | Новоуральский технологический институт – филиал Национального исследовательского ядерного университета «МИФИ»                                          | [сайт 1][nti_site1]<br/>[сайт 2][nti_site2]<br/>[вк 1][nti_vk1]<br/>[вк 2][nti_vk2]<br/>[вк 3][nti_vk3]                    | [сайт 1][nti_site1_archive]<br/>[сайт 2][nti_site2_archive]<br/>[вк 1][nti_vk1_archive]<br/>[вк 2][nti_vk2_archive]<br/>[вк 3][nti_vk3_archive]          | 1. Степанов Павел Иванович ([@][stepanov_mail], [vk][stepanov_vk])<br/>3. Кожин Сергей Владимирович<br/>3. Сорокин Антон Сергеевич<br/>3. Кравецкий Даниил Вячеславович<br/>3. Лобов Алексей Владимирович<br/>3. Стариков Дмитрий<br/>3. Бушманов Александр Александрович ([vk][bushmanov_vk]) |                                        |
+| Город        | Университет, институт, филиал                                                                                                                          | Ссылки                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Копии                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Структурные подразделения              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| Екатеринбург | Уральский государственный горный университет                                                                                                           | [сайт 1][ursmu_web1]<br/>[сайт 2][ursmu_web2]<br/>[сайт 3][ursmu_web3]<br/>[сайт 4][ursmu_web4]<br/>[сайт 5][ursmu_web5]<br/>[сайт 6][ursmu_web6]<br/>[сайт 7][ursmu_web7]<br/>[сайт 8][ursmu_web8]<br/>[сайт 9][ursmu_web9]<br/>[сайт 10][ursmu_web10]<br/>[сайт 11][ursmu_web11]<br/>[сайт 12][ursmu_web12]<br/>[сайт 13][ursmu_web13]<br/>[сайт 14][ursmu_web14]<br/>[сайт 15][ursmu_web15]<br/>[сайт 16][ursmu_web16]<br/>[листовка][ursmu_pdf] <br/>[вк 1][ursmu_vk1]<br/>[вк 2][ursmu_vk2]<br/>[вк 3][ursmu_vk3]<br/>[вк 4][ursmu_vk4]<br/>[вк 5][ursmu_vk5] | [сайт 1][ursmu_web1_archive]<br/>[сайт 2][ursmu_web2_archive]<br/>[сайт 3][ursmu_web3_archive]<br/>[сайт 4][ursmu_web4_archive]<br/>[сайт 5][ursmu_web5_archive]<br/>[сайт 6][ursmu_web6_archive]<br/>[сайт 7][ursmu_web7_archive]<br/>[сайт 8][ursmu_web8_archive]<br/>[сайт 9][ursmu_web9_archive]<br/>[сайт 10][ursmu_web10_archive]<br/>[сайт 11][ursmu_web11_archive]<br/>[сайт 12][ursmu_web12_archive]<br/>[сайт 13][ursmu_web13_archive]<br/>[сайт 14][ursmu_web14_archive]<br/>[сайт 15][ursmu_web15_archive]<br/>[сайт 16][ursmu_web16_archive]<br/>[листовка][ursmu_pdf_archive]<br/>[вк 1][ursmu_vk1_archive]<br/>[вк 2][ursmu_vk2_archive]<br/>[вк 3][ursmu_vk3_archive]<br/>[вк 4][ursmu_vk4_archive]<br/>[вк 5][ursmu_vk5_archive] | 1. Батрак Глеб Игоревич ([@][batrak_email], [профиль][batrak_profile])<br/>2. Башкатова Дарья Алексеевна ([vk][bashkatova_vk], [профиль][bashkatova_profile])<br/>2. Зиннатуллина Диляра Ифратовна ([vk][zinnat_vk], [профиль][zinnat_profile])<br/>3. Мануйлов Антон Евгеньевич ([@][manuylov_email], [профиль][manuylov_profile])<br/>3. Белоусов Артём Евгеньевич<br/>3. Иванов Николай ([упоминание][ura_news_mention])<br/>3. Бормотова Алёна ([профиль УРА.РУ][bormotova_profile], [упоминание][ura_news_mention]) |                                        |
+| Екатеринбург | Уральский государственный экономический университет                                                                                                    | [газета][usue_newspaper]<br/>[вк][usue_vk]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | [газета][usue_newspaper_archive]<br/>[вк][usue_vk_archive]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1. Силин Яков Петрович ([@][silin_mail], [диссернет][silin_dissernet], [профиль][silin_profile])<br/>2. Краснов Роман Валерьевич ([@][krasnov_mail], [профиль][krasnov_profile])<br/>2. Берсенёва Е.<br/>3. Кобров Сергей Геннадьевич<br/>3. Каримов Алгис                                                                                                                                                                                                                                                               | [институты](Sverdlovsk-Oblast_usue.md) |
+| Екатеринбург | Уральский технический институт связи и информатики (филиал) Сибирского государственного университета телекоммуникаций и информатики в г. Екатеринбурге | [сайт][uisi_bpla]<br/>[вк 1][vk_10525]<br/>[вк 2][vk_10505]<br/>[вк 3][vk_10441]<br/>[вк 4][vk_10397]<br/>[вк 5][vk_10376]                                                                                                                                                                                                                                                                                                                                                                                                                                         | [сайт][uisi_bpla_arch]<br/>[вк 1][vk_10525_arch]<br/>[вк 2][vk_10505_arch]<br/>[вк 3][vk_10441_arch]<br/>[вк 4][vk_10397_arch]<br/>[вк 5][vk_10376_arch]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 1. Минина Елена Александровна ([профиль][minina_elena])<br/>3. Плотникова Екатерина Леонидовна ([@][plotnikova_ekaterina_email], [vk][vk_5650324], [профиль][plotnikova_ekaterina])<br/>3. Каримов Алгис Данилович<br/>3. Пермяков Иван Сергеевич                                                                                                                                                                                                                                                                        |                                        |
+| Екатеринбург | Уральский федеральный университет им. первого Президента России Б. Н. Ельцина                                                                          | [сайт][urfu_site1]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | [сайт][urfu_site1_archive]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1. Обабков Илья Николаевич ([профиль][urfu_obabkov_profile], [профиль ЕР][urfu_obabkov_er])<br/>3. Самохвалов Юрий Павлович ([профиль][urfu_samokhvalov_profile], [@][urfu_samokhvalov_mail])                                                                                                                                                                                                                                                                                                                            |                                        |
+| Новоуральск  | Новоуральский технологический институт – филиал Национального исследовательского ядерного университета «МИФИ»                                          | [сайт 1][nti_site1]<br/>[сайт 2][nti_site2]<br/>[вк 1][nti_vk1]<br/>[вк 2][nti_vk2]<br/>[вк 3][nti_vk3]                                                                                                                                                                                                                                                                                                                                                                                                                                                            | [сайт 1][nti_site1_archive]<br/>[сайт 2][nti_site2_archive]<br/>[вк 1][nti_vk1_archive]<br/>[вк 2][nti_vk2_archive]<br/>[вк 3][nti_vk3_archive]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 1. Степанов Павел Иванович ([@][stepanov_mail], [vk][stepanov_vk])<br/>3. Кожин Сергей Владимирович<br/>3. Сорокин Антон Сергеевич<br/>3. Кравецкий Даниил Вячеславович<br/>3. Лобов Алексей Владимирович<br/>3. Стариков Дмитрий<br/>3. Бушманов Александр Александрович ([vk][bushmanov_vk])                                                                                                                                                                                                                           |                                        |
 
 [uisi_bpla]: https://uisi.ru/uisi/institute/bpla/index.php
 
@@ -123,3 +124,111 @@
 [krasnov_mail]: mailto:krasnovrv@usue.ru
 
 [krasnov_profile]: https://www.usue.ru/ob-urgeu/rektorat/roman-valer-evich-krasnov/
+
+[ursmu_web1]: https://www.ursmu.ru/otryad
+
+[ursmu_web1_archive]: https://web.archive.org/web/20260528001928/https://www.ursmu.ru/otryad
+
+[ursmu_web2]: https://www.ursmu.ru/novosti?id=18269045
+
+[ursmu_web2_archive]: https://web.archive.org/web/20260528002211/https://www.ursmu.ru/novosti?id=18269045
+
+[ursmu_web3]: https://www.ursmu.ru/novosti?id=18269053
+
+[ursmu_web3_archive]: https://web.archive.org/web/20260528003805/https://www.ursmu.ru/novosti?id=18269053
+
+[ursmu_web4]: https://www.ursmu.ru/novosti?id=18269035
+
+[ursmu_web4_archive]: https://web.archive.org/web/20260528003815/https://www.ursmu.ru/novosti?id=18269035
+
+[ursmu_web5]: https://www.ursmu.ru/novosti?id=18269026
+
+[ursmu_web5_archive]: https://web.archive.org/web/20260528003849/https://www.ursmu.ru/novosti?id=18269026
+
+[ursmu_web6]: https://www.ursmu.ru/novosti?id=18269022
+
+[ursmu_web6_archive]: https://web.archive.org/web/20260528003940/https://www.ursmu.ru/novosti?id=18269022
+
+[ursmu_web7]: https://www.ursmu.ru/novosti?id=18269007
+
+[ursmu_web7_archive]: https://web.archive.org/web/20260528004003/https://www.ursmu.ru/novosti?id=18269007
+
+[ursmu_web8]: https://www.ursmu.ru/novosti?id=18268998
+
+[ursmu_web8_archive]: https://web.archive.org/web/20260528004337/https://www.ursmu.ru/novosti?id=18268998
+
+[ursmu_web9]: https://www.ursmu.ru/novosti?id=18268989
+
+[ursmu_web9_archive]: https://web.archive.org/web/20260528004414/https://www.ursmu.ru/novosti?id=18268989
+
+[ursmu_web10]: https://www.ursmu.ru/novosti?id=18268978
+
+[ursmu_web10_archive]: https://web.archive.org/web/20260528004316/https://www.ursmu.ru/novosti?id=18268978
+
+[ursmu_web11]: https://www.ursmu.ru/novosti?id=18268967
+
+[ursmu_web11_archive]: https://web.archive.org/web/20260528004340/https://www.ursmu.ru/novosti?id=18268967
+
+[ursmu_web12]: https://www.ursmu.ru/novosti?id=18268956
+
+[ursmu_web12_archive]: https://web.archive.org/web/20260528004405/https://www.ursmu.ru/novosti?id=18268956
+
+[ursmu_web13]: https://www.ursmu.ru/novosti?id=18268951
+
+[ursmu_web13_archive]: https://web.archive.org/web/20260528004420/https://www.ursmu.ru/novosti?id=18268951
+
+[ursmu_web14]: https://www.ursmu.ru/novosti?id=18268943
+
+[ursmu_web14_archive]: https://web.archive.org/web/20260528004438/https://www.ursmu.ru/novosti?id=18268943
+
+[ursmu_web15]: https://www.ursmu.ru/novosti?id=18268937
+
+[ursmu_web15_archive]: https://web.archive.org/web/20260528004458/https://www.ursmu.ru/novosti?id=18268937
+
+[ursmu_web16]: https://www.ursmu.ru/novosti?id=18268928
+
+[ursmu_web16_archive]: https://web.archive.org/web/20260528004528/https://www.ursmu.ru/novosti?id=18268928
+
+[ursmu_pdf]: https://www.ursmu.ru/userfiles/media/default/dokumenti_otdelov/obyavlenie-bpls-new.pdf
+
+[ursmu_pdf_archive]: https://web.archive.org/web/20260525231438/https://www.ursmu.ru/userfiles/media/default/dokumenti_otdelov/obyavlenie-bpls-new.pdf
+
+[ursmu_vk1]: https://vk.com/wall-48629638_33827
+
+[ursmu_vk1_archive]: https://archive.md/LF5S0
+
+[ursmu_vk2]: https://vk.com/wall-48629638_33802
+
+[ursmu_vk2_archive]: https://archive.md/9X2dj
+
+[ursmu_vk3]: https://vk.com/wall-48629638_33755
+
+[ursmu_vk3_archive]: https://archive.md/xdjwV
+
+[ursmu_vk4]: https://vk.com/wall-48629638_33375
+
+[ursmu_vk4_archive]: https://archive.md/deu21
+
+[ursmu_vk5]: https://vk.com/wall-48629638_33290
+
+[ursmu_vk5_archive]: https://archive.md/09LMG
+
+[batrak_email]: mailto:gib74@mail.ru 
+
+[batrak_profile]: https://www.ursmu.ru/spravocnik?id=912
+
+[bashkatova_profile]: https://www.ursmu.ru/spravocnik?id=955 
+
+[bashkatova_vk]: https://vk.com/id16921531
+
+[zinnat_profile]: https://www.ursmu.ru/spravocnik?id=958 
+
+[zinnat_vk]: https://vk.com/m0on.prism
+
+[manuylov_email]: mailto:Manuylov.AE@m.ursmu.ru 
+
+[manuylov_profile]: https://www.ursmu.ru/spravocnik?id=966
+
+[bormotova_profile]: https://web.archive.org/web/20260528002639/https://ura.news/author/5996
+
+[ura_news_mention]: https://web.archive.org/web/20260528002342/https://ura.news/news/1053094489
