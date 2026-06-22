@@ -26,11 +26,17 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Пензенская область
 
-| Город | Колледж, техникум                                                           | Ссылки                                        | Копии                                                         | Ответственные лица                                                                                                                                                  | Структурные подразделения |
-| ----- | --------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Пенза | Колледж (факультет СПО) Пензенского государственного аграрного университета | [вк 1][pgau_spo_vk1]<br/>[вк 2][pgau_spo_vk2] | [вк 1][pgau_spo_vk1_archive]<br/>[вк 2][pgau_spo_vk2_archive] | 1. Чуворкина Татьяна Николаевна ([@][pgau_spo_chuvorkina_mail], [профиль][pgau_spo_chuvorkina_profile])<br/>3. Мелоян Бабкен Мкртичович ([vk][pgau_spo_meloyan_vk]) |                           |
+| Город    | Колледж, техникум                                                                                        | Ссылки                                                                                           | Копии                                                                                                                | Ответственные лица                                                                                                                                                  | Структурные подразделения |
+| -------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Заречный | Зареченский технологический институт – филиал Пензенского государственного технологического университета | [вк][zti_vk1]                                                                                    | [вк][zti_vk1_arch]                                                                                                   | 1. Пушкарёва Анастасия Валерьевна ([vk][pushkareva_vk])<br/>2. Куликова Ольга ([vk][olga_kulikova_vk])                                                              |                           |
+| Мокшан   | Многопрофильный техникум «Мокшанский интернат»                                                           | [вк 1][mokint_vk1]<br/>[вк 2][mokint_vk2]                                                        | [вк 1][mokint_vk1_arch]<br/>[вк 2][mokint_vk2_arch]                                                                  | 1. Потёмин Максим Юрьевич ([vk][mokint_potemkin_vk])                                                                                                                |                           |
+| Пенза    | Колледж (факультет СПО) Пензенского государственного аграрного университета                              | [вк 1][pgau_spo_vk1]<br/>[вк 2][pgau_spo_vk2]                                                    | [вк 1][pgau_spo_vk1_archive]<br/>[вк 2][pgau_spo_vk2_archive]                                                        | 1. Чуворкина Татьяна Николаевна ([@][pgau_spo_chuvorkina_mail], [профиль][pgau_spo_chuvorkina_profile])<br/>3. Мелоян Бабкен Мкртичович ([vk][pgau_spo_meloyan_vk]) |                           |
+| Пенза    | Пензенский агропромышленный колледж                                                                      | [сайт][spopak58_site]<br/>[вк 1][spopak58_vk1]<br/>[вк 2][spopak58_vk2]<br/>[вк 3][spopak58_vk3] | [сайт][spopak58_site_arch]<br/>[вк 1][spopak58_vk1_arch]<br/>[вк 2][spopak58_vk2_arch]<br/>[вк 3][spopak58_vk3_arch] | 1. Зарывахин Александр Васильевич<br/>2. Милованова Наталья Васильевна ([vk][spopak58_milovanova_vk])<br/>3. Рябов Яков Сергеевич                                   |                           |
+| Пенза    | Пензенский колледж информационных и промышленных технологий (ИТ-колледж)                                 | [сайт][penza_itc_site]<br/>[вк 1][penza_itc_vk1]<br/>[вк 2][penza_itc_vk2]                       | [сайт][penza_itc_site_arch]<br/>[вк 1][penza_itc_vk1_arch]<br/>[вк 2][penza_itc_vk2_arch]                            | 1. Чистякова Наталья Викторовна ([профиль][penza_itc_chistyakova_profile])<br/>3. Ворон Ирина Анатольевна                                                           |                           |
+| Пенза    | Училище олимпийского резерва Пензенской области                                                          | [вк][oor_vk1]                                                                                    | [вк][oor_vk1_arch]                                                                                                   | 1. Андреев Владимир Михайлович ([vk][oor_andreev_vk], [@][oor_andreev_email])                                                                                       |                           |
 
 [pgau_spo_vk1]: https://vk.com/wall-37913818_18670
 
@@ -45,3 +51,61 @@
 [pgau_spo_chuvorkina_profile]: https://pgau.ru/file/doc/nauka/aspirantura/portfolio_prep/chuvorkina_tn.pdf
 
 [pgau_spo_meloyan_vk]: https://vk.com/id57495541
+
+[zti_vk1]: https://vk.com/wall-135230061_2411
+
+[zti_vk1_arch]: https://archive.md/jSWo2
+
+[pushkareva_vk]: https://vk.com/pushkareva_anastasia_valerevna
+
+[olga_kulikova_vk]: https://vk.com/overlord_kulichochik
+
+[mokint_vk1]: https://vk.com/wall-76701467_4883
+
+[mokint_vk1_arch]: https://archive.md/NIkMp
+
+[mokint_vk2]: https://vk.com/wall-76701467_4679
+
+[mokint_vk2_arch]: https://archive.md/kEigC
+
+[mokint_potemkin_vk]: https://vk.com/id59258093
+
+[penza_itc_site]: https://xn----htbcfgnhaz1b.xn--p1ai/it/news.php?news=1780293004
+
+[penza_itc_site_arch]: https://web.archive.org/web/20260622130810/https://xn----htbcfgnhaz1b.xn--p1ai/it/news.php?news=1780293004
+
+[penza_itc_vk1]: https://vk.com/wall-7052908_11424
+
+[penza_itc_vk1_arch]: https://archive.md/147Du
+
+[penza_itc_vk2]: https://vk.com/wall-7052908_11380
+
+[penza_itc_vk2_arch]: https://archive.md/4UnBd
+
+[penza_itc_chistyakova_profile]: https://xn----htbcfgnhaz1b.xn--p1ai/about_the_university/management/12/
+
+[oor_vk1]: https://vk.com/wall-208741604_4586
+
+[oor_vk1_arch]: https://archive.md/JYcvU
+
+[oor_andreev_vk]: https://vk.com/id642300171
+
+[oor_andreev_email]: mailto:avm2019@yandex.ru
+
+[spopak58_site]: http://spopak58.ru/2026/05/07/%D0%B3%D0%BE%D1%80%D0%B4%D0%B8%D0%BC%D1%81%D1%8F-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8-2/
+
+[spopak58_site_arch]: https://archive.md/58HNS
+
+[spopak58_vk1]: https://vk.com/wall-150180450_11929
+
+[spopak58_vk1_arch]: https://archive.md/JLQee
+
+[spopak58_vk2]: https://vk.com/wall-150180450_12224
+
+[spopak58_vk2_arch]: https://archive.md/1IRCW
+
+[spopak58_vk3]: https://vk.com/wall-150180450_10958
+
+[spopak58_vk3_arch]: https://archive.md/D0BYf
+
+[spopak58_milovanova_vk]: https://vk.com/id298497371
