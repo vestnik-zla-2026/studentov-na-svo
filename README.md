@@ -142,12 +142,12 @@ Third-party materials, archived copies, and quoted content remain subject to the
 
 ## Северо-Кавказский федеральный округ
 
-| Регион                              | Учебные заведения                                                                                                    | Регион                          | Учебные заведения                                                 |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- |
-| Республика Дагестан                 | [колледжи](Colleges/North-Caucasus/Dagestan.md)                                                                      | Республика Ингушетия            | [колледжи](Colleges/North-Caucasus/Ingushetia.md)                 |
-| Кабардино-Балкарская Республика     |                                                                                                                      | Карачаево-Черкесская Республика | [колледжи](Colleges/North-Caucasus/Karachay-Cherkess-Republic.md) |
-| Республика Северная Осетия — Алания |                                                                                                                      | Чеченская Республика            |                                                                   |
-| Ставропольский край                 | [университеты](Universities/North-Caucasus/Stavropol-Krai.md), [колледжи](Colleges/North-Caucasus/Stavropol-Krai.md) |                                 |                                                                   |
+| Регион                              | Учебные заведения                                                                                                    | Регион                          | Учебные заведения                                                                                                                            |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Республика Дагестан                 | [колледжи](Colleges/North-Caucasus/Dagestan.md), [университеты](Universities/North-Caucasus/Dagestan.md)             | Республика Ингушетия            | [колледжи](Colleges/North-Caucasus/Ingushetia.md)                                                                                            |
+| Кабардино-Балкарская Республика     | [университеты](Universities/North-Caucasus/Kabardino-Balkarian-Republic.md)                                          | Карачаево-Черкесская Республика | [колледжи](Colleges/North-Caucasus/Karachay-Cherkess-Republic.md), [университеты](Universities/North-Caucasus/Karachay-Cherkess-Republic.md) |
+| Республика Северная Осетия — Алания | [университеты](Universities/North-Caucasus/North-Ossetia-Alania.md)                                                  | Чеченская Республика            |                                                                                                                                              |
+| Ставропольский край                 | [университеты](Universities/North-Caucasus/Stavropol-Krai.md), [колледжи](Colleges/North-Caucasus/Stavropol-Krai.md) |                                 |                                                                                                                                              |
 
 ## Сибирский федеральный округ
 
