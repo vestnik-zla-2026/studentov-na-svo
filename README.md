@@ -157,7 +157,7 @@ Third-party materials, archived copies, and quoted content remain subject to the
 | Республика Хакасия            | [колледжи](Colleges/Siberia/Khakassia.md)                                                                  | Алтайский край        | [университеты](Universities/Siberia/Altai-Krai.md), [колледжи](Colleges/Siberia/Altai-Krai.md)                 |
 | Красноярский край             | [университеты](Universities/Siberia/Krasnoyarsk-Krai.md), [колледжи](Colleges/Siberia/Krasnoyarsk-Krai.md) | Иркутская область     | [университеты](Universities/Siberia/Irkutsk-Oblast.md), [колледжи](Colleges/Siberia/Irkutsk-Oblast.md)         |
 | Кемеровская область — Кузбасс | [колледжи](Colleges/Siberia/Kemerovo-Oblast.md)                                                            | Новосибирская область | [университеты](Universities/Siberia/Novosibirsk-Oblast.md), [колледжи](Colleges/Siberia/Novosibirsk-Oblast.md) |
-| Омская область                |                                                                                                            | Томская область       | [университеты](Universities/Siberia/Tomsk-Oblast.md)                                                           |
+| Омская область                | [университеты](Universities/Siberia/Omsk-Oblast.md)                                                        | Томская область       | [университеты](Universities/Siberia/Tomsk-Oblast.md)                                                           |
 
 ## Уральский федеральный округ
 
