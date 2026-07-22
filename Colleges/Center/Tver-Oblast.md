@@ -26,14 +26,45 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Тверская область
 
-| Город | Колледж, техникум                        | Ссылки            | Копии                  | Ответственные лица                                          | Структурные подразделения |
-| ----- | ---------------------------------------- | ----------------- | ---------------------- | ----------------------------------------------------------- | ------------------------- |
-| Тверь | Колледж Высшей школы предпринимательства | [вк][vshpcol_vk1] | [вк][vshpcol_vk1_arch] | 1. Гандрабурова Олеся Анатольевна ([@][gandraburova_email]) |                           |
+| Город   | Колледж, техникум                        | Ссылки                                    | Копии                                               | Ответственные лица                                                                                                                                                                                                                                                                                                                 | Структурные подразделения |
+| ------- | ---------------------------------------- | ----------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Ржев    | Ржевский колледж                         | [вк][rzkol_vk1]                           | [вк][rzkol_vk1_arch]                                | 1. Сорокина Анна Алексеевна ([профиль][sorokina_aa_profile], [@][sorokina_aa_email], [vk][sorokina_aa_vk])<br/>3. Кариев Руслан Магомедович<br/>3. Майков Владимир Валерьевич<br/>3. Кабанов Олег Алексеевич                                                                                                                       |                           |
+| Тверь   | Колледж Высшей школы предпринимательства | [вк][vshpcol_vk1]                         | [вк][vshpcol_vk1_arch]                              | 1. Гандрабурова Олеся Анатольевна ([@][gandraburova_email])                                                                                                                                                                                                                                                                        |                           |
+| Торопец | Торопецкий колледж                       | [сайт][torcol_site1]<br/>[вк][torcol_vk1] | [сайт][torcol_site1_arch]<br/>[вк][torcol_vk1_arch] | 1. Гапаненок Юрий Сергеевич<br/>2. Иванова Людмила ([vk][ivanova_l_vk])<br/>2. Королькова Александра ([vk][korolkova_a_vk])<br/>2. Семенова Татьяна ([vk][semenova_t_vk])<br/>2. Морфина София ([vk][morphina_s_vk])<br/>2. Фомина Ирина ([vk][fomina_i_vk])<br/>3. Гришачкин Игорь Александрович<br/>3. Кариев Руслан Магомедович |                           |
+
+[rzkol_vk1]: https://vk.com/wall-90921194_7118
+
+[rzkol_vk1_arch]: https://archive.md/a1fAH
+
+[sorokina_aa_profile]: https://rzcoll.ru/sveden/employees/7254.html
+
+[sorokina_aa_vk]: https://vk.com/id15742552
+
+[sorokina_aa_email]: mailto:sorokina.anna.rc@yandex.ru
 
 [vshpcol_vk1]: https://vk.com/wall-25042130_5122
 
 [vshpcol_vk1_arch]: https://archive.md/doei3
 
 [gandraburova_email]: mailto:o.soina@vshp.online
+
+[torcol_site1]: http://xn----htbbbgvhawadil0a9d.xn--p1ai/index.php/novosti/1161-13-marta-2 
+
+[torcol_site1_arch]: https://web.archive.org/web/20260711101134/http://xn----htbbbgvhawadil0a9d.xn--p1ai/index.php/novosti/1161-13-marta-2 
+
+[torcol_vk1]: https://vk.com/wall-128189632_2926 
+
+[torcol_vk1_arch]: https://archive.md/CFhD1 
+
+[ivanova_l_vk]: https://vk.com/id166406530 
+
+[korolkova_a_vk]: https://vk.com/aleksashulya 
+
+[semenova_t_vk]: https://vk.com/semafon 
+
+[morphina_s_vk]: https://vk.com/s.morph1ne 
+
+[fomina_i_vk]: https://vk.com/id17878506
