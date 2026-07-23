@@ -27,30 +27,49 @@
 
 <!-- PREAMBLE END -->
 
-
-
-
 # Республика Башкортостан
 
-| Город       | Колледж, техникум                                                          | Ссылка                            | Копия                                               | Ответственные лица                                                                   | Структурные подразделения |
-| ----------- | -------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------- |
-| Стерлитамак | Колледж Стерлитамакского филиала Уфимского университета науки и технологий | [сайт][sf]<br/>[вконтакте][sf-vk] | [сайт][sf-wayback]<br/>[вконтакте][sf-vk-archivemd] | 1. Батталов Рустам Минераисович<br/>3. Суханова Наталья Николаевна                   |                           |
-| Стерлитамак | Стерлитамакский профессионально-технический колледж                        | [сайт][gbpousptk]                 | [сайт][gbpousptk-wayback]                           | 1. Поваров Александр Сергеевич ([профиль][gbpousptk-01-site])<br/>3. Канбеков Антон Робертович |                           |
+| Населенный пункт                | Колледж, техникум                                                          | Ссылка                                      | Копия                                                 | Ответственные лица                                                                             | Структурные подразделения |
+| ------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------- |
+| Стерлитамак                     | Колледж Стерлитамакского филиала Уфимского университета науки и технологий | [сайт][sf9323]<br/>[вк][sf-vk22619]         | [сайт][sf9323-wayback]<br/>[вк][sf-vk22619-archivemd] | 1. Батталов Рустам Минераисович<br/>3. Суханова Наталья Николаевна                             |                           |
+| Стерлитамак                     | Стерлитамакский профессионально-технический колледж                        | [сайт][gbpousptk]                           | [сайт][gbpousptk-wayback]                             | 1. Поваров Александр Сергеевич ([профиль][gbpousptk-01-site])<br/>3. Канбеков Антон Робертович |                           |
+| Субханкулово (Туймазинский р-н) | Туймазинский агропромышленный колледж                                      | [вк][tuapk_vk1]                             | [вк][tuapk_vk1_arch]                                  | 1. Белозерова Мария Евгеньевна<br/>2. Шарифуллина Оксана Валерьевна ([vk][sharifullina_ov_vk]) |                           |
+| Туймазы                         | Туймазинский индустриальный колледж                                        | [вк][tuindk_vk1]                            | [вк][tuindk_vk1_arch]                                 | 1. Гайсин Олег Альвиртович                                                                     |                           |
+| Уфа                             | Башкирский хореографический колледж им. Р. Нуреева                         | [сайт][bhkn_site1]                          | [сайт][bhkn_site1_arch]                               | 1. Нуриманова Альбина Радиковна<br/>3. Егоров Аркадий                                          |                           |
+| Шаран                           | Филиал Туймазинского агропромышленного колледжа в с. Шаран                 | [вк 1][tuapksh_vk1]<br/>[вк 2][tuapksh_vk2] | [вк 1][tuapksh_vk1_arch]<br/>[вк 2][tuapksh_vk2_arch] | 1. Кукса Галина Анатольевна                                                                    |                           |
 
-<!-- OFFICIAL INFORMATION -->
+[sf9323]: https://str.uust.ru/news/9323
 
-[sf]: https://str.uust.ru/news/9323
+[sf9323-wayback]: https://web.archive.org/web/20260403193935/https://str.uust.ru/news/9323
 
-[sf-wayback]: https://web.archive.org/web/20260403193935/https://str.uust.ru/news/9323
+[sf-vk22619]: https://vk.com/wall-102910068_22619
 
-[sf-vk]: https://vk.com/wall-102910068_22619
-
-[sf-vk-archivemd]: https://archive.md/S6x1L
+[sf-vk22619-archivemd]: https://archive.md/S6x1L
 
 [gbpousptk]: https://gbpousptk.ru/news-svc/item?id=1132939&lang=ru&type=news&site_type=school
 
 [gbpousptk-wayback]: https://web.archive.org/web/20260403191529/https://gbpousptk.ru/news-svc/item?id=1132939&lang=ru&type=news&site_type=school
 
-<!-- PERSONS -->
-
 [gbpousptk-01-site]: https://gbpousptk.ru/org-info/head-card?id=1
+
+[tuapk_vk1]: https://vk.com/wall-140242400_6219
+
+[tuapk_vk1_arch]: https://archive.md/0TjJv
+
+[sharifullina_ov_vk]: https://vk.com/id99634646
+
+[tuindk_vk1]: https://vk.com/wall-36468231_9226
+
+[tuindk_vk1_arch]: https://archive.md/uRbUv
+
+[tuapksh_vk1]: https://vk.com/wall514694288_1988
+
+[tuapksh_vk1_arch]: https://archive.md/fzwKE
+
+[tuapksh_vk2]: https://vk.com/wall514694288_1930
+
+[tuapksh_vk2_arch]: https://archive.md/sPoPj
+
+[bhkn_site1]: https://nureevacademy.ru/novosti/vstrecha-s-voennym-komissarom-perspektivy-sluzhby-v-bespilotnyh-vojskah/ 
+
+[bhkn_site1_arch]: https://web.archive.org/web/20260714145031/https://nureevacademy.ru/novosti/vstrecha-s-voennym-komissarom-perspektivy-sluzhby-v-bespilotnyh-vojskah/
