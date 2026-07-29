@@ -26,11 +26,61 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Мурманская область
 
-| Город    | Университет, институт, филиал      | Ссылки                              | Копии                                               | Ответственные лица                                  | Структурные подразделения |
-| -------- | ---------------------------------- | ----------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ------------------------- |
-| Мурманск | Мурманский арктический университет | [вк 1][vkmau_1]<br/>[вк 2][vkmau_2] | [вк 1][vkmau_1_archive]<br/>[вк 2][vkmau_2_archive] | 1. Князева Мария Александровна ([@][knyazeva_mail]) |                           |
+| Город    | Университет, институт, филиал                             | Ссылки                                                                                                                                                                                                                                                                                                                                            | Копии                                                                                                                                                                                                                                                                                                                                                                                                         | Ответственные лица                                  | Структурные подразделения |
+| -------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------- |
+| Апатиты  | Филиал Мурманского арктического университета в г. Апатиты | [вк 1][mau_apatity_vk1]<br/>[вк 2][mau_apatity_vk2]<br/>[вк 3][mau_apatity_vk3]<br/>[вк 4][mau_apatity_vk4]<br/>[вк 5][mau_apatity_vk5]<br/>[вк 6][mau_apatity_vk6]<br/>[вк 7][mau_apatity_vk7]<br/>[вк 8][mau_apatity_vk8]<br/>[вк 9][mau_apatity_vk9]<br/>[вк 10][mau_apatity_vk10]<br/>[вк 11][mau_apatity_vk11]<br/>[вк 12][mau_apatity_vk12] | [вк 1][mau_apatity_vk1_arch]<br/>[вк 2][mau_apatity_vk2_arch]<br/>[вк 3][mau_apatity_vk3_arch]<br/>[вк 4][mau_apatity_vk4_arch]<br/>[вк 5][mau_apatity_vk5_arch]<br/>[вк 6][mau_apatity_vk6_arch]<br/>[вк 7][mau_apatity_vk7_arch]<br/>[вк 8][mau_apatity_vk8_arch]<br/>[вк 9][mau_apatity_vk9_arch]<br/>[вк 10][mau_apatity_vk10_arch]<br/>[вк 11][mau_apatity_vk11_arch]<br/>[вк 12][mau_apatity_vk12_arch] | 1. Островская Ольга Михайловна                      |                           |
+| Мурманск | Мурманский арктический университет                        | [вк 1][vkmau_1]<br/>[вк 2][vkmau_2]                                                                                                                                                                                                                                                                                                               | [вк 1][vkmau_1_archive]<br/>[вк 2][vkmau_2_archive]                                                                                                                                                                                                                                                                                                                                                           | 1. Князева Мария Александровна ([@][knyazeva_mail]) |                           |
+
+[mau_apatity_vk1]: https://vk.com/wall-90602353_18176 
+
+[mau_apatity_vk1_arch]: https://archive.md/vvijc 
+
+[mau_apatity_vk2]: https://vk.com/wall-90602353_18135 
+
+[mau_apatity_vk2_arch]: https://archive.md/AIBmF 
+
+[mau_apatity_vk3]: https://vk.com/wall-90602353_18096 
+
+[mau_apatity_vk3_arch]: https://archive.md/dwEee 
+
+[mau_apatity_vk4]: https://vk.com/wall-90602353_18064 
+
+[mau_apatity_vk4_arch]: https://archive.md/YCE0a 
+
+[mau_apatity_vk5]: https://vk.com/wall-90602353_18041 
+
+[mau_apatity_vk5_arch]: https://archive.md/2SsFo 
+
+[mau_apatity_vk6]: https://vk.com/wall-90602353_18025 
+
+[mau_apatity_vk6_arch]: https://archive.md/AQ5ai 
+
+[mau_apatity_vk7]: https://vk.com/wall-90602353_17973 
+
+[mau_apatity_vk7_arch]: https://archive.md/vk22t 
+
+[mau_apatity_vk8]: https://vk.com/wall-90602353_17947 
+
+[mau_apatity_vk8_arch]: https://archive.md/bvMJA 
+
+[mau_apatity_vk9]: https://vk.com/wall-90602353_17892 
+
+[mau_apatity_vk9_arch]: https://archive.md/IF0Lp 
+
+[mau_apatity_vk10]: https://vk.com/wall-90602353_17662 
+
+[mau_apatity_vk10_arch]: https://archive.md/MLy9U 
+
+[mau_apatity_vk11]: https://vk.com/wall-90602353_17633 
+
+[mau_apatity_vk11_arch]: https://archive.md/RYSdn 
+
+[mau_apatity_vk12]: https://vk.com/wall-90602353_17525 
+
+[mau_apatity_vk12_arch]: https://archive.md/RF881
 
 [vkmau_1]: https://vk.com/wall-32978_29689
 
