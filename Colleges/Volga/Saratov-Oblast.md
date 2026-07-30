@@ -26,11 +26,35 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Саратовская область
 
-| Город | Колледж, техникум                                                                                                                                    | Ссылки                                                                                            | Копии                                                                                                            | Ответственные лица                                                                                   | Структурные подразделения |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |
-| Маркс | Марксовский сельскохозяйственный техникум – филиал Саратовского государственного университета генетики, биотехнологии и инженерии им. Н. И. Вавилова | [сайт 1][mshte_vavilov_site1]<br/>[сайт 2][mshte_vavilov_site2]<br/>[сайт 3][mshte_vavilov_site3] | [сайт 1][mshte_vavilov_site1_arch]<br/>[сайт 2][mshte_vavilov_site2_arch]<br/>[сайт 3][mshte_vavilov_site3_arch] | 1. Кучеренко Игорь Анатольевич ([@][kucherenko_ia_email])<br/>3. Белов Вячеслав<br/>3. Куркин Данила |                           |
+| Город     | Колледж, техникум                                                                                                                                    | Ссылки                                                                                            | Копии                                                                                                                                     | Ответственные лица                                                                                   | Структурные подразделения |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |
+| Калининск | Калининский техникум агробизнеса                                                                                                                     | [сайт][kta_site1]<br/>[вк 1][kta_vk1]<br/>[вк 2][kta_vk2]<br/>[вк 3][kta_vk3]<br/>[вк 4][kta_vk4] | [сайт][kta_site1_archive]<br/>[вк 1][kta_vk1_archive]<br/>[вк 2][kta_vk2_archive]<br/>[вк 3][kta_vk3_archive]<br/>[вк 4][kta_vk4_archive] | 1. Потупалов Сергей Александрович ([профиль][kta_potupalov_profile])                                 |                           |
+| Маркс     | Марксовский сельскохозяйственный техникум – филиал Саратовского государственного университета генетики, биотехнологии и инженерии им. Н. И. Вавилова | [сайт 1][mshte_vavilov_site1]<br/>[сайт 2][mshte_vavilov_site2]<br/>[сайт 3][mshte_vavilov_site3] | [сайт 1][mshte_vavilov_site1_arch]<br/>[сайт 2][mshte_vavilov_site2_arch]<br/>[сайт 3][mshte_vavilov_site3_arch]                          | 1. Кучеренко Игорь Анатольевич ([@][kucherenko_ia_email])<br/>3. Белов Вячеслав<br/>3. Куркин Данила |                           |
+
+[kta_site1]: https://kalininsk-agro.gosuslugi.ru/novosti-i-sobytiya/studenty-tehnikuma-vstretilis-s-predstavitelyami-voysk-bpla.html
+
+[kta_site1_archive]: https://web.archive.org/web/20260725100026/https://kalininsk-agro.gosuslugi.ru/novosti-i-sobytiya/studenty-tehnikuma-vstretilis-s-predstavitelyami-voysk-bpla.html
+
+[kta_vk1]: https://vk.ru/wall-181269390_3341
+
+[kta_vk1_archive]: https://archive.md/rNMP2
+
+[kta_vk2]: https://vk.ru/wall-181269390_3263
+
+[kta_vk2_archive]: https://archive.md/HKq4N
+
+[kta_vk3]: https://vk.ru/wall-181269390_3225
+
+[kta_vk3_archive]: https://archive.md/9s5vx
+
+[kta_vk4]: https://vk.ru/wall-181269390_3045
+
+[kta_vk4_archive]: https://archive.md/cA4xC
+
+[kta_potupalov_profile]: https://kalininsk-agro.gosuslugi.ru/o-nas/sotrudniki/potupalov-sergey-alexandrovich-1.html
 
 [mshte_vavilov_site1]: https://www.vavilovsar.ru/novosti/14-April-2026-i71614-proforientacionnaya-vstrecha-
 
