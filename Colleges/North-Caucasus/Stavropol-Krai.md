@@ -35,6 +35,7 @@
 | Невинномысск     | Колледж Невинномысского государственного гуманитарно-технического института | [вк][wall_6898]                                                                                                                         | [вк][wall_6898_archive]                                                                                                                                          | 1. Херовинчук Ирина Сергеевна<br/>2.  Мащенко Анастасия<br/>2. Малеваный Кирилл Викторович ([vk][vk_kirillm54], [дума][mal_kir_duma])                                                 |                           |
 | Светлоград       | Светлоградский региональный сельскохозяйственный колледж                    | [документ][svetrsk_doc]<br/>[сайт 1][svetrsk_site1]<br/>[сайт 2][svetrsk_site2]<br/>[сайт 3][svetrsk_site3]<br/>[сайт 4][svetrsk_site4] | [документ][svetrsk_doc_arch]<br/>[сайт 1][svetrsk_site1_arch]<br/>[сайт 2][svetrsk_site2_arch]<br/>[сайт 3][svetrsk_site3_arch]<br/>[сайт 4][svetrsk_site4_arch] | 1. Шаповалов Анатолий Дмитриевич ([vk][shapovalov_vk])<br/>2. Горбиенко Антон Александрович ([vk][gorbienko_vk])<br/>3. Семенихин Егор Сергеевич<br/>3. Войщиков Сергей Александрович |                           |
 | Ставрополь       | Колледж Северо-Кавказского федерального университета в г. Ставрополе        | [сайт][ncfu_news]<br/>[буклет 1][ncfu_doc1]<br/>[буклет 2][ncfu_doc2]<br/>[вк 1][ncfu_vk1]<br/>[вк 2][ncfu_vk2]                         | [сайт][ncfu_news_archive]<br/>[буклет 1][ncfu_doc1_archive]<br/>[буклет 2][ncfu_doc2_archive]<br/>[вк 1][ncfu_vk1_archive]<br/>[вк 2][ncfu_vk2_archive]          | 1. Торишный Олег Анатольевич                                                                                                                                                          |                           |
+| Ставрополь       | Ставропольский техникум медицины и отраслевых технологий                    | [вк 1][stmio_vk1]<br/>[вк 2][stmio_vk2]                                                                                                 | [вк 1][stmio_vk1_arch]<br/>[вк 2][stmio_vk2_arch]                                                                                                                | 1. Стехова Наталья Ивановна ([@][stekhova_ni_email])                                                                                                                                  |                           |
 | Ставрополь       | Ставропольское училище олимпийского резерва (техникум)                      | [сайт][stv_site]                                                                                                                        | [сайт][stv_archive]                                                                                                                                              | 1. Асадчев Сергей Николаевич                                                                                                                                                          |                           |
 
 [stv_site]: https://suor26.ru/teachers/news/v-uchilishche-olimpiyskogo-rezerva-proshlo-vazhnoe-meropriyatie-napravlennoe-na-privlechenie-student/
@@ -100,3 +101,13 @@
 [ncfu_vk2]: https://vk.com/wall-209264101_684
 
 [ncfu_vk2_archive]: https://archive.md/TvS1I
+
+[stmio_vk1]: https://vk.ru/wall-218325642_1010 
+
+[stmio_vk1_arch]: https://archive.md/1qgPW 
+
+[stmio_vk2]: https://vk.ru/wall-218325642_743 
+
+[stmio_vk2_arch]: https://archive.md/lxy7t 
+
+[stekhova_ni_email]: mailto:stekhova.natalya@gmail.com
