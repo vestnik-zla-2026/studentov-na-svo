@@ -6,7 +6,7 @@
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-8A2D2D?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:protiv.fashizma.ru@proton.me)
 [![Telegram /admin/](https://img.shields.io/badge/Telegram_Админ-0088CC?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Vestnik_Zla_admin)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vestnik-zla/studentov-na-svo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vestnik-zla-2026/studentov-na-svo)
 [![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)](https://bitbucket.org/vestnik-zla/studentov-na-svo)
 [![Gitea](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white&style=for-the-badge)](https://gitea.com/vestnik-zla/studentov-na-svo)
 [![SourceHut](https://img.shields.io/badge/SourceHut-000000?logo=sourcehut&logoColor=white&style=for-the-badge)](https://git.sr.ht/~vestnik-zla/studentov-na-svo)
@@ -23,7 +23,7 @@
 2. сотрудников, ответственных за информационное сопровождение (авторы публикаций, администраторы сайтов и официальных страниц в социальных сетях);
 3. непосредственных вербовщиков — как от учебных заведений, так и от внешних организаций.
 
-**Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](https://github.com/vestnik-zla/studentov-na-svo/blob/main/README.md) нашего проекта.
+**Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
 # Северо-Кавказский федеральный университет
