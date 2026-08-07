@@ -26,11 +26,37 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Костромская область
 
-| Город   | Колледж, техникум                                       | Ссылки                                  | Копии                                             | Ответственные лица                                                     | Структурные подразделения |
-| ------- | ------------------------------------------------------- | --------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------- |
-| Нерехта | Нерехтский политехнический техникум Костромской области | [вк 1][nptko_vk1]<br/>[вк 2][nptko_vk2] | [вк 1][nptko_vk1_arch]<br/>[вк 2][nptko_vk2_arch] | 1. Павлова Валентина Ивановна<br/>2. Лебедев Роман ([vk][rlebedev_vk]) |                           |
+| Город                     | Колледж, техникум                                                         | Ссылки                                                                            | Копии                                                                                                             | Ответственные лица                                                                                                                                                                                                                         | Структурные подразделения |
+| ------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| Анфимово (Чухломский р-н) | Чухломский лесопромышленный техникум им. Ф. В. Чижова Костромской области | [сайт][chlt_site1]<br/>[вк 1][chlt_vk1]<br/>[вк 2][chlt_vk2]<br/>[вк 3][chlt_vk3] | [сайт][chlt_site1_archive]<br/>[вк 1][chlt_vk1_archive]<br/>[вк 2][chlt_vk2_archive]<br/>[вк 3][chlt_vk3_archive] | 1. Ксенофонтова Елена Александровна ([профиль][chlt_ksenofontova_profile])<br/>2. Щеголева Наталья Сергеевна ([профиль 1][chlt_shchegoleva_profile], [профиль 2][chlt_shchegoleva_profile2], [vk][chlt_shchegoleva_vk])<br/>3. Уткин А. С. |                           |
+| Нерехта                   | Нерехтский политехнический техникум Костромской области                   | [вк 1][nptko_vk1]<br/>[вк 2][nptko_vk2]                                           | [вк 1][nptko_vk1_arch]<br/>[вк 2][nptko_vk2_arch]                                                                 | 1. Павлова Валентина Ивановна<br/>2. Лебедев Роман ([vk][rlebedev_vk])                                                                                                                                                                     |                           |
+
+[chlt_site1]: https://tech-lesopromyshlennyj-anfimovo-r494.gosweb.gosuslugi.ru/novosti-i-sobytiya/agitatsionnaya-vstrecha-s-instruktorom-2-razryada-povsk-gkostroma.html
+
+[chlt_site1_archive]: https://megalodon.jp/2026-0805-2203-01/https://tech-lesopromyshlennyj-anfimovo-r494.gosweb.gosuslugi.ru:443/novosti-i-sobytiya/agitatsionnaya-vstrecha-s-instruktorom-2-razryada-povsk-gkostroma.html
+
+[chlt_vk1]: https://vk.ru/wall-162797227_3583
+
+[chlt_vk1_archive]: https://archive.md/NmpNh
+
+[chlt_vk2]: https://vk.ru/wall-162797227_3406
+
+[chlt_vk2_archive]: https://archive.md/VcX4E
+
+[chlt_vk3]: https://vk.ru/wall-162797227_3367
+
+[chlt_vk3_archive]: https://archive.md/uqgj4
+
+[chlt_ksenofontova_profile]: https://tech-lesopromyshlennyj-anfimovo-r494.gosweb.gosuslugi.ru/o-nas/sotrudniki/ksenofontova-elena-alexandrovna.html
+
+[chlt_shchegoleva_profile]: https://tech-lesopromyshlennyj-anfimovo-r494.gosweb.gosuslugi.ru/o-nas/sotrudniki/schegoleva-natalya-sergeevna.html
+
+[chlt_shchegoleva_profile2]: https://npopl23.ucoz.org/index/shhegoleva_natalja_sergeevna/0-209
+
+[chlt_shchegoleva_vk]: https://vk.ru/natalirai76
 
 [nptko_vk1]: https://vk.com/wall-191001435_3206
 

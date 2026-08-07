@@ -26,11 +26,54 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Республика Татарстан
 
-| Город        | Колледж, техникум                       | Ссылки          | Копии                | Ответственные лица              | Структурные подразделения |
-| ------------ | --------------------------------------- | --------------- | -------------------- | ------------------------------- | ------------------------- |
-| Зеленодольск | Зеленодольский судостроительный колледж | [вк][zelsk_vk1] | [вк][zelsk_vk1_arch] | 1. Резатдинов Эдуард Фаргатович |                           |
+| Город        | Колледж, техникум                                    | Ссылки                                | Копии                                                 | Ответственные лица                                                                                                                                                                                                                                          | Структурные подразделения |
+| ------------ | ---------------------------------------------------- | ------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Альметьевск  | Альметьевский колледж физической культуры            | [сайт][ackf_site1]<br/>[вк][ackf_vk1] | [сайт][ackf_site1_archive]<br/>[вк][ackf_vk1_archive] | 1. Гайфуллин Илдус Миннахматович ([профиль][ackf_gaifullin_profile])<br/>3. Латипова Миннур Расимовна<br/>3. Ванюков Артём Константинович ([профиль ЕР][ackf_vanyukov_pzhiv], [профиль][ackf_vanyukov_profile])                                             |                           |
+| Альметьевск  | Альметьевский медицинский колледж                    | [вк][amk_vk1]                         | [вк][amk_vk1_archive]                                 | 1. Бешимова Диляра Тальгатовна<br/>2. Нестерова Екатерина Анатольевна ([vk][amk_nesterova_vk])<br/>3. Зайцев В. И.                                                                                                                                          |                           |
+| Альметьевск  | Альметьевский музыкальный колледж им. Ф. З. Яруллина | [вк][amuzk_vk1]                       | [вк][amuzk_vk1_archive]                               | 1. Пайдуллина Гузал Атласовна ([профиль][amuzk_paydullina_profile])<br/>3. Васильченко Павел Васильевич                                                                                                                                                     |                           |
+| Альметьевск  | Альметьевский торгово-экономический техникум         | [вк][atet_vk1]                        | [вк][atet_vk1_archive]                                | 1. Закирова Зульфия Гильфановна ([профиль][atet_zakirova_profile])<br/>2. Мирвалиева Людмила Сергеевна ([vk][atet_mirvalieva_vk], [профиль][atet_mirvalieva_profile])<br/>2. Калимуллина Ландыш Минзакиевна ([vk][atet_kalimullina_vk])<br/>3. Зайцев В. И. |                           |
+| Зеленодольск | Зеленодольский судостроительный колледж              | [вк][zelsk_vk1]                       | [вк][zelsk_vk1_arch]                                  | 1. Резатдинов Эдуард Фаргатович                                                                                                                                                                                                                             |                           |
+
+[ackf_site1]: https://edu.tatar.ru/almet/sch-secondary/ph-culture/read-news/4058325
+
+[ackf_site1_archive]: https://archive.md/4obBx
+
+[ackf_vk1]: https://vk.ru/wall-216662183_1585
+
+[ackf_vk1_archive]: https://archive.md/axrla
+
+[ackf_gaifullin_profile]: https://edu.tatar.ru/almet/sch-secondary/ph-culture/page1358010.htm
+
+[ackf_vanyukov_pzhiv]: https://ideputat.er.ru/user/322225
+
+[ackf_vanyukov_profile]: https://edu.tatar.ru/almet/page4000684.htm/page5749001.htm
+
+[amk_vk1]: https://vk.ru/wall-202973161_2661
+
+[amk_vk1_archive]: https://archive.md/adilz
+
+[amk_nesterova_vk]: https://vk.ru/id23133107
+
+[amuzk_vk1]: https://vk.ru/wall-9255813_7377
+
+[amuzk_vk1_archive]: https://archive.md/91hBK
+
+[amuzk_paydullina_profile]: https://edu.tatar.ru/almet/org6179/page1413974.htm
+
+[atet_vk1]: https://vk.ru/wall-4028886_3682
+
+[atet_vk1_archive]: https://archive.md/WUeSz
+
+[atet_zakirova_profile]: https://edu.tatar.ru/almet/page2042051.htm/page5523456.htm
+
+[atet_mirvalieva_vk]: https://vk.ru/milamirvalieva
+
+[atet_mirvalieva_profile]: https://edu.tatar.ru/almet/page2042051.htm/page5729092.htm
+
+[atet_kalimullina_vk]: https://vk.ru/me_lan777
 
 [zelsk_vk1]: https://vk.com/wall-222804276_1645
 
