@@ -33,6 +33,7 @@
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |
 | Калининск | Калининский техникум агробизнеса                                                                                                                     | [сайт][kta_site1]<br/>[вк 1][kta_vk1]<br/>[вк 2][kta_vk2]<br/>[вк 3][kta_vk3]<br/>[вк 4][kta_vk4] | [сайт][kta_site1_archive]<br/>[вк 1][kta_vk1_archive]<br/>[вк 2][kta_vk2_archive]<br/>[вк 3][kta_vk3_archive]<br/>[вк 4][kta_vk4_archive] | 1. Потупалов Сергей Александрович ([профиль][kta_potupalov_profile])                                 |                           |
 | Маркс     | Марксовский сельскохозяйственный техникум – филиал Саратовского государственного университета генетики, биотехнологии и инженерии им. Н. И. Вавилова | [сайт 1][mshte_vavilov_site1]<br/>[сайт 2][mshte_vavilov_site2]<br/>[сайт 3][mshte_vavilov_site3] | [сайт 1][mshte_vavilov_site1_arch]<br/>[сайт 2][mshte_vavilov_site2_arch]<br/>[сайт 3][mshte_vavilov_site3_arch]                          | 1. Кучеренко Игорь Анатольевич ([@][kucherenko_ia_email])<br/>3. Белов Вячеслав<br/>3. Куркин Данила |                           |
+| Энгельс   | Энгельсский медицинский колледж Святого Луки (Войно-Ясенецкого)                                                                                      | [сайт][emk64_site1]<br/>[вк][emk64_vk1]                                                           | [сайт][emk64_site1_archive]<br/>[вк][emk64_vk1_archive]                                                                                   | 1. Бахарева Марина Васильевна<br/>2. Федоренко Дарья Викторовна ([vk][emk64_fedorenko_vk])           |                           |
 
 [kta_site1]: https://kalininsk-agro.gosuslugi.ru/novosti-i-sobytiya/studenty-tehnikuma-vstretilis-s-predstavitelyami-voysk-bpla.html
 
@@ -69,3 +70,13 @@
 [mshte_vavilov_site3_arch]: https://web.archive.org/web/20260716112320/https://www.vavilovsar.ru/novosti/04-march-2026-i70876-premera-filma-nebesnyi-dozor
 
 [kucherenko_ia_email]: mailto:kucherenkoia@vavilovsar.ru
+
+[emk64_site1]: http://emk64.ru/vstrecha-studentov-vypusknyh-grupp-s-predstavitelyami-voennoj-chasti-2/
+
+[emk64_site1_archive]: https://web.archive.org/web/20260811122217/http://emk64.ru/vstrecha-studentov-vypusknyh-grupp-s-predstavitelyami-voennoj-chasti-2/
+
+[emk64_vk1]: https://vk.ru/wall-211293305_2814
+
+[emk64_vk1_archive]: https://archive.md/PVdyh
+
+[emk64_fedorenko_vk]: https://vk.ru/daria.fedorenko
