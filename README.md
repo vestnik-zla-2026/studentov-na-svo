@@ -178,7 +178,7 @@ Third-party materials, archived copies, and quoted content remain subject to the
 | Липецкая область     |                                                                                                        | Московская область  | [университеты](Universities/Center/Moscow-Oblast.md), [колледжи](Colleges/Center/Moscow-Oblast.md)     |
 | Орловская область    |                                                                                                        | Рязанская область   | [колледжи](Colleges/Center/Ryazan-Oblast.md)                                                           |
 | Смоленская область   | [университеты](Universities/Center/Smolensk-Oblast.md)                                                 | Тамбовская область  | [университеты](Universities/Center/Tambov-Oblast.md), [колледжи](Colleges/Center/Tambov-Oblast.md)     |
-| Тверская область     | [колледжи](Colleges/Center/Tver-Oblast.md)                                                             | Тульская область    | [университеты](Universities/Center/Tula-Oblast.md)                                                     |
+| Тверская область     | [колледжи](Colleges/Center/Tver-Oblast.md)                                                             | Тульская область    | [университеты](Universities/Center/Tula-Oblast.md), [колледжи](Colleges/Center/Tula-Oblast.md)         |
 | Ярославская область  | [колледжи](Colleges/Center/Yaroslavl-Oblast.md)                                                        | Москва              | [университеты](Universities/Center/Moscow.md), [колледжи](Colleges/Center/Moscow.md)                   |
 
 ## Южный федеральный округ
