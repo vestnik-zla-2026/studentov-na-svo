@@ -37,6 +37,8 @@
 | Калининград | Калининградский морской рыбопромышленный колледж — структурное подразделение Балтийской государственной академии рыбопромыслового флота — обособленного структурного подразделения Калининградского государственного технического университета | [сайт 1][kmrk_news1]<br/>[сайт 2][kmrk_news2]<br/>[сайт 3][kmrk_news3]<br/>[сайт 4][kmrk_news4]<br/>[сайт 5][kmrk_news5]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | [сайт 1][kmrk_news1_arch]<br/>[сайт 2][kmrk_news2_arch]<br/>[сайт 3][kmrk_news3_arch]<br/>[сайт 4][kmrk_news4_arch]<br/>[сайт 5][kmrk_news5_arch]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 1. Карпович Сергей Михайлович ([@][karpovich_mail])<br/>3. Магомедов Руслан Магомедович<br/>3. Кудашев Владислав Юрьевич ([@][kudvlad_mail])                                                                                                                                                                                                                                                                                                                  |                           |
 | Калининград | Колледж предпринимательства                                                                                                                                                                                                                    | [сайт][kolledge39_site]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | [сайт][kolledge39_archive]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 1. Сергеев Дмитрий Леонидович                                                                                                                                                                                                                                                                                                                                                                                                                                 |                           |
 | Калининград | Колледж сервиса и туризма                                                                                                                                                                                                                      | [сайт][spokst_1]<br/>[вк 1][vk_5929]<br/>[вк 2][vk_5927]<br/>[вк 3][vk_5770]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | [сайт][spokst_1_arch]<br/>[вк 1][vk_5929_arch]<br/>[вк 2][vk_5927_arch]<br/>[вк 3][vk_5770_arch]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 1. Алукриева Алена Сергеевна<br/>3. Магомедов Руслан Магомедович<br/>3. Винтя Николай Федорович                                                                                                                                                                                                                                                                                                                                                               |                           |
+| Калининград | Прибалтийский судостроительный техникум                                                                                                                                                                                                        | [сайт 1][pst_site1]<br/>[сайт 2][pst_site2]<br/>[сайт 3][pst_site3]<br/>[сайт 4][pst_site4]<br/>[сайт 5][pst_site5]<br/>[сайт 6][pst_site6]<br/>[сайт 7][pst_site7]<br/>[сайт 8][pst_site8]<br/>[вк 1][pst_vk1]<br/>[вк 2][pst_vk2]<br/>[вк 3][pst_vk3]<br/>[вк 4][pst_vk4]<br/>[вк 5][pst_vk5]<br/>[вк 6][pst_vk6]<br/>[вк 7][pst_vk7]<br/>[вк 8][pst_vk8]                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | [сайт 1][pst_site1_archive]<br/>[сайт 2][pst_site2_archive]<br/>[сайт 3][pst_site3_archive]<br/>[сайт 4][pst_site4_archive]<br/>[сайт 5][pst_site5_archive]<br/>[сайт 6][pst_site6_archive]<br/>[сайт 7][pst_site7_archive]<br/>[сайт 8][pst_site8_archive]<br/>[вк 1][pst_vk1_archive]<br/>[вк 2][pst_vk2_archive]<br/>[вк 3][pst_vk3_archive]<br/>[вк 4][pst_vk4_archive]<br/>[вк 5][pst_vk5_archive]<br/>[вк 6][pst_vk6_archive]<br/>[вк 7][pst_vk7_archive]<br/>[вк 8][pst_vk8_archive]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 1. Лукин Александр Владимирович<br/>2. Клешнин Алексей Александрович ([vk][pst_kleshning_vk], [упоминание][pst_kleshning_mention])<br/>3. Михайлова Наталья Ивановна ([@][pst_mihailova_email])<br/>3. Парахин Николай Юрьевич<br/>3. Кудашев Владислав Юрьевич ([@][pst_kudashev_email])<br/>3. Шовкуненко Алексей Игоревич<br/>3. Малов Дмитрий Анатольевич<br/>3. Шибков Александр Олегович                                                                |                           |
+| Полесск     | Колледж строительства и профессиональных технологий                                                                                                                                                                                            | [сайт 1][ksipt_site1]<br/>[сайт 2][ksipt_site2]<br/>[вк 1][ksipt_vk1]<br/>[вк 2][ksipt_vk2]<br/>[вк 3][ksipt_vk3]<br/>[вк 4][ksipt_vk4]<br/>[вк 5][ksipt_vk5]<br/>[вк 6][ksipt_vk6]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | [сайт 1][ksipt_site1_archive]<br/>[сайт 2][ksipt_site2_archive]<br/>[вк 1][ksipt_vk1_archive]<br/>[вк 2][ksipt_vk2_archive]<br/>[вк 3][ksipt_vk3_archive]<br/>[вк 4][ksipt_vk4_archive]<br/>[вк 5][ksipt_vk5_archive]<br/>[вк 6][ksipt_vk6_archive]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1. Юлдашева Елена Владимировна ([профиль][ksipt_yuldasheva_profile])<br/>2. Зуилова Галина Владимировна ([vk][ksipt_zuilova_vk])<br/>2. Курлейко Вера Сергеевна ([vk][ksipt_kurleyko_vk])<br/>3. Карпова Дарья Сергеевна ([@][ksipt_karpova_email])<br/>3. Шовкуненко Алексей Игоревич<br/>3. Малов Дмитрий Анатольевич                                                                                                                                       |                           |
 | Советск     | Советский техникум-интернат                                                                                                                                                                                                                    | [сайт][sspt_internat_news]<br/>[вк][sspt_internat_vk]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | [сайт][sspt_internat_news_arch]<br/>[вк][sspt_internat_vk_arch]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 1. Шилина Инга Руслановна<br/>2. Федорова Александра Борисовна ([vk][fedorova_vk])                                                                                                                                                                                                                                                                                                                                                                            |                           |
 
 [katip_site1]: https://katip39.ru/
@@ -288,3 +290,119 @@
 [vk_5770]: https://vk.com/wall-193700002_5770
 
 [vk_5770_arch]: https://archive.md/V6Gzc
+
+[pst_site1]: https://xn--d1ac0akhds.xn--p1ai/vojska-bespilotnyh-sistem.html
+
+[pst_site1_archive]: https://web.archive.org/web/20260315231150/http://%D1%81%D1%83%D0%B4%D0%BE%D1%82%D0%B5%D1%85.%D1%80%D1%84/vojska-bespilotnyh-sistem.html
+
+[pst_site2]: https://xn--d1ac0akhds.xn--p1ai/1233-vstrecha-s-predstaviteljami-punkta-otbora-na-voennuju-sluzhbu-po-kontraktu-kaliningradskoj-oblasti.html
+
+[pst_site2_archive]: https://archive.md/AOm1R
+
+[pst_site3]: https://xn--d1ac0akhds.xn--p1ai/1090-vstrecha-s-uchastnikom-programmy-geroi39.html
+
+[pst_site3_archive]: https://web.archive.org/web/20260807132326/https://xn--d1ac0akhds.xn--p1ai/1090-vstrecha-s-uchastnikom-programmy-geroi39.html
+
+[pst_site4]: https://xn--d1ac0akhds.xn--p1ai/1049-vojska-bespilotnyh-sistem.html
+
+[pst_site4_archive]: https://web.archive.org/web/20260807132336/https://xn--d1ac0akhds.xn--p1ai/1049-vojska-bespilotnyh-sistem.html
+
+[pst_site5]: https://xn--d1ac0akhds.xn--p1ai/1039-vojska-bespilotnyh-sistem.html
+
+[pst_site5_archive]: https://web.archive.org/web/20260807132421/https://xn--d1ac0akhds.xn--p1ai/1039-vojska-bespilotnyh-sistem.html
+
+[pst_site6]: https://xn--d1ac0akhds.xn--p1ai/1022-bespilotnye-sistemy.html
+
+[pst_site6_archive]: https://web.archive.org/web/20260807132434/https://xn--d1ac0akhds.xn--p1ai/1022-bespilotnye-sistemy.html
+
+[pst_site7]: https://xn--d1ac0akhds.xn--p1ai/997-studenty-kaliningradskoj-oblasti-smogut-projti-sluzhbu-v-vojskah-bespilotnyh-sistem-.html
+
+[pst_site7_archive]: https://web.archive.org/web/20260807132454/https://xn--d1ac0akhds.xn--p1ai/997-studenty-kaliningradskoj-oblasti-smogut-projti-sluzhbu-v-vojskah-bespilotnyh-sistem-.html
+
+[pst_site8]: https://xn--d1ac0akhds.xn--p1ai/992-shtab-vospitatelnoj-raboty.html
+
+[pst_site8_archive]: https://web.archive.org/web/20260807132715/https://xn--d1ac0akhds.xn--p1ai/992-shtab-vospitatelnoj-raboty.html
+
+[pst_vk1]: https://vk.ru/wall-18646706_11522
+
+[pst_vk1_archive]: https://archive.md/Mh5AN
+
+[pst_vk2]: https://vk.ru/wall-18646706_11369
+
+[pst_vk2_archive]: https://archive.md/43ZNh
+
+[pst_vk3]: https://vk.ru/wall-18646706_11321
+
+[pst_vk3_archive]: https://archive.md/T1VxD
+
+[pst_vk4]: https://vk.ru/wall-18646706_11307
+
+[pst_vk4_archive]: https://archive.md/FRSfU
+
+[pst_vk5]: https://vk.ru/wall-18646706_11280
+
+[pst_vk5_archive]: https://archive.md/7hNCi
+
+[pst_vk6]: https://vk.ru/wall-18646706_11242
+
+[pst_vk6_archive]: https://archive.md/xE3XZ
+
+[pst_vk7]: https://vk.ru/wall-18646706_11234
+
+[pst_vk7_archive]: https://archive.md/tVCNc
+
+[pst_vk8]: https://vk.ru/wall-18646706_11166
+
+[pst_vk8_archive]: https://archive.md/6OPhd
+
+[pst_kleshning_vk]: https://vk.ru/sudoteh39
+
+[pst_kleshning_mention]: https://archive.md/lSId9
+
+[pst_mihailova_email]: mailto:mih-nat@mail.ru
+
+[pst_kudashev_email]: mailto:kudvlad95@gmail.com
+
+[ksipt_site1]: https://ptpt39.ru/wr
+
+[ksipt_site1_archive]: https://archive.md/Myl6l
+
+[ksipt_site2]: https://ptpt39.ru/test/news/zashhishhaj-rodinu-s-peredovyx-texnologij-upravlyaj-bespilotnymi-sistemami
+
+[ksipt_site2_archive]: https://archive.md/0pGjI
+
+[ksipt_vk1]: https://vk.ru/wall-133656410_15773
+
+[ksipt_vk1_archive]: https://archive.md/UGdwP
+
+[ksipt_vk2]: https://vk.ru/wall-133656410_15561
+
+[ksipt_vk2_archive]: https://archive.md/fQaO3
+
+[ksipt_vk3]: https://vk.ru/wall-133656410_15560
+
+[ksipt_vk3_archive]: https://archive.md/AHo2V
+
+[ksipt_vk4]: https://vk.ru/wall-133656410_15500
+
+[ksipt_vk4_archive]: https://archive.md/5x2vK
+
+[ksipt_vk5]: https://vk.ru/wall-133656410_15483
+
+[ksipt_vk5_archive]: https://archive.md/tPYP3
+
+[ksipt_vk6]: https://vk.ru/wall-133656410_15467
+
+[ksipt_vk6_archive]: https://archive.md/txfLH
+
+[ksipt_vk7]: https://vk.ru/wall-133656410_15467
+
+[ksipt_vk7_archive]: https://archive.md/txfLH
+
+[ksipt_yuldasheva_profile]: https://ptpt39.ru/svedeniya-o-gbu-ko/stranica-direktora
+
+[ksipt_zuilova_vk]: https://vk.ru/id185512783
+
+[ksipt_kurleyko_vk]: https://vk.ru/id547115875
+
+[ksipt_karpova_email]: mailto:d.s.karpova@ksipt39.ru
