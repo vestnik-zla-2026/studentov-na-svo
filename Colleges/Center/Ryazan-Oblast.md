@@ -26,12 +26,14 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Рязанская область
 
-| Город   | Колледж, техникум                                        | Ссылки                                                                                                                                                                                                                                                            | Копии                                                                                                                                                                                                                                                                                                                         | Ответственные лица                                                                                                                                                                                                           | Структурные подразделения |
-| ------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Касимов | Касимовский нефтегазовый колледж                         | [сайт 1][kngk_site1]<br/>[сайт 2][kngk_site2]<br/>[вк 1][kngk_vk1]<br/>[вк 2][kngk_vk2]<br/>[вк 3][kngk_vk3]<br/>[вк 4][kngk_vk4]<br/>[вк 5][kngk_vk5]<br/>[вк 6][kngk_vk6]<br/>[вк 7][kngk_vk7]<br/>[вк 8][kngk_vk8]<br/>[вк 9][kngk_vk9]<br/>[вк 10][kngk_vk10] | [сайт 1][kngk_site1_arch]<br/>[сайт 2][kngk_site2_arch]<br/>[вк 1][kngk_vk1_arch]<br/>[вк 2][kngk_vk2_arch]<br/>[вк 3][kngk_vk3_arch]<br/>[вк 4][kngk_vk4_arch]<br/>[вк 5][kngk_vk5_arch]<br/>[вк 6][kngk_vk6_arch]<br/>[вк 7][kngk_vk7_arch]<br/>[вк 8][kngk_vk8_arch]<br/>[вк 9][kngk_vk9_arch]<br/>[вк 10][kngk_vk10_arch] | 1. Лунин Валерий Леонидович ([профиль][kngk_lunin_profile])<br/>3. Ибраев Руслан                                                                                                                                             |                           |
-| Касимов | Филиал Рязанского педагогического колледжа в г. Касимове | [вк 1][rpkkas_vk1]<br/>[вк 2][rpkkas_vk2]<br/>[вк 3][rpkkas_vk3]<br/>[вк 4][rpkkas_vk4]<br/>[вк 5][rpkkas_vk5]<br/>[вк 6][rpkkas_vk6]<br/>[вк 7][rpkkas_vk7]<br/>[вк 8][rpkkas_vk8]<br/>[вк 9][rpkkas_vk9]                                                        | [вк 1][rpkkas_vk1_arch]<br/>[вк 2][rpkkas_vk2_arch]<br/>[вк 3][rpkkas_vk3_arch]<br/>[вк 4][rpkkas_vk4_arch]<br/>[вк 5][rpkkas_vk5_arch]<br/>[вк 6][rpkkas_vk6_arch]<br/>[вк 7][rpkkas_vk7_arch]<br/>[вк 8][rpkkas_vk8_arch]<br/>[вк 9][rpkkas_vk9_arch]                                                                       | 1. Ермакова Татьяна Викторовна ([профиль][rpkkas_ermakova_profile])<br/>2. Середа Светлана ([vk][rpkkas_sereda_vk])<br/>2. Гаврилина Ангелина ([vk][rpkkas_gavrilina_vk])<br/>3. Кочетов Сергей Юрьевич<br/>3. Ибраев Руслан |                           |
+| Город   | Колледж, техникум                                        | Ссылки                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Копии                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Ответственные лица                                                                                                                                                                                                                                                                                                                                                          | Структурные подразделения |
+| ------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Касимов | Касимовский нефтегазовый колледж                         | [сайт 1][kngk_site1]<br/>[сайт 2][kngk_site2]<br/>[вк 1][kngk_vk1]<br/>[вк 2][kngk_vk2]<br/>[вк 3][kngk_vk3]<br/>[вк 4][kngk_vk4]<br/>[вк 5][kngk_vk5]<br/>[вк 6][kngk_vk6]<br/>[вк 7][kngk_vk7]<br/>[вк 8][kngk_vk8]<br/>[вк 9][kngk_vk9]<br/>[вк 10][kngk_vk10]                                                                                                                                                                                                             | [сайт 1][kngk_site1_arch]<br/>[сайт 2][kngk_site2_arch]<br/>[вк 1][kngk_vk1_arch]<br/>[вк 2][kngk_vk2_arch]<br/>[вк 3][kngk_vk3_arch]<br/>[вк 4][kngk_vk4_arch]<br/>[вк 5][kngk_vk5_arch]<br/>[вк 6][kngk_vk6_arch]<br/>[вк 7][kngk_vk7_arch]<br/>[вк 8][kngk_vk8_arch]<br/>[вк 9][kngk_vk9_arch]<br/>[вк 10][kngk_vk10_arch]                                                                                                                                                                                                                                                                                                                                 | 1. Лунин Валерий Леонидович ([профиль][kngk_lunin_profile])<br/>3. Ибраев Руслан                                                                                                                                                                                                                                                                                            |                           |
+| Касимов | Филиал Рязанского педагогического колледжа в г. Касимове | [вк 1][rpkkas_vk1]<br/>[вк 2][rpkkas_vk2]<br/>[вк 3][rpkkas_vk3]<br/>[вк 4][rpkkas_vk4]<br/>[вк 5][rpkkas_vk5]<br/>[вк 6][rpkkas_vk6]<br/>[вк 7][rpkkas_vk7]<br/>[вк 8][rpkkas_vk8]<br/>[вк 9][rpkkas_vk9]                                                                                                                                                                                                                                                                    | [вк 1][rpkkas_vk1_arch]<br/>[вк 2][rpkkas_vk2_arch]<br/>[вк 3][rpkkas_vk3_arch]<br/>[вк 4][rpkkas_vk4_arch]<br/>[вк 5][rpkkas_vk5_arch]<br/>[вк 6][rpkkas_vk6_arch]<br/>[вк 7][rpkkas_vk7_arch]<br/>[вк 8][rpkkas_vk8_arch]<br/>[вк 9][rpkkas_vk9_arch]                                                                                                                                                                                                                                                                                                                                                                                                       | 1. Ермакова Татьяна Викторовна ([профиль][rpkkas_ermakova_profile])<br/>2. Середа Светлана ([vk][rpkkas_sereda_vk])<br/>2. Гаврилина Ангелина ([vk][rpkkas_gavrilina_vk])<br/>3. Кочетов Сергей Юрьевич<br/>3. Ибраев Руслан                                                                                                                                                |                           |
+| Рязань  | Рязанское художественное училище им. Г. К. Вагнера       | [вк 1][rhu_vk1]<br/>[вк 2][rhu_vk2]<br/>[вк 3][rhu_vk3]<br/>[вк 4][rhu_vk4]<br/>[вк 5][rhu_vk5]<br/>[вк 6][rhu_vk6]<br/>[вк 7][rhu_vk7]<br/>[вк 8][rhu_vk8]<br/>[вк 9][rhu_vk9]<br/>[вк 10][rhu_vk10]<br/>[вк 11][rhu_vk11]<br/>[вк 12][rhu_vk12]<br/>[вк 13][rhu_vk13]<br/>[вк 14][rhu_vk14]<br/>[вк 15][rhu_vk15]<br/>[вк 16][rhu_vk16]<br/>[вк 17][rhu_vk17]<br/>[вк 18][rhu_vk18]<br/>[вк 19][rhu_vk19]<br/>[вк 20][rhu_vk20]<br/>[вк 21][rhu_vk21]<br/>[вк 22][rhu_vk22] | [вк 1][rhu_vk1_archive]<br/>[вк 2][rhu_vk2_archive]<br/>[вк 3][rhu_vk3_archive]<br/>[вк 4][rhu_vk4_archive]<br/>[вк 5][rhu_vk5_archive]<br/>[вк 6][rhu_vk6_archive]<br/>[вк 7][rhu_vk7_archive]<br/>[вк 8][rhu_vk8_archive]<br/>[вк 9][rhu_vk9_archive]<br/>[вк 10][rhu_vk10_archive]<br/>[вк 11][rhu_vk11_archive]<br/>[вк 12][rhu_vk12_archive]<br/>[вк 13][rhu_vk13_archive]<br/>[вк 14][rhu_vk14_archive]<br/>[вк 15][rhu_vk15_archive]<br/>[вк 16][rhu_vk16_archive]<br/>[вк 17][rhu_vk17_archive]<br/>[вк 18][rhu_vk18_archive]<br/>[вк 19][rhu_vk19_archive]<br/>[вк 20][rhu_vk20_archive]<br/>[вк 21][rhu_vk21_archive]<br/>[вк 22][rhu_vk22_archive] | 1. Горчаков Сергей Александрович ([профиль][rhu_gorchakov_profile])<br/>2. Дудкина Марина Александровна ([vk][rhu_dudkina_vk], [профиль][rhu_dudkina_profile])<br/>2. Болдина Екатерина Владиславовна ([vk][rhu_boldina_vk], [профиль][rhu_boldina_profile])<br/>2. Бокарева Ксения Андреевна ([vk][rhu_bokareva_vk], [профиль][rhu_bokareva_profile])<br/>3. Ибраев Руслан |                           |
 
 [kngk_site1]: https://kngk62.gosuslugi.ru/novosti-i-sobytiya/vstrecha-s-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu.html
 
@@ -124,3 +126,105 @@
 [rpkkas_sereda_vk]: https://vk.com/swetlankkka
 
 [rpkkas_gavrilina_vk]: https://vk.com/gavrilina_62
+
+[rhu_vk1]: https://vk.ru/wall-202362313_2608
+
+[rhu_vk1_archive]: https://archive.md/a5CFF
+
+[rhu_vk2]: https://vk.ru/wall-202362313_2588
+
+[rhu_vk2_archive]: https://archive.md/vcUXc
+
+[rhu_vk3]: https://vk.ru/wall-202362313_2575
+
+[rhu_vk3_archive]: https://archive.md/ldvIf
+
+[rhu_vk4]: https://vk.ru/wall-202362313_2571
+
+[rhu_vk4_archive]: https://archive.md/h5wGa
+
+[rhu_vk5]: https://vk.ru/wall-202362313_2556
+
+[rhu_vk5_archive]: https://archive.md/rttMp
+
+[rhu_vk6]: https://vk.ru/wall-202362313_2542
+
+[rhu_vk6_archive]: https://archive.md/Vhsex
+
+[rhu_vk7]: https://vk.ru/wall-202362313_2525
+
+[rhu_vk7_archive]: https://archive.md/tf4Jr
+
+[rhu_vk8]: https://vk.ru/wall-202362313_2501
+
+[rhu_vk8_archive]: https://archive.md/zv2NB
+
+[rhu_vk9]: https://vk.ru/wall-202362313_2490
+
+[rhu_vk9_archive]: https://archive.md/rUGEo
+
+[rhu_vk10]: https://vk.ru/wall-202362313_2459
+
+[rhu_vk10_archive]: https://archive.md/nrjxg
+
+[rhu_vk11]: https://vk.ru/wall-202362313_2436
+
+[rhu_vk11_archive]: https://archive.md/IixK8
+
+[rhu_vk12]: https://vk.ru/wall-202362313_2434
+
+[rhu_vk12_archive]: https://archive.md/c9bdX
+
+[rhu_vk13]: https://vk.ru/wall-202362313_2399
+
+[rhu_vk13_archive]: https://archive.md/6ZVuk
+
+[rhu_vk14]: https://vk.ru/wall-202362313_2388
+
+[rhu_vk14_archive]: https://archive.md/MzT8r
+
+[rhu_vk15]: https://vk.ru/wall-202362313_2375
+
+[rhu_vk15_archive]: https://archive.md/QKybd
+
+[rhu_vk16]: https://vk.ru/wall-202362313_2360
+
+[rhu_vk16_archive]: https://archive.md/bUvtr
+
+[rhu_vk17]: https://vk.ru/wall-202362313_2354
+
+[rhu_vk17_archive]: https://archive.md/kfNyZ
+
+[rhu_vk18]: https://vk.ru/wall-202362313_2343
+
+[rhu_vk18_archive]: https://archive.md/DkqPP
+
+[rhu_vk19]: https://vk.ru/wall-202362313_2315
+
+[rhu_vk19_archive]: https://archive.md/8a4iE
+
+[rhu_vk20]: https://vk.ru/wall-202362313_2300
+
+[rhu_vk20_archive]: https://archive.md/2E2aP
+
+[rhu_vk21]: https://vk.ru/wall-202362313_2285
+
+[rhu_vk21_archive]: https://archive.md/W8Z20
+
+[rhu_vk22]: https://vk.ru/wall-202362313_2276
+
+[rhu_vk22_archive]: https://archive.md/gdDjQ
+
+[rhu_gorchakov_profile]: https://rhurzn.gosuslugi.ru/o-nas/sotrudniki/gorchakov-sergey-alexandrovich-chief.html
+
+[rhu_dudkina_vk]: https://vk.ru/id422764539
+
+[rhu_dudkina_profile]: https://rhurzn.gosuslugi.ru/o-nas/sotrudniki/dudkina--marina-alexandrovna.html
+
+[rhu_boldina_vk]: https://vk.ru/id47761413
+
+[rhu_boldina_profile]: https://rhurzn.gosuslugi.ru/o-nas/sotrudniki/boldina--ekaterina-vladislavovna.html
+
+[rhu_bokareva_vk]: https://vk.ru/ksendil
+
+[rhu_bokareva_profile]: https://rhurzn.gosuslugi.ru/o-nas/sotrudniki/bokareva--kseniya-andreevna.html
