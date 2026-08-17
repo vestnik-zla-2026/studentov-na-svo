@@ -29,14 +29,52 @@
 
 # Еврейская автономная область
 
-| Город, село | Колледж, техникум                                      | Ссылки                                        | Копии                                         | Ответственные лица          | Структурные подразделения |
-| ----------- | ------------------------------------------------------ | --------------------------------------------- | --------------------------------------------- | --------------------------- | ------------------------- |
-| Биробиджан  | Биробиджанский колледж культуры и креативных индустрий | [вконтакте][biro_kultura_vk]                  | [вконтакте][biro_kultura_archive]             | 1. Шмыров Денис Николаевич  |                           |
-| Ленинское   | Сельскохозяйственный техникум                          | [вконтакте 1][k1c44]<br/>[вконтакте 2][l2d55] | [вконтакте 1][m3e66]<br/>[вконтакте 2][n4f77] | 1. Куликов Вячеслав Юрьевич |                           |
+| Город, село | Колледж, техникум                                      | Ссылки                                                                                  | Копии                                                                                                                   | Ответственные лица                                                                                                                                     | Структурные подразделения |
+| ----------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| Амурзет     | Многопрофильный техникум                               | [сайт][mt_amurzet_site1]                                                                | [сайт][mt_amurzet_site1_archive]                                                                                        | 1. Королев Александр Геннадьевич                                                                                                                       |                           |
+| Биробиджан  | Биробиджанский колледж культуры и креативных индустрий | [вк][biro_kultura_vk]                                                                   | [вк][biro_kultura_archive]                                                                                              | 1. Шмыров Денис Николаевич                                                                                                                             |                           |
+| Биробиджан  | Биробиджанский медицинский колледж                     | [вк 1][bmk_biro_vk1]<br/>[вк 2][bmk_biro_vk2]                                           | [вк 1][bmk_biro_vk1_archive]<br/>[вк 2][bmk_biro_vk2_archive]                                                           | 1. Попова Елена Владимировна<br/>2. Житникова Ульяна ([vk][bmk_biro_zhitnikova_vk], [@][bmk_biro_zhitnikova_email])                                    |                           |
+| Биробиджан  | Политехнический техникум                               | [сайт][ptb_site1]<br/>[вк 1][ptb_vk1]<br/>[вк 2][ptb_vk2]<br/>[вк 3][ptb_vk3]           | [сайт][ptb_site1_archive]<br/>[вк 1][ptb_vk1_archive]<br/>[вк 2][ptb_vk2_archive]<br/>[вк 3][ptb_vk3_archive]           | 1. Калманов Михаил Борисович ([профиль][ptb_kalmanov_profile])                                                                                         |                           |
+| Ленинское   | Сельскохозяйственный техникум                          | [вк 1][k1c44]<br/>[вк 2][l2d55]                                                         | [вк 1][m3e66]<br/>[вк 2][n4f77]                                                                                         | 1. Куликов Вячеслав Юрьевич                                                                                                                            |                           |
+| Облучье     | Технический колледж                                    | [вк 1][tk_obl_vk1]<br/>[вк 2][tk_obl_vk2]<br/>[вк 3][tk_obl_vk3]<br/>[вк 4][tk_obl_vk4] | [вк 1][tk_obl_vk1_archive]<br/>[вк 2][tk_obl_vk2_archive]<br/>[вк 3][tk_obl_vk3_archive]<br/>[вк 4][tk_obl_vk4_archive] | 1. Машина Виктория Викторовна<br/>2. Максов Сергей Вячеславович ([vk][tk_obl_maksov_vk])<br/>3. Дружинин Константин Генадьевич<br/>3. Берлов Владислав |                           |
+
+[mt_amurzet_site1]: https://xn--e1afefe2cq.xn--p1ai/new.php?id_news=1075
+
+[mt_amurzet_site1_archive]: https://web.archive.org/web/20260816095441/https://xn--e1afefe2cq.xn--p1ai/new.php?id_news=1075
 
 [biro_kultura_vk]: https://vk.com/wall-81973926_4973
 
 [biro_kultura_archive]: https://web.archive.org/web/20260417161656/https://vk.com/wall-81973926_4973
+
+[bmk_biro_vk1]: https://vk.ru/wall-217770155_5609
+
+[bmk_biro_vk1_archive]: https://archive.md/2pV1Q
+
+[bmk_biro_vk2]: https://vk.ru/wall-217770155_5193
+
+[bmk_biro_vk2_archive]: https://archive.md/cxO4q
+
+[bmk_biro_zhitnikova_vk]: https://vk.ru/uzykova
+
+[bmk_biro_zhitnikova_email]: mailto:zykova_ulya@mail.ru
+
+[ptb_site1]: https://politeheao.ru/index.php?option=com_content&view=article&id=1083:studenty-tekhnikuma-poznakomilis-s-upravleniem-bpla&catid=40:2009-08-05-14-04-24&Itemid=170
+
+[ptb_site1_archive]: https://web.archive.org/web/20260816091434/https://politeheao.ru/index.php?option=com_content&view=article&id=1083:studenty-tekhnikuma-poznakomilis-s-upravleniem-bpla&catid=40:2009-08-05-14-04-24&Itemid=170
+
+[ptb_vk1]: https://vk.ru/wall-164554847_1507
+
+[ptb_vk1_archive]: https://archive.md/15M2f
+
+[ptb_vk2]: https://vk.ru/wall-164554847_1395
+
+[ptb_vk2_archive]: https://archive.md/LYTwL
+
+[ptb_vk3]: https://vk.ru/wall-164554847_1344
+
+[ptb_vk3_archive]: https://archive.md/l2P23
+
+[ptb_kalmanov_profile]: https://politeheao.ru/index.php?option=com_content&view=article&id=94&Itemid=77
 
 [k1c44]: https://vk.com/wall-211373234_1569
 
@@ -45,3 +83,21 @@
 [m3e66]: https://archive.md/aCYCb
 
 [n4f77]: https://archive.md/8eVwr
+
+[tk_obl_vk1]: https://vk.ru/wall-157668219_1502
+
+[tk_obl_vk1_archive]: https://archive.md/gGHD6
+
+[tk_obl_vk2]: https://vk.ru/wall-157668219_1484
+
+[tk_obl_vk2_archive]: https://archive.md/wkCOv
+
+[tk_obl_vk3]: https://vk.ru/wall-157668219_1473
+
+[tk_obl_vk3_archive]: https://archive.md/9wymS
+
+[tk_obl_vk4]: https://vk.ru/wall-157668219_1431
+
+[tk_obl_vk4_archive]: https://archive.md/GsvQ5
+
+[tk_obl_maksov_vk]: https://vk.ru/maksovsergey
