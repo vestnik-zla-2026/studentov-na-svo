@@ -138,7 +138,7 @@ Third-party materials, archived copies, and quoted content remain subject to the
 | Калининградская область   | [университеты](Universities/Northwest/Kaliningrad-Oblast.md), [колледжи](Colleges/Northwest/Kaliningrad-Oblast.md) | Ленинградская область | [университеты](Universities/Northwest/Leningrad-Oblast.md), [колледжи](Colleges/Northwest/Leningrad-Oblast.md) |
 | Мурманская область        | [университеты](Universities/Northwest/Murmansk-Oblast.md), [колледжи](Colleges/Northwest/Murmansk-Oblast.md)       | Новгородская область  |                                                                                                                |
 | Псковская область         | [университеты](Universities/Northwest/Pskov-Oblast.md), [колледжи](Colleges/Northwest/Pskov-Oblast.md)             | Санкт-Петербург       | [университеты](Universities/Northwest/Saint-Petersburg.md), [колледжи](Colleges/Northwest/Saint-Petersburg.md) |
-| Ненецкий автономный округ |                                                                                                                    |                       |                                                                                                                |
+| Ненецкий автономный округ | [колледжи](Colleges/Northwest/Nenets-Autonomous-Okrug.md)                                                          |                       |                                                                                                                |
 
 ## Северо-Кавказский федеральный округ
 
