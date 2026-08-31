@@ -26,11 +26,13 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Тамбовская область
 
-| Город   | Колледж, техникум                 | Ссылки                                  | Копии                                             | Ответственные лица                                                                                                                                                           | Структурные подразделения |
-| ------- | --------------------------------- | --------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Котовск | Котовский индустриальный техникум | [вк 1][kit68_vk1]<br/>[вк 2][kit68_vk2] | [вк 1][kit68_vk1_arch]<br/>[вк 2][kit68_vk2_arch] | 1. Третьякова Таисия Викторовна<br/>3. Павлов Николай ([упоминание][pavlov_n_mention]), отец Павловой Натальи Николаевны ([vk][pavlova_nn_vk], [сайт][pavlova_nn_site_arch]) |                           |
+| Город   | Колледж, техникум                 | Ссылки                                                                                                | Копии                                                                                                                     | Ответственные лица                                                                                                                                                                                                                                                                        | Структурные подразделения |
+| ------- | --------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Котовск | Котовский индустриальный техникум | [вк 1][kit68_vk1]<br/>[вк 2][kit68_vk2]                                                               | [вк 1][kit68_vk1_arch]<br/>[вк 2][kit68_vk2_arch]                                                                         | 1. Третьякова Таисия Викторовна<br/>3. Павлов Николай Викторович ([@][pavlov_n_email], [профиль МГАУ][pavlov_n_mgau_profile], [упоминание 1][pavlov_n_mention1], [упоминание 2][pavlov_n_mention2]), отец Павловой Натальи Николаевны ([vk][pavlova_nn_vk], [сайт][pavlova_nn_site_arch]) |                           |
+| Тамбов  | Тамбовский бизнес-колледж         | [сайт][tbcollege_site1]<br/>[вк 1][tbcollege_vk1]<br/>[вк 2][tbcollege_vk2]<br/>[вк 3][tbcollege_vk3] | [сайт][tbcollege_site1_arch]<br/>[вк 1][tbcollege_vk1_arch]<br/>[вк 2][tbcollege_vk2_arch]<br/>[вк 3][tbcollege_vk3_arch] | 1. Астахова Наталия Вениаминовна                                                                                                                                                                                                                                                          |                           |
 
 [kit68_vk1]: https://vk.com/wall-205807043_3144
 
@@ -40,8 +42,30 @@
 
 [kit68_vk2_arch]: https://archive.md/GNozy
 
-[pavlov_n_mention]: https://web.archive.org/web/20260729133010/https://tsargrad.tv/dzen/generaly-otdajut-chest-jetoj-devochke-malyshke-11-let-a-ona-uzhe-gordost-rossii_1204797
+[pavlov_n_mention1]: https://web.archive.org/web/20260729133010/https://tsargrad.tv/dzen/generaly-otdajut-chest-jetoj-devochke-malyshke-11-let-a-ona-uzhe-gordost-rossii_1204797
+
+[pavlov_n_mention2]: https://web.archive.org/web/20260831092545/https://top68.ru/news/society/2026-05-21/nikolay-pavlov-o-nabore-v-novye-voyska-boets-voysk-bpla-eto-shtuchnyy-spetsialist-327647
+
+[pavlov_n_email]: mailto:2109021@mail.ru
+
+[pavlov_n_mgau_profile]: https://mgau.ru/life/rukovodstvo/rukovodstvo/pavlov-nikolay-viktorovich/
 
 [pavlova_nn_vk]: https://vk.com/natsbelka
 
 [pavlova_nn_site_arch]: https://web.archive.org/web/20260722112626/https://xn--80aabboe9ah4av.xn--p1ai/
+
+[tbcollege_site1]: https://tbcollege.ru/
+
+[tbcollege_site1_arch]: https://web.archive.org/web/20260827102310/https://tbcollege.ru/
+
+[tbcollege_vk1]: https://vk.ru/wall-145925108_3023
+
+[tbcollege_vk1_arch]: https://archive.md/f3pn8
+
+[tbcollege_vk2]: https://vk.ru/wall-145925108_2997
+
+[tbcollege_vk2_arch]: https://archive.md/epieJ
+
+[tbcollege_vk3]: https://vk.ru/wall-145925108_2984
+
+[tbcollege_vk3_arch]: https://archive.md/LtJwz

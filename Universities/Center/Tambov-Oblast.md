@@ -26,16 +26,43 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Тамбовская область
 
-| Город     | Университет, институт, филиал                    | Ссылки                              | Копии                                               | Ответственные лица              | Структурные подразделения |
-| --------- | ------------------------------------------------ | ----------------------------------- | --------------------------------------------------- | ------------------------------- | ------------------------- |
-| Мичуринск | Мичуринский государственный аграрный университет | [сайт][mgau_site]<br/>[вк][mgau_vk] | [сайт][mgau_site_archive]<br/>[вк][mgau_vk_archive] | 1. Иванова Екатерина Викторовна |                           |
+| Город     | Университет, институт, филиал                    | Ссылки                                                                            | Копии                                                                                                 | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                     | Структурные подразделения |
+| --------- | ------------------------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| Мичуринск | Мичуринский государственный аграрный университет | [сайт][mgau_site1]<br/>[вк 1][mgau_vk1]<br/>[вк 2][mgau_vk2]<br/>[вк 3][mgau_vk3] | [сайт][mgau_site1_arch]<br/>[вк 1][mgau_vk1_arch]<br/>[вк 2][mgau_vk2_arch]<br/>[вк 3][mgau_vk3_arch] | 1. Иванова Екатерина Викторовна ([@][mgau_ivanova_email1], [@][mgau_ivanova_email2], [профиль][mgau_ivanova_profile])<br/>3. Павлов Николай Викторович ([профиль][mgau_pavlov_profile], [@][mgau_pavlov_email], [упоминание 1][mgau_pavlov_mention1], [упоминание 2][mgau_pavlov_mention2]), отец Павловой Натальи Николаевны ([vk][pavlova_vk], [сайт][pavlova_site])<br/>3. Харин Иван Александрович |                           |
 
-[mgau_site]: https://www.mgau.ru/press-center/news/novosti-universiteta/v-rossii-sozdan-novyy-rod-voysk-voyska-bespilotnykh-sistem/
+[mgau_site1]: https://www.mgau.ru/press-center/news/novosti-universiteta/v-rossii-sozdan-novyy-rod-voysk-voyska-bespilotnykh-sistem/
 
-[mgau_site_archive]: https://web.archive.org/web/20260517101124/https://www.mgau.ru/press-center/news/novosti-universiteta/v-rossii-sozdan-novyy-rod-voysk-voyska-bespilotnykh-sistem/
+[mgau_site1_arch]: https://web.archive.org/web/20260517101124/https://www.mgau.ru/press-center/news/novosti-universiteta/v-rossii-sozdan-novyy-rod-voysk-voyska-bespilotnykh-sistem/
 
-[mgau_vk]: https://vk.com/wall-31324353_16021
+[mgau_vk1]: https://vk.com/wall-31324353_16021
 
-[mgau_vk_archive]: https://archive.md/Y6YF8
+[mgau_vk1_arch]: https://archive.md/Y6YF8
+
+[mgau_vk2]: https://vk.ru/wall-145925108_2984
+
+[mgau_vk2_arch]: https://archive.md/LtJwz
+
+[mgau_vk3]: https://vk.ru/wall-175690410_46003
+
+[mgau_vk3_arch]: https://archive.md/lPG3o
+
+[mgau_ivanova_email1]: mailto:ivanova_ev@list.ru
+
+[mgau_ivanova_email2]: mailto:Ivanova@mgau.ru
+
+[mgau_ivanova_profile]: https://mgau.ru/life/rukovodstvo/rukovodstvo/ivanova-ekaterina-viktorovna/
+
+[mgau_pavlov_profile]: https://mgau.ru/life/rukovodstvo/rukovodstvo/pavlov-nikolay-viktorovich/
+
+[mgau_pavlov_email]: mailto:2109021@mail.ru
+
+[mgau_pavlov_mention1]: https://web.archive.org/web/20260831092545/https://top68.ru/news/society/2026-05-21/nikolay-pavlov-o-nabore-v-novye-voyska-boets-voysk-bpla-eto-shtuchnyy-spetsialist-327647
+
+[mgau_pavlov_mention2]: https://web.archive.org/web/20260729133010/https://tsargrad.tv/dzen/generaly-otdajut-chest-jetoj-devochke-malyshke-11-let-a-ona-uzhe-gordost-rossii_1204797
+
+[pavlova_vk]: https://vk.com/natsbelka
+
+[pavlova_site]: https://web.archive.org/web/20260722112626/https://xn--80aabboe9ah4av.xn--p1ai/
