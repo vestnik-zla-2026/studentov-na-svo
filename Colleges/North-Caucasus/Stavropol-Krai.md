@@ -33,6 +33,7 @@
 | ---------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | Минеральные Воды | Социально-экономический колледж «Перспектива»                               | [сайт][perspektiva_28192643]<br/>[документ][perspektiva_pdf_28192650]                                                                   | [сайт][perspektiva_28192643_arch]<br/>[документ][perspektiva_pdf_28192650_arch]                                                                                  | 1. Лидак Сергей Владимирович                                                                                                                                                          |                           |
 | Невинномысск     | Колледж Невинномысского государственного гуманитарно-технического института | [вк][wall_6898]                                                                                                                         | [вк][wall_6898_archive]                                                                                                                                          | 1. Херовинчук Ирина Сергеевна<br/>2.  Мащенко Анастасия<br/>2. Малеваный Кирилл Викторович ([vk][vk_kirillm54], [дума][mal_kir_duma])                                                 |                           |
+| Прасковея        | Прасковейский агро-технологический техникум                                 | [сайт][patt_site]<br/>[изображение][patt_image]<br/>[вк 1][patt_vk1]<br/>[вк 2][patt_vk2]                                               | [сайт][patt_site_archive]<br/>[изображение][patt_image_archive]<br/>[вк 1][patt_vk1_archive]<br/>[вк 2][patt_vk2_archive]                                        | 1. Ермаков Олег Николаевич                                                                                                                                                            |                           |
 | Светлоград       | Светлоградский региональный сельскохозяйственный колледж                    | [документ][svetrsk_doc]<br/>[сайт 1][svetrsk_site1]<br/>[сайт 2][svetrsk_site2]<br/>[сайт 3][svetrsk_site3]<br/>[сайт 4][svetrsk_site4] | [документ][svetrsk_doc_arch]<br/>[сайт 1][svetrsk_site1_arch]<br/>[сайт 2][svetrsk_site2_arch]<br/>[сайт 3][svetrsk_site3_arch]<br/>[сайт 4][svetrsk_site4_arch] | 1. Шаповалов Анатолий Дмитриевич ([vk][shapovalov_vk])<br/>2. Горбиенко Антон Александрович ([vk][gorbienko_vk])<br/>3. Семенихин Егор Сергеевич<br/>3. Войщиков Сергей Александрович |                           |
 | Ставрополь       | Колледж Северо-Кавказского федерального университета в г. Ставрополе        | [сайт][ncfu_news]<br/>[буклет 1][ncfu_doc1]<br/>[буклет 2][ncfu_doc2]<br/>[вк 1][ncfu_vk1]<br/>[вк 2][ncfu_vk2]                         | [сайт][ncfu_news_archive]<br/>[буклет 1][ncfu_doc1_archive]<br/>[буклет 2][ncfu_doc2_archive]<br/>[вк 1][ncfu_vk1_archive]<br/>[вк 2][ncfu_vk2_archive]          | 1. Торишный Олег Анатольевич                                                                                                                                                          |                           |
 | Ставрополь       | Ставропольский техникум медицины и отраслевых технологий                    | [вк 1][stmio_vk1]<br/>[вк 2][stmio_vk2]                                                                                                 | [вк 1][stmio_vk1_arch]<br/>[вк 2][stmio_vk2_arch]                                                                                                                | 1. Стехова Наталья Ивановна ([@][stekhova_ni_email])                                                                                                                                  |                           |
@@ -111,3 +112,19 @@
 [stmio_vk2_arch]: https://archive.md/lxy7t 
 
 [stekhova_ni_email]: mailto:stekhova.natalya@gmail.com
+
+[patt_site]: https://www.vintehnikum.ru/
+
+[patt_site_archive]: https://archive.md/dZTln
+
+[patt_image]: https://www.vintehnikum.ru/templates/yootheme/cache/bespilotnye-vojska-1920kh1080-83c1234f.png
+
+[patt_image_archive]: https://web.archive.org/web/20260831115543/https://www.vintehnikum.ru/templates/yootheme/cache/bespilotnye-vojska-1920kh1080-83c1234f.png
+
+[patt_vk1]: https://vk.ru/wall-216912895_3112
+
+[patt_vk1_archive]: https://archive.md/7iIpe
+
+[patt_vk2]: https://vk.ru/wall-216912895_3022
+
+[patt_vk2_archive]: https://archive.md/3zher
