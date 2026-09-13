@@ -31,6 +31,10 @@
 
 | Город      | Колледж, техникум                                                          | Ссылки                                                                                                                                                                                                                                                                                                                                         | Копии                                                                                                                                                                                                                                                                                                                                                                                                                                  | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Структурные подразделения |
 | ---------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Березники  | Березниковский колледж строительных технологий и креативных индустрий      | [сайт][bksk_site1]<br/>[вк 1][bksk_vk1]<br/>[вк 2][bksk_vk2]                                                                                                                                                                                                                                                                                   | [сайт][bksk_site1_arch]<br/>[вк 1][bksk_vk1_arch]<br/>[вк 2][bksk_vk2_arch]                                                                                                                                                                                                                                                                                                                                                            | 1. Долгополов Иван Яковлевич<br/>2. Сенчук Елена Ганиевна ([vk][bksk_senchuk_vk])<br/>2. Куимова Алёна ([vk][bksk_kuimova_vk])<br/>3. Черноус Лилия ([vk][bksk_chernous_vk])                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                           |
+| Березники  | Березниковский медицинский колледж                                         | [сайт][bmk_site1]<br/>[вк 1][bmk_vk1]<br/>[вк 2][bmk_vk2]<br/>[вк 3][bmk_vk3]<br/>[вк 4][bmk_vk4]<br/>[вк 5][bmk_vk5]                                                                                                                                                                                                                          | [сайт][bmk_site1_arch]<br/>[вк 1][bmk_vk1_arch]<br/>[вк 2][bmk_vk2_arch]<br/>[вк 3][bmk_vk3_arch]<br/>[вк 4][bmk_vk4_arch]<br/>[вк 5][bmk_vk5_arch]                                                                                                                                                                                                                                                                                    | 1. Кадочникова Галина Витальевна<br/>2. Новикова Юлия Владимировна ([vk][bmk_novikova_vk])<br/>2. Черных Юлия Борисовна ([vk][bmk_chernykh_vk])                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                           |
+| Березники  | Березниковский политехнический техникум                                    | [сайт][bpt_site1]<br/>[вк 1][bpt_vk1]<br/>[вк 2][bpt_vk2]<br/>[вк 3][bpt_vk3]                                                                                                                                                                                                                                                                  | [сайт][bpt_site1_arch]<br/>[вк 1][bpt_vk1_arch]<br/>[вк 2][bpt_vk2_arch]<br/>[вк 3][bpt_vk3_arch]                                                                                                                                                                                                                                                                                                                                      | 1. Бариева Алсина Рафаиловна ([профиль][bpt_barieva_profile])<br/>3. Мизин Олег Вячеславович                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                           |
+| Березники  | Березниковское музыкальное училище (колледж)                               | [сайт][bmu_site1]<br/>[вк 1][bmu_vk1]<br/>[вк 2][bmu_vk2]<br/>[вк 3][bmu_vk3]<br/>[вк 4][bmu_vk4]<br/>[вк 5][bmu_vk5]<br/>[вк 6][bmu_vk6]<br/>[вк 7][bmu_vk7]<br/>[вк 8][bmu_vk8]<br/>[вк 9][bmu_vk9]<br/>[вк 10][bmu_vk10]                                                                                                                    | [сайт][bmu_site1_arch]<br/>[вк 1][bmu_vk1_arch]<br/>[вк 2][bmu_vk2_arch]<br/>[вк 3][bmu_vk3_arch]<br/>[вк 4][bmu_vk4_arch]<br/>[вк 5][bmu_vk5_arch]<br/>[вк 6][bmu_vk6_arch]<br/>[вк 7][bmu_vk7_arch]<br/>[вк 8][bmu_vk8_arch]<br/>[вк 9][bmu_vk9_arch]<br/>[вк 10][bmu_vk10_arch]                                                                                                                                                     | 1. Гарц Татьяна Николаевна ([vk][bmu_garc_vk])<br/>2. Кирилюк Дарина Дмитриевна ([vk][bmu_kirilyuk_vk])<br/>3. Пидлужный Андрей<br/>3. Тимофеев Матвей<br/>3. Мизин Олег Вячеславович<br/>3. Черноус Лилия ([vk][bmu_chernous_vk])                                                                                                                                                                                                                                                                                                                                                                                                                                              |                           |
 | Кудымкар   | Коми-Пермяцкий агротехнический техникум                                    | [изображение][kpat_doc1]<br/>[вконтакте 1][kpat_vk1]<br/>[вконтакте 2][kpat_vk2]<br/>[вконтакте 3][kpat_vk3]                                                                                                                                                                                                                                   | [изображение][kpat_doc1_archive]<br/>[вконтакте 1][kpat_vk1_archive]<br/>[вконтакте 2][kpat_vk2_archive]<br/>[вконтакте 3][kpat_vk3_archive]                                                                                                                                                                                                                                                                                           | 1. Беляков Владимир Александрович<br/>2. Тарасова Елена Андреевна ([vk][kpat_tarasova_vk])<br/>2. Трошева Марина Владимировна ([vk][kpat_trosheva_vk])<br/>2. Вотинов Михаил Викторович ([vk][kpat_votinov_vk], [@][kpat_votinov_email])<br/>2. Иутина Светлана Анатольевна ([vk][kpat_iutina_vk])<br/>2. Старкова Наталья Сергеевна ([vk][kpat_starkova_vk])<br/>2. Боталов Вячеслав Иванович ([vk][kpat_botalov_vk])<br/>2. Окулова Ольга ([vk][kpat_okulova_vk])<br/>2. Швецова Алиса ([vk][kpat_shvetsova_vk])                                                                                                                                                              |                           |
 | Кудымкар   | Коми-Пермяцкий профессионально-педагогический колледж ордена «Знак Почёта» | [вконтакте 1][kpppk_vk1]<br/>[вконтакте 2][kpppk_vk2]<br/>[вконтакте 3][kpppk_vk3]<br/>[вконтакте 4][kpppk_vk4]<br/>[вконтакте 5][kpppk_vk5]<br/>[вконтакте 6][kpppk_vk6]                                                                                                                                                                      | [вконтакте 1][kpppk_vk1_archive]<br/>[вконтакте 2][kpppk_vk2_archive]<br/>[вконтакте 3][kpppk_vk3_archive]<br/>[вконтакте 4][kpppk_vk4_archive]<br/>[вконтакте 5][kpppk_vk5_archive]<br/>[вконтакте 6][kpppk_vk6_archive]                                                                                                                                                                                                              | 1. Якобчук Оксана Евгеньевна<br/>2. Дегтянникова Наталья Борисовна ([vk][kpppk_degtyannikova_vk])<br/>2. Волегова Наталья Сергеевна ([vk][kpppk_volegova_vk])                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                           |
 | Кудымкар   | Кудымкарский лесотехнический техникум                                      | [сайт 1][klt_site1]<br/>[сайт 2][klt_site2]<br/>[сайт 3][klt_site3]<br/>[сайт 4][klt_site4]<br/>[вконтакте 1][klt_vk1]<br/>[вконтакте 2][klt_vk2]<br/>[вконтакте 3][klt_vk3]<br/>[вконтакте 4][klt_vk4]                                                                                                                                        | [сайт 1][klt_site1_archive]<br/>[сайт 2][klt_site2_archive]<br/>[сайт 3][klt_site3_archive]<br/>[сайт 4][klt_site4_archive]<br/>[вконтакте 1][klt_vk1_archive]<br/>[вконтакте 2][klt_vk2_archive]<br/>[вконтакте 3][klt_vk3_archive]<br/>[вконтакте 4][klt_vk4_archive]                                                                                                                                                                | 1. Ведерников Олег Николаевич ([@][klt_vedernikov_email])<br/>2. Мизева Ксения Леонидовна ([vk][klt_mizeva_vk])<br/>2. Яковкин Александр Владимирович ([@][klt_yakovkin_email], [vk][klt_yakovkin_vk])<br/>2. Конгуров Артемий Андреевич ([vk][klt_kongurov_vk])<br/>3. Поплаухин Василий Викторович                                                                                                                                                                                                                                                                                                                                                                            |                           |
@@ -38,6 +42,120 @@
 | Пермь      | Пермский краевой колледж «Оникс»                                           | [сайт 1][oniiks_237]<br/>[сайт 2][oniiks_242]<br/>[вконтакте][vk_4149]                                                                                                                                                                                                                                                                         | [сайт 1][oniiks_237_arch]<br/>[сайт 2][oniiks_242_arch]<br/>[вконтакте][vk_4149_arch]                                                                                                                                                                                                                                                                                                                                                  | 1. Рогова Марина Николаевна<br/>3. Котвицкая Диана Юрьевна<br/>3. Кошкина Вероника Игоревна                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                           |
 | Чайковский | Чайковский индустриальный колледж                                          | [сайт 1][chai_ind_site]<br/>[сайт 2][chai_ind_site2]<br/>[сайт 3][chai_ind_site3]<br/>[документ][chai_ind_doc]<br/>[вконтакте 1][chai_ind_vk1]<br/>[вконтакте 2][chai_ind_vk2]<br/>[вконтакте 3][chai_ind_vk3]<br/>[вконтакте 4][chai_ind_vk4]<br/>[вконтакте 5][chai_ind_vk5]<br/>[вконтакте 6][chai_ind_vk6]<br/>[вконтакте 7][chai_ind_vk7] | [сайт 1][chai_ind_site_archive]<br/>[сайт 2][chai_ind_site2_archive]<br/>[сайт 3][chai_ind_site3_archive]<br/>[документ][chai_ind_doc_archive]<br/>[вконтакте 1][chai_ind_vk1_archive]<br/>[вконтакте 2][chai_ind_vk2_archive]<br/>[вконтакте 3][chai_ind_vk3_archive]<br/>[вконтакте 4][chai_ind_vk4_archive]<br/>[вконтакте 5][chai_ind_vk5_archive]<br/>[вконтакте 6][chai_ind_vk6_archive]<br/>[вконтакте 7][chai_ind_vk7_archive] | 1. Баранов Александр Леонидович ([@][chai_ind_baranov_mail])<br/>2. Гребнева Наталья Владимировна ([vk][chai_ind_grebneva_vk], [@][chai_ind_grebneva_mail])<br/>2. Малышева Елена Евстафьевна ([vk][chai_ind_malysheva_vk], [@][chai_ind_malysheva_mail])<br/>2. Ельчанинова Елена Владимировна ([vk][chai_ind_elchaninova_vk], [@][chai_ind_elchaninova_mail])<br/>2. Кулькова Татьяна Юрьевна ([vk][chai_ind_kulkova_vk], [@][chai_ind_kulkova_mail])<br/>2. Клячина Ольга Зотеевна ([vk][chai_ind_klyachina_vk], [@][chai_ind_klyachina_mail])<br/>2. Кустова Ольга Владимировна ([vk][chai_ind_kustova_vk])<br/>2. Имамова Любовь Александровна ([vk][chai_ind_imamova_vk]) |                           |
 | Чайковский | Чайковское музыкальное училище                                             | [вконтакте 1][chai_mus_vk1]<br/>[вконтакте 2][chai_mus_vk2]<br/>[вконтакте 3][chai_mus_vk3]                                                                                                                                                                                                                                                    | [вконтакте 1][chai_mus_vk1_archive]<br/>[вконтакте 2][chai_mus_vk2_archive]<br/>[вконтакте 3][chai_mus_vk3_archive]                                                                                                                                                                                                                                                                                                                    | 1. Болтаева Розалия Ахнафовна                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                           |
+
+[bmu_site1]: https://bereznikibmu.ru/novosti/voennaja-sluzhba-po-kontraktu-v
+
+[bmu_site1_arch]: https://web.archive.org/web/20260911112319/https://bereznikibmu.ru/novosti/voennaja-sluzhba-po-kontraktu-v
+
+[bmu_vk1]: https://vk.ru/wall-8746581_5205
+
+[bmu_vk1_arch]: https://archive.md/LeDWT
+
+[bmu_vk2]: https://vk.ru/wall-8746581_5184
+
+[bmu_vk2_arch]: https://archive.md/BxXMi
+
+[bmu_vk3]: https://vk.ru/wall-8746581_5125
+
+[bmu_vk3_arch]: https://archive.md/FIBO4
+
+[bmu_vk4]: https://vk.ru/wall-8746581_5039
+
+[bmu_vk4_arch]: https://archive.md/i21a4
+
+[bmu_vk5]: https://vk.ru/wall-8746581_4987
+
+[bmu_vk5_arch]: https://archive.md/EWUpD
+
+[bmu_vk6]: https://vk.ru/wall-8746581_4886
+
+[bmu_vk6_arch]: https://archive.md/Z6RHR
+
+[bmu_vk7]: https://vk.ru/wall-8746581_4855
+
+[bmu_vk7_arch]: https://archive.md/SvvyE
+
+[bmu_vk8]: https://vk.ru/wall-8746581_4825
+
+[bmu_vk8_arch]: https://archive.md/w2Pb4
+
+[bmu_vk9]: https://vk.ru/wall-8746581_4813
+
+[bmu_vk9_arch]: https://archive.md/dFsQS
+
+[bmu_vk10]: https://vk.ru/wall-8746581_4704
+
+[bmu_vk10_arch]: https://archive.md/zR49N
+
+[bmu_garc_vk]: https://vk.ru/id608730361
+
+[bmu_kirilyuk_vk]: https://vk.ru/id136670159
+
+[bmu_chernous_vk]: https://vk.com/rabotavbudjete
+
+[bksk_site1]: https://berst59.edusite.ru/
+
+[bksk_site1_arch]: https://web.archive.org/web/20260911113720/https://berst59.edusite.ru/
+
+[bksk_vk1]: https://vk.ru/wall-163412225_15342
+
+[bksk_vk1_arch]: https://archive.md/aKUtR
+
+[bksk_vk2]: https://vk.ru/wall-163412225_14278
+
+[bksk_vk2_arch]: https://archive.md/XkM8t
+
+[bksk_senchuk_vk]: https://vk.ru/id26892763
+
+[bksk_kuimova_vk]: https://vk.ru/id171710204
+
+[bksk_chernous_vk]: https://vk.com/rabotavbudjete
+
+[bmk_site1]: https://bmu59.ru/news/prodolzhaetsja-nabor-na-voennuju-sluzhbu
+
+[bmk_site1_arch]: https://web.archive.org/web/20260911111342/https://bmu59.ru/news/prodolzhaetsja-nabor-na-voennuju-sluzhbu
+
+[bmk_vk1]: https://vk.ru/wall-186186700_3636
+
+[bmk_vk1_arch]: https://archive.md/f0kyh
+
+[bmk_vk2]: https://vk.ru/wall-186186700_3608
+
+[bmk_vk2_arch]: https://archive.md/TWb2Z
+
+[bmk_vk3]: https://vk.ru/wall-186186700_3577
+
+[bmk_vk3_arch]: https://archive.md/hbtmB
+
+[bmk_vk4]: https://vk.ru/wall-186186700_3340
+
+[bmk_vk4_arch]: https://archive.md/59o6X
+
+[bmk_vk5]: https://vk.ru/wall-186186700_3147
+
+[bmk_vk5_arch]: https://archive.md/XcESH
+
+[bmk_novikova_vk]: https://vk.ru/id269805798
+
+[bmk_chernykh_vk]: https://vk.ru/a.chernykh1979
+
+[bpt_site1]: https://berpt.ru/vospitatelnaya-rabota/bilet-v-budushchee/novosti/4659-voennaya-sluzhba-po-kontraktu-v-vojskakh-bespilotnykh-sistem
+
+[bpt_site1_arch]: https://web.archive.org/web/20260911110239/https://berpt.ru/vospitatelnaya-rabota/bilet-v-budushchee/novosti/4659-voennaya-sluzhba-po-kontraktu-v-vojskakh-bespilotnykh-sistem
+
+[bpt_vk1]: https://vk.ru/wall-163554903_7465
+
+[bpt_vk1_arch]: https://archive.md/zagep
+
+[bpt_vk2]: https://vk.ru/wall-163554903_7043
+
+[bpt_vk2_arch]: https://archive.md/XTpqH
+
+[bpt_vk3]: https://vk.ru/wall-163554903_6770
+
+[bpt_vk3_arch]: https://archive.md/2Wtdr
+
+[bpt_barieva_profile]: https://berpt.ru/professionalitet/informatsiya-o-direktore
 
 [oniiks_237]: https://колледж-оникс.рф/kolledzh/novosti/voennaja-sluzhba-po-kontraktu-v-237
 
