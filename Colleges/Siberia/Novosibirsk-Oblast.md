@@ -31,9 +31,34 @@
 
 | Город       | Колледж, техникум                                                                                                    | Ссылки                                                                                                                                                                                                | Копии                                                                                                                                                                                                                                              | Ответственные лица                                                                                                                                                                                                                                                                                        | Структурные подразделения |
 | ----------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Колывань    | Колыванский аграрный колледж                                                                                         | [сайт 1][kolyvanak_site_1]<br/>[сайт 2][kolyvanak_site_2]<br/>[документ][kolyvanak_doc]<br/>[вк][kolyvanak_vk_1]                                                                                      | [сайт 1][kolyvanak_site_1_a]<br/>[сайт 2][kolyvanak_site_2_a]<br/>[документ][kolyvanak_doc_a]<br/>[вк][kolyvanak_vk_1_a]                                                                                                                           | 1. Навозов Сергей Алексеевич<br/>2. Дорофеева Наталия Сергеевна ([vk][kolyvanak_dorofeeva_vk], [@][kolyvanak_dorofeeva_email])<br/>2. Шульга Лилия ([vk][kolyvanak_shulga_vk], [@][kolyvanak_shulga_email])                                                                                               |                           |
 | Новосибирск | Новосибирский колледж транспортных технологий им. Н. А. Лунина                                                       | [сайт][nktt_site]<br/>[СМИ 1][nktt_media1]<br/>[СМИ 2][nktt_media2]                                                                                                                                   | [сайт][nktt_site_archive]<br/>[СМИ 1][nktt_media1_archive]<br/>[СМИ 2][nktt_media2_archive]                                                                                                                                                        | 1. Кирсанова Мария Владимировна ([@][nktt_mail])                                                                                                                                                                                                                                                          |                           |
 | Новосибирск | Новосибирский техникум геодезии и картографии Сибирского государственного университета геосистем и технологий        | [сайт 1][ntgik_1]<br/>[сайт 2][ntgik_2]<br/>[сайт 3][ntgik_3]<br/>[сайт 4][ntgik_4]<br/>[альбом 1][ntgik_5]<br/>[альбом 2][ntgik_6]<br/>[альбом 3][ntgik_7]<br/>[вк 1][vk_23372]<br/>[вк 2][vk_23288] | [сайт 1][ntgik_1_arch]<br/>[сайт 2][ntgik_2_arch]<br/>[сайт 3][ntgik_3_arch]<br/>[сайт 4][ntgik_4_arch]<br/>[альбом 1][ntgik_5_arch]<br/>[альбом 2][ntgik_6_arch]<br/>[альбом 3][ntgik_7_arch]<br/>[вк 1][vk_23372_arch]<br/>[вк 2][vk_23288_arch] | 1. Обиденко Владимир Иванович ([профиль][obidenko_vladimir])<br/>2. Чванов Александр ([vk][chvanov_alexander_vk])<br/>2. Кривошапко Ольга Владимировна ([vk][krivoshapko_olga_vk], [профиль][krivoshapko_olga])<br/>3. Дудинова Ольга Сергеевна ([профиль][dudnova_olga])<br/>3. Гуня Никита Владимирович |                           |
 | Новосибирск | Новосибирское командное речное училище им. С. И. Дежнева Сибирского государственного университета водного транспорта | [вк 1][nkru_vk1]<br/>[вк 2][nkru_vk2]<br/>[вк 3][nkru_vk3]<br/>[вк 4][nkru_vk4]<br/>[вк 5][nkru_vk5]<br/>[вк 6][nkru_vk6]<br/>[вк 7][nkru_vk7]<br/>[вк 8][nkru_vk8]<br/>[вк 9][nkru_vk9]              | [вк 1][nkru_vk1_arch]<br/>[вк 2][nkru_vk2_arch]<br/>[вк 3][nkru_vk3_arch]<br/>[вк 4][nkru_vk4_arch]<br/>[вк 5][nkru_vk5_arch]<br/>[вк 6][nkru_vk6_arch]<br/>[вк 7][nkru_vk7_arch]<br/>[вк 8][nkru_vk8_arch]<br/>[вк 9][nkru_vk9_arch]              | 1. Драгун Александр Сергеевич                                                                                                                                                                                                                                                                             |                           |
+
+[kolyvanak_site_1]: https://ak-kolyvan.nso.ru/
+
+[kolyvanak_site_1_a]: https://web.archive.org/web/20260905195356/https://ak-kolyvan.nso.ru/
+
+[kolyvanak_site_2]: https://ak-kolyvan.nso.ru/news/233
+
+[kolyvanak_site_2_a]: https://web.archive.org/web/20260905195504/https://ak-kolyvan.nso.ru/news/233
+
+[kolyvanak_doc]: https://ak-kolyvan.nso.ru/sites/ak-kolyvan.nso.ru/wodby_files/files/imce/algoritm_polucheniya_sertifikata_bps.docx
+
+[kolyvanak_doc_a]: https://web.archive.org/web/20260905195626/https://ak-kolyvan.nso.ru/sites/ak-kolyvan.nso.ru/wodby_files/files/imce/algoritm_polucheniya_sertifikata_bps.docx
+
+[kolyvanak_vk_1]: https://vk.ru/wall-177657527_6479
+
+[kolyvanak_vk_1_a]: https://archive.md/MnA63
+
+[kolyvanak_dorofeeva_vk]: https://vk.ru/id450568888
+
+[kolyvanak_shulga_vk]: https://vk.ru/lilia.shulga
+
+[kolyvanak_dorofeeva_email]: mailto:natalijamrzva1396@gmail.com
+
+[kolyvanak_shulga_email]: mailto:shulga.lili@yandex.ru
 
 [nktt_media1]: https://t.me/SVEJVB/105#
 

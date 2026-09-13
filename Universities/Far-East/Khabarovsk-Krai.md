@@ -32,6 +32,7 @@
 | Город     | Учебное заведение                                                                                                                                 | Ссылки                                                                                                                                                                                                                                                  | Копии                                                                                                                                                                                                                                                                                                                                           | Ответственные лица                                                                                         | Структурные подразделения |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------- |
 | Хабаровск | Дальневосточный государственный университет путей сообщения                                                                                       | [телеграм 1][dvgups_tg1]<br/>[телеграм 2][dvgups_tg2]<br/>[телеграм 3][dvgups_tg3]<br/>[телеграм 4][dvgups_tg4]<br/>[вк][dvgups_vk]                                                                                                                     | [телеграм 1][dvgups_tg1_archive]<br/>[телеграм 2][dvgups_tg2_archive]<br/>[телеграм 3][dvgups_tg3_archive]<br/>[телеграм 4][dvgups_tg4_archive]<br/>[вк][dvgups_vk_archive]                                                                                                                                                                     | 1. Буровцев Владимир Викторович ([@][burovtsev_email], [wiki][burovtsev_wiki], [профиль][burovtsev_site])  |                           |
+| Хабаровск | Дальневосточный институт (филиал) Всероссийского государственного университета юстиции (РПА Минюста России) в г. Хабаровске                       | [сайт 1][dvfuju_khv_site1]<br/>[сайт 2][dvfuju_khv_site2]<br/>[вк 1][dvfuju_khv_vk1]<br/>[вк 2][dvfuju_khv_vk2]<br/>[вк 3][dvfuju_khv_vk3]<br/>[вк 4][dvfuju_khv_vk4]<br/>[вк 5][dvfuju_khv_vk5]                                                        | [сайт 1][dvfuju_khv_site1_arch]<br/>[сайт 2][dvfuju_khv_site2_arch]<br/>[вк 1][dvfuju_khv_vk1_arch]<br/>[вк 2][dvfuju_khv_vk2_arch]<br/>[вк 3][dvfuju_khv_vk3_arch]<br/>[вк 4][dvfuju_khv_vk4_arch]<br/>[вк 5][dvfuju_khv_vk5_arch]                                                                                                             | 1. Кулыгин Владимир Владимирович ([профиль][dvfuju_khv_kulygin])<br/>3. Шабанова Светлана Васильевна       |                           |
 | Хабаровск | Дальневосточный институт управления — филиал Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации | [вк][ranepa_vk]                                                                                                                                                                                                                                         | [вк][ranepa_vk_archive]                                                                                                                                                                                                                                                                                                                         | 1. Меркулов Евгений Сергеевич ([@][merkulov_email])<br/>2. Воронин Роман Александрович ([@][voronin_mail]) |                           |
 | Хабаровск | Хабаровский институт инфокоммуникаций (филиал) Сибирского государственного университета телекоммуникаций и информатики                            | [сайт 1][hiik_web1]<br/>[сайт 2][hiik_web2]<br/>[сайт 3][hiik_web3]<br/>[сайт 4][hiik_web4]<br/>[листовка][hiik_pdf1]<br/>[брошюра][hiik_pdf2]<br/>[вк 1][hiik_vk1]<br/>[вк 2][hiik_vk2]<br/>[вк 3][hiik_vk3]<br/>[вк 4][hiik_vk4]<br/>[вк 5][hiik_vk5] | [сайт 1][hiik_web1_archive]<br/>[сайт 2][hiik_web2_archive]<br/>[сайт 3][hiik_web3_archive]<br/>[сайт 4][hiik_web4_archive]<br/>[листовка][hiik_pdf1_archive]<br/>[брошюра][hiik_pdf2_archive]<br/>[вк 1][hiik_vk1_archive]<br/>[вк 2][hiik_vk2_archive]<br/>[вк 3][hiik_vk3_archive]<br/>[вк 4][hiik_vk4_archive]<br/>[вк 5][hiik_vk5_archive] | 1. Данилов Роман Михайлович ([@][hiik_danilov_email])<br/>3. Витман Латиф Латифжонович                     |                           |
 
@@ -116,3 +117,33 @@
 [hiik_vk5_archive]: https://archive.md/oJxfT
 
 [hiik_danilov_email]: mailto:danilovroman@mail.ru
+
+[dvfuju_khv_site1]: https://khv.rpa-mu.ru/
+
+[dvfuju_khv_site1_arch]: https://archive.md/rnA64
+
+[dvfuju_khv_site2]: https://khv.rpa-mu.ru/novosti/20260727-01
+
+[dvfuju_khv_site2_arch]: https://archive.md/u5gOL
+
+[dvfuju_khv_vk1]: https://vk.ru/wall-178306284_2019
+
+[dvfuju_khv_vk1_arch]: https://archive.md/8UpYW
+
+[dvfuju_khv_vk2]: https://vk.ru/wall-178306284_2015
+
+[dvfuju_khv_vk2_arch]: https://archive.md/NFahq
+
+[dvfuju_khv_vk3]: https://vk.ru/wall-178306284_2009
+
+[dvfuju_khv_vk3_arch]: https://archive.md/ysrY0
+
+[dvfuju_khv_vk4]: https://vk.ru/wall-178306284_1939
+
+[dvfuju_khv_vk4_arch]: https://archive.md/s1Igt
+
+[dvfuju_khv_vk5]: https://vk.ru/wall-178306284_1935
+
+[dvfuju_khv_vk5_arch]: https://archive.md/gWYZ8
+
+[dvfuju_khv_kulygin]: https://archive.md/DAOa2
