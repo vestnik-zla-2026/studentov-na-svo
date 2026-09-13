@@ -186,7 +186,7 @@ Third-party materials, archived copies, and quoted content remain subject to the
 | Регион                | Учебные заведения                                                                                  | Регион               | Учебные заведения                                                                                |
 | --------------------- | -------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
 | Республика Адыгея     |                                                                                                    | Республика Калмыкия  | [университеты](Universities/South/Kalmykia.md), [колледжи](Colleges/South/Kalmykia.md)           |
-| Краснодарский край    | [университеты](Universities/South/Krasnodar-Krai.md), [колледжи](Colleges/South/Krasnodar-Krai.md) | Астраханская область |                                                                                                  |
+| Краснодарский край    | [университеты](Universities/South/Krasnodar-Krai.md), [колледжи](Colleges/South/Krasnodar-Krai.md) | Астраханская область | [колледжи](Colleges/South/Astrakhan-Oblast.md)                                                   |
 | Волгоградская область | [колледжи](Colleges/South/Volgograd-Oblast.md)                                                     | Ростовская область   | [университеты](Universities/South/Rostov-Oblast.md), [колледжи](Colleges/South/Rostov-Oblast.md) |
 
 ---
