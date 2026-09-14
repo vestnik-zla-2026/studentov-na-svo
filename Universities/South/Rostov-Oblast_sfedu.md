@@ -31,6 +31,12 @@
 
 см. также [университеты](Rostov-Oblast.md) и [колледжи](../../Colleges/South/Rostov-Oblast.md) Ростовской области
 
+## Академии
+
+| Город          | Институт                             | Ссылки                                                                                                                                                                                                                                                                                                                                                                                                                                      | Копии                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Ответственные лица                                                                                                                                                                                                                                                 | Структурные подразделения |
+| -------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| Ростов-на-Дону | Академия психологии и педагогики ЮФУ | [сайт 1][app_sfedu_site_1]<br/>[сайт 2][app_sfedu_site_2]<br/>[сайт 3][app_sfedu_site_3]<br/>[сайт 4][app_sfedu_site_4]<br/>[сайт 5][app_sfedu_site_5]<br/>[сайт 6][app_sfedu_site_6]<br/>[сайт 7][app_sfedu_site_7]<br/>[сайт 8][app_sfedu_site_8]<br/>[сайт 9][app_sfedu_site_9]<br/>[сайт 10][app_sfedu_site_10]<br/>[сайт 11][app_sfedu_site_11]<br/>[сайт 12][app_sfedu_site_12]<br/>[вк 1][app_sfedu_vk_1]<br/>[вк 2][app_sfedu_vk_2] | [сайт 1][app_sfedu_site_1_a]<br/>[сайт 2][app_sfedu_site_2_a]<br/>[сайт 3][app_sfedu_site_3_a]<br/>[сайт 4][app_sfedu_site_4_a]<br/>[сайт 5][app_sfedu_site_5_a]<br/>[сайт 6][app_sfedu_site_6_a]<br/>[сайт 7][app_sfedu_site_7_a]<br/>[сайт 8][app_sfedu_site_8_a]<br/>[сайт 9][app_sfedu_site_9_a]<br/>[сайт 10][app_sfedu_site_10_a]<br/>[сайт 11][app_sfedu_site_11_a]<br/>[сайт 12][app_sfedu_site_12_a]<br/>[вк 1][app_sfedu_vk_1_a]<br/>[вк 2][app_sfedu_vk_2_a] | 1. Кирик Владимир Александрович ([профиль][app_sfedu_kirik_site], [vk][app_sfedu_kirik_vk], [диссернет][app_sfedu_kirik_dissernet], [@][app_sfedu_kirik_email])<br/>3. Левшин Валерий Степанович ([профиль][app_sfedu_levshin_site], [@][app_sfedu_levshin_email]) |                           |
+
 ## Институты
 
 | Город          | Институт                                                                                                                 | Ссылки                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Копии                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Ответственные лица                                                                                                                                                                                                                                                                                                                        | Структурные подразделения |
@@ -44,6 +50,220 @@
 | -------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | Ростов-на-Дону | Факультет бизнеса «Капитаны» ЮФУ | [вк 1][captains_sfedu_vk1]<br/>[вк 2][captains_sfedu_vk2]<br/>[вк 3][captains_sfedu_vk3]<br/>[вк 4][captains_sfedu_vk4]<br/>[вк 5][captains_sfedu_vk5]<br/>[вк 6][captains_sfedu_vk6]<br/>[вк 7][captains_sfedu_vk7]<br/>[вк 8][captains_sfedu_vk8]<br/>[вк 9][captains_sfedu_vk9]<br/>[вк 10][captains_sfedu_vk10]<br/>[вк 11][captains_sfedu_vk11]<br/>[вк 12][captains_sfedu_vk12]<br/>[вк 13][captains_sfedu_vk13]<br/>[вк 14][captains_sfedu_vk14]<br/>[вк 15][captains_sfedu_vk15]<br/>[tg 1][captains_sfedu_tg1]<br/>[tg 2][captains_sfedu_tg2]<br/>[tg 3][captains_sfedu_tg3]                                                                                                                              | [вк 1][captains_sfedu_vk1_arch]<br/>[вк 2][captains_sfedu_vk2_arch]<br/>[вк 3][captains_sfedu_vk3_arch]<br/>[вк 4][captains_sfedu_vk4_arch]<br/>[вк 5][captains_sfedu_vk5_arch]<br/>[вк 6][captains_sfedu_vk6_arch]<br/>[вк 7][captains_sfedu_vk7_arch]<br/>[вк 8][captains_sfedu_vk8_arch]<br/>[вк 9][captains_sfedu_vk9_arch]<br/>[вк 10][captains_sfedu_vk10_arch]<br/>[вк 11][captains_sfedu_vk11_arch]<br/>[вк 12][captains_sfedu_vk12_arch]<br/>[вк 13][captains_sfedu_vk13_arch]<br/>[вк 14][captains_sfedu_vk14_arch]<br/>[вк 15][captains_sfedu_vk15_arch]<br/>[tg 1][captains_sfedu_tg1_arch]<br/>[tg 2][captains_sfedu_tg2_arch]<br/>[tg 3][captains_sfedu_tg3_arch]                                                                                                                                                                 | 1. Шустова Марина Сергеевна ([профиль][captains_shustova_profile], [vk][captains_shustova_vk], [insta][captains_shustova_inst], [@][shustova_email], [@][shustova_gmail])<br/>2. Бурмистров Никита Николаевич ([профиль][captains_burmistrov_profile], [vk][captains_burmistrov_vk], [insta][captains_burmistrov_inst], [@][burmistrov_email])<br/>2. Ревякина Ясмина ([vk][captains_revyakina_vk]) |                           |
 | Ростов-на-Дону | Экономический факультет ЮФУ      | [сайт 1][econsfedu_site1]<br/>[сайт 2][econsfedu_site2]<br/>[сайт 3][econsfedu_site3]<br/>[сайт 4][econsfedu_site4]<br/>[сайт 5][econsfedu_site5]<br/>[сайт 6][econsfedu_site6]<br/>[сайт 7][econsfedu_site7]<br/>[вк 1][econsfedu_vk1]<br/>[вк 2][econsfedu_vk2]<br/>[вк 3][econsfedu_vk3]<br/>[вк 4][econsfedu_vk4]<br/>[вк 5][econsfedu_vk5]<br/>[вк 6][econsfedu_vk6]<br/>[вк 7][econsfedu_vk7]<br/>[вк 8][econsfedu_vk8]<br/>[вк 9][econsfedu_vk9]<br/>[вк 10][econsfedu_vk10]<br/>[вк 11][econsfedu_vk11]<br/>[вк 12][econsfedu_vk12]<br/>[вк 13][econsfedu_vk13]<br/>[вк 14][econsfedu_vk14]<br/>[вк 15][econsfedu_vk15]<br/>[вк 16][econsfedu_vk16]<br/>[вк 17][econsfedu_vk17]<br/>[tg][econsfedu_tg1759] | [сайт 1][econsfedu_site1_arch]<br/>[сайт 2][econsfedu_site2_arch]<br/>[сайт 3][econsfedu_site3_arch]<br/>[сайт 4][econsfedu_site4_arch]<br/>[сайт 5][econsfedu_site5_arch]<br/>[сайт 6][econsfedu_site6_arch]<br/>[сайт 7][econsfedu_site7_arch]<br/>[вк 1][econsfedu_vk1_arch]<br/>[вк 2][econsfedu_vk2_arch]<br/>[вк 3][econsfedu_vk3_arch]<br/>[вк 4][econsfedu_vk4_arch]<br/>[вк 5][econsfedu_vk5_arch]<br/>[вк 6][econsfedu_vk6_arch]<br/>[вк 7][econsfedu_vk7_arch]<br/>[вк 8][econsfedu_vk8_arch]<br/>[вк 9][econsfedu_vk9_arch]<br/>[вк 10][econsfedu_vk10_arch]<br/>[вк 11][econsfedu_vk11_arch]<br/>[вк 12][econsfedu_vk12_arch]<br/>[вк 13][econsfedu_vk13_arch]<br/>[вк 14][econsfedu_vk14_arch]<br/>[вк 15][econsfedu_vk15_arch]<br/>[вк 16][econsfedu_vk16_arch]<br/>[вк 17][econsfedu_vk17_arch]<br/>[tg][econsfedu_tg1759_arch] | 1. Косолапова Наталья Алексеевна ([профиль][econsfedu_kosolapova], [@][kosolapova_email], [упоминание][kosolapovy_mention])<br/>2. Закубрин Глеб ([vk][econsfedu_zakubrin_vk], [@][zakubrin_email])<br/>3. Левшин Валерий Степанович ([профиль][econsfedu_levshin], [@][levshin_email])                                                                                                             |                           |
+
+## Прочие структурные подразделения
+
+| Город    | Подразделение                                            | Ссылки                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Копии                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Структурные подразделения |
+| -------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Таганрог | Передовая инженерная школа «Инженерия киберплатформ» ЮФУ | [изображение][pishik_image_1]<br/>[vk 1][4c8063_9a271d]<br/>[vk 2][4c8063_1602a6]<br/>[vk 3][4c8063_eb88dd]<br/>[vk 4][4c8063_b619c2]<br/>[vk 5][4c8063_308989]<br/>[vk 6][4c8063_13b8f2]<br/>[vk 7][4c8063_4426cc]<br/>[vk 8][4c8063_102734]<br/>[vk 9][4c8063_2bcc84]<br/>[vk 10][4c8063_e1bcfb]<br/>[vk 11][4c8063_9709d4]<br/>[vk 12][4c8063_ce2889]<br/>[vk 13][4c8063_28fe9a]<br/>[vk 14][4c8063_88399c]<br/>[vk 15][4c8063_4ea8f8]<br/>[vk 16][4c8063_2703e5]<br/>[vk 17][4c8063_afa94f]<br/>[vk 18][4c8063_7a03c4]<br/>[vk 19][4c8063_c63b41]<br/>[vk 20][4c8063_e94f1c]<br/>[vk 21][4c8063_a0abbd]<br/>[vk 22][4c8063_1dd9c5]<br/>[vk 23][4c8063_6222de]<br/>[vk 24][4c8063_2654a0]<br/>[vk 25][4c8063_5a5004]<br/>[vk 26][4c8063_cc0443]<br/>[vk 27][4c8063_9420fa]<br/>[vk 28][4c8063_a1710b] | [изображение][pishik_image_1_archive]<br/>[vk 1][4c8063_9a271d_a]<br/>[vk 2][4c8063_1602a6_a]<br/>[vk 3][4c8063_eb88dd_a]<br/>[vk 4][4c8063_b619c2_a]<br/>[vk 5][4c8063_308989_a]<br/>[vk 6][4c8063_13b8f2_a]<br/>[vk 7][4c8063_4426cc_a]<br/>[vk 8][4c8063_102734_a]<br/>[vk 9][4c8063_2bcc84_a]<br/>[vk 10][4c8063_e1bcfb_a]<br/>[vk 11][4c8063_9709d4_a]<br/>[vk 12][4c8063_ce2889_a]<br/>[vk 13][4c8063_28fe9a_a]<br/>[vk 14][4c8063_88399c_a]<br/>[vk 15][4c8063_4ea8f8_a]<br/>[vk 16][4c8063_2703e5_a]<br/>[vk 17][4c8063_afa94f_a]<br/>[vk 18][4c8063_7a03c4_a]<br/>[vk 19][4c8063_c63b41_a]<br/>[vk 20][4c8063_e94f1c_a]<br/>[vk 21][4c8063_a0abbd_a]<br/>[vk 22][4c8063_1dd9c5_a]<br/>[vk 23][4c8063_6222de_a]<br/>[vk 24][4c8063_2654a0_a]<br/>[vk 25][4c8063_5a5004_a]<br/>[vk 26][4c8063_cc0443_a]<br/>[vk 27][4c8063_9420fa_a]<br/>[vk 28][4c8063_a1710b_a] | 1. Федотов Александр Александрович ([@][pishik_fedotov_email_1], [@][pishik_fedotov_email_2], [профиль][pishik_fedotov])<br/>2. Пацюк Тимур Тимофеевич ([@][pishik_pacyuk_email_1], [@][pishik_pacyuk_email_2], [профиль][pishik_pacyuk], [vk][pishik_pacyuk_vk])<br/>2. Короткова Оксана Игоревна ([@][pishik_korotkova_email], [профиль][pishik_korotkova], [vk][pishik_korotkova_vk])<br/>3. Левшин Валерий Степанович ([@][pishik_levshin_email], [профиль][pishik_levshin]) |                           |
+
+[pishik_image_1]: https://engineers.sfedu.ru//uploads/2507_photo.png
+
+[pishik_image_1_archive]: https://megalodon.jp/2026-0906-2212-38/https://engineers.sfedu.ru:443//uploads/2507_photo.png
+
+[4c8063_9a271d]: https://vk.ru/wall-226229459_955
+
+[4c8063_9a271d_a]: https://archive.md/AfCiK
+
+[4c8063_1602a6]: https://vk.ru/wall-226229459_949
+
+[4c8063_1602a6_a]: https://archive.md/eCGFr
+
+[4c8063_eb88dd]: https://vk.ru/wall-226229459_938
+
+[4c8063_eb88dd_a]: https://archive.md/XkElD
+
+[4c8063_b619c2]: https://vk.ru/wall-226229459_930
+
+[4c8063_b619c2_a]: https://archive.md/QLXc7
+
+[4c8063_308989]: https://vk.ru/wall-226229459_923
+
+[4c8063_308989_a]: https://archive.md/Kdf4B
+
+[4c8063_13b8f2]: https://vk.ru/wall-226229459_913
+
+[4c8063_13b8f2_a]: https://archive.md/DEyV5
+
+[4c8063_4426cc]: https://vk.ru/wall-226229459_893
+
+[4c8063_4426cc_a]: https://archive.md/k08xe
+
+[4c8063_102734]: https://vk.ru/wall-226229459_877
+
+[4c8063_102734_a]: https://archive.md/pVIwl
+
+[4c8063_2bcc84]: https://vk.ru/wall-226229459_861
+
+[4c8063_2bcc84_a]: https://archive.md/k9CkR
+
+[4c8063_e1bcfb]: https://vk.ru/wall-226229459_846
+
+[4c8063_e1bcfb_a]: https://archive.md/B8VAj
+
+[4c8063_9709d4]: https://vk.ru/wall-226229459_826
+
+[4c8063_9709d4_a]: https://archive.md/o1xjh
+
+[4c8063_ce2889]: https://vk.ru/wall-226229459_811
+
+[4c8063_ce2889_a]: https://archive.md/WZ9Ob
+
+[4c8063_28fe9a]: https://vk.ru/wall-226229459_802
+
+[4c8063_28fe9a_a]: https://archive.md/qN8gj
+
+[4c8063_88399c]: https://vk.ru/wall-226229459_796
+
+[4c8063_88399c_a]: https://archive.md/9v5Wv
+
+[4c8063_4ea8f8]: https://vk.ru/wall-226229459_784
+
+[4c8063_4ea8f8_a]: https://archive.md/P8JBj
+
+[4c8063_2703e5]: https://vk.ru/wall-226229459_774
+
+[4c8063_2703e5_a]: https://archive.md/9dmR9
+
+[4c8063_afa94f]: https://vk.ru/wall-226229459_763
+
+[4c8063_afa94f_a]: https://archive.md/gvZW0
+
+[4c8063_7a03c4]: https://vk.ru/wall-226229459_749
+
+[4c8063_7a03c4_a]: https://archive.md/6wAH3
+
+[4c8063_c63b41]: https://vk.ru/wall-226229459_740
+
+[4c8063_c63b41_a]: https://archive.md/cMyMd
+
+[4c8063_e94f1c]: https://vk.ru/wall-226229459_731
+
+[4c8063_e94f1c_a]: https://archive.md/UrRrI
+
+[4c8063_a0abbd]: https://vk.ru/wall-226229459_717
+
+[4c8063_a0abbd_a]: https://archive.md/4StyE
+
+[4c8063_1dd9c5]: https://vk.ru/wall-226229459_704
+
+[4c8063_1dd9c5_a]: https://archive.md/9M3xL
+
+[4c8063_6222de]: https://vk.ru/wall-226229459_693
+
+[4c8063_6222de_a]: https://archive.md/rO1NU
+
+[4c8063_2654a0]: https://vk.ru/wall-226229459_689
+
+[4c8063_2654a0_a]: https://archive.md/nlEGM
+
+[4c8063_5a5004]: https://vk.ru/wall-226229459_687
+
+[4c8063_5a5004_a]: https://archive.md/HsWYj
+
+[4c8063_cc0443]: https://vk.ru/wall-226229459_680
+
+[4c8063_cc0443_a]: https://archive.md/nMRyL
+
+[4c8063_9420fa]: https://vk.ru/wall-226229459_673
+
+[4c8063_9420fa_a]: https://archive.md/SkLXe
+
+[4c8063_a1710b]: https://vk.ru/wall-226229459_669
+
+[4c8063_a1710b_a]: https://archive.md/MOJPp
+
+[pishik_fedotov]: https://sfedu.ru/s7/person/aafedotov
+
+[pishik_pacyuk]: https://sfedu.ru/s7/person/ru/pacyuk
+
+[pishik_pacyuk_vk]: https://vk.ru/pokaescheneopredelilsya
+
+[pishik_korotkova]: https://sfedu.ru/s7/person/ru/okorotkova
+
+[pishik_korotkova_vk]: https://vk.ru/id75107380
+
+[pishik_levshin]: https://sfedu.ru/s7/person/ru/vlevshin
+
+[pishik_fedotov_email_1]: mailto:aafedotov@sfedu.ru
+
+[pishik_fedotov_email_2]: mailto:falex@fep.tsure.ru
+
+[pishik_pacyuk_email_1]: mailto:pacyuk@sfedu.ru
+
+[pishik_pacyuk_email_2]: mailto:patzyuck2011@yandex.ru
+
+[pishik_korotkova_email]: mailto:okorotkova@sfedu.ru
+
+[pishik_levshin_email]: mailto:vlevshin@sfedu.ru
+
+[app_sfedu_site_1]: https://app.sfedu.ru/
+
+[app_sfedu_site_1_a]: https://web.archive.org/web/20260821093038/https://app.sfedu.ru/
+
+[app_sfedu_site_2]: https://app.sfedu.ru/node/3553
+
+[app_sfedu_site_2_a]: https://web.archive.org/web/20260821095020/https://app.sfedu.ru/node/3553
+
+[app_sfedu_site_3]: https://app.sfedu.ru/node/3550
+
+[app_sfedu_site_3_a]: https://archive.md/RzgJv
+
+[app_sfedu_site_4]: https://app.sfedu.ru/node/3549
+
+[app_sfedu_site_4_a]: https://web.archive.org/web/20260821094639/https://app.sfedu.ru/node/3549
+
+[app_sfedu_site_5]: https://app.sfedu.ru/node/3547
+
+[app_sfedu_site_5_a]: https://web.archive.org/web/20260821095103/https://app.sfedu.ru/node/3547
+
+[app_sfedu_site_6]: https://app.sfedu.ru/node/3539
+
+[app_sfedu_site_6_a]: https://web.archive.org/web/20260821094815/https://app.sfedu.ru/node/3539
+
+[app_sfedu_site_7]: https://app.sfedu.ru/node/3535
+
+[app_sfedu_site_7_a]: https://archive.md/iwdKO
+
+[app_sfedu_site_8]: https://app.sfedu.ru/node/3528
+
+[app_sfedu_site_8_a]: https://web.archive.org/web/20260821094934/https://app.sfedu.ru/node/3528
+
+[app_sfedu_site_9]: https://app.sfedu.ru/node/3525
+
+[app_sfedu_site_9_a]: https://web.archive.org/web/20260821093418/https://app.sfedu.ru/node/3525
+
+[app_sfedu_site_10]: https://app.sfedu.ru/node/3506
+
+[app_sfedu_site_10_a]: https://web.archive.org/web/20260821095142/https://app.sfedu.ru/node/3506
+
+[app_sfedu_site_11]: https://app.sfedu.ru/node/3478
+
+[app_sfedu_site_11_a]: https://web.archive.org/web/20260821093502/https://app.sfedu.ru/node/3478
+
+[app_sfedu_site_12]: https://app.sfedu.ru/node/3446
+
+[app_sfedu_site_12_a]: https://web.archive.org/web/20260328191401/https://app.sfedu.ru/node/3446
+
+[app_sfedu_vk_1]: https://vk.ru/wall-194534886_32
+
+[app_sfedu_vk_1_a]: https://archive.md/iZb5T
+
+[app_sfedu_vk_2]: https://vk.ru/wall-194534886_31
+
+[app_sfedu_vk_2_a]: https://archive.md/pe993
+
+[app_sfedu_kirik_site]: https://app.sfedu.ru/kirik
+
+[app_sfedu_kirik_vk]: https://vk.ru/v.a.kirik
+
+[app_sfedu_kirik_dissernet]: https://www.dissernet.org/person/KirikVA
+
+[app_sfedu_kirik_email]: mailto:vakirik@sfedu.ru
+
+[app_sfedu_levshin_site]: https://sfedu.ru/s7/person/ru/vlevshin
+
+[app_sfedu_levshin_email]: mailto:vlevshin@sfedu.ru
 
 [mmcs_site1]: http://www.mmcs.sfedu.ru/148-news/3064-%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B0%D0%B9-%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D1%83-%D0%B2-%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%B0%D1%85-%D0%B1%D0%BF%D0%BB%D0%B0-%E2%80%94-%D0%B1%D1%83%D0%B4%D1%8C-%D0%BD%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9-3
 
