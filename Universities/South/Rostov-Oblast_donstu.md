@@ -26,19 +26,51 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Донской государственный технический университет
 
 см. также [университеты](Rostov-Oblast.md) и [колледжи](../../Colleges/South/Rostov-Oblast.md) Ростовской области
 
-| Город          | Факультет                             | Ссылки                 | Копии                          | Ответственные лица                                                                                                                                                                                               | Структурные подразделения |
-| -------------- | ------------------------------------- | ---------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Ростов-на-Дону | Инженерно-строительный факультет ДГТУ | [вконтакте][donstu_vk] | [вконтакте][donstu_vk_archive] | 1. Явруян Хунгианос Степанович ([vk][donstu_yavruyan_vk], [профиль][donstu_yavruyan])<br/>2. Гречина Маргарита ([@][donstu_grechina_mail])<br/>2. Ковальчук Ирина ([@][donstu_kovalchuk_mail], [vk][donstu_kovalchuk_vk]) |                           |
+| Город          | Факультет                               | Ссылки             | Копии                   | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Структурные подразделения |
+| -------------- | --------------------------------------- | ------------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Ростов-на-Дону | Факультет «Дорожно-транспортный» ДГТУ   | [вк][dtt_dgtu_vk1] | [вк][dtt_dgtu_vk1_a]    | 1. Тиратурян Артем Николаевич ([@][dtt_dgtu_tiraturyan_email], [профиль][dtt_dgtu_tiraturyan_site], [vk][dtt_dgtu_tiraturyan_vk])<br/>2. Воробьев Андрей Викторович ([@][dtt_dgtu_vorobev_email], [vk][dtt_dgtu_vorobev_vk])<br/>2. Бобкина Валерия Александровна ([@][dtt_dgtu_bobkina_email], [профиль][dtt_dgtu_bobkina_site], [vk][dtt_dgtu_bobkina_vk])<br/>2. Бобкина Полина ([vk][dtt_dgtu_bobkina_polina_vk])<br/>2. Стяжкин Ярослав ([vk][dtt_dgtu_styazhkin_vk])<br/>2. Погорелова Анна ([вк][dtt_dgtu_pogorelova_vk]) |                           |
+| Ростов-на-Дону | Факультет «Инженерно-строительный» ДГТУ | [вк][donstu_vk]    | [вк][donstu_vk_archive] | 1. Явруян Хунгианос Степанович ([@][yakhs_email1], [@][yakhs_email2], [vk][donstu_yavruyan_vk], [профиль][donstu_yavruyan])<br/>2. Гречина Маргарита ([@][donstu_grechina_mail])<br/>2. Ковальчук Ирина ([@][donstu_kovalchuk_mail], [vk][donstu_kovalchuk_vk])                                                                                                                                                                                                                                                                  |                           |
+
+[dtt_dgtu_vk1]: https://vk.ru/wall-155067257_9129
+
+[dtt_dgtu_vk1_a]: https://archive.li/tYAqv
+
+[dtt_dgtu_tiraturyan_email]: mailto:Tiraturjan@list.ru
+
+[dtt_dgtu_tiraturyan_site]: https://donstu.ru/employees/tiraturyan-artem-nikolaevich/
+
+[dtt_dgtu_tiraturyan_vk]: https://vk.ru/id641076659
+
+[dtt_dgtu_vorobev_email]: mailto:avorobev@donstu.ru
+
+[dtt_dgtu_vorobev_vk]: https://vk.ru/id161842232
+
+[dtt_dgtu_bobkina_email]: mailto:vbobkina@donstu.ru
+
+[dtt_dgtu_bobkina_site]: https://donstu.ru/employees/bobkina-valeriya-aleksandrovna/
+
+[dtt_dgtu_bobkina_vk]: https://vk.ru/id416846856
+
+[dtt_dgtu_bobkina_polina_vk]: https://vk.ru/pbr_off
+
+[dtt_dgtu_styazhkin_vk]: https://vk.ru/styazhkin_vk
+
+[dtt_dgtu_pogorelova_vk]: https://vk.ru/anna_pogorelova3
 
 [donstu_vk]: https://vk.com/wall-142768882_1123
 
 [donstu_vk_archive]: https://archive.md/ZWEYy
 
 [donstu_yavruyan]: https://donstu.ru/employees/yavruyan-khungianos-stepanovich/
+
+[yakhs_email1]: mailto:hyavruyan@donstu.ru
+
+[yakhs_email2]: mailto:khungianos@mail.ru
 
 [donstu_yavruyan_vk]: https://vk.com/id10262604
 
