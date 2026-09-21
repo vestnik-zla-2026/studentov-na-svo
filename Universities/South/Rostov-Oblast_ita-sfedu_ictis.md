@@ -26,13 +26,15 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Институт компьютерных технологий и информационной безопасности Инженерно-технологической академии Южного федерального университета
 
 ## Кафедры
 
-| Город    | Кафедра                                                                           | Ссылки                                                      | Копии                                                           | Ответственные лица                                                                                                                                                                                                                                                                                                             | Структурные подразделения |
-| -------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| Таганрог | Кафедра безопасности информационных технологий им. О. Б. Макаревича ИКТИБ ИТА ЮФУ | [вк 1][kbit_makarevich_vk1]<br/>[вк 2][kbit_makarevich_vk2] | [вк 1][kbit_makarevich_vk1_a]<br/>[вк 2][kbit_makarevich_vk2_a] | 1. Абрамов Евгений Сергеевич ([@][kbit_makarevich_abramov_email], [@][kbit_makarevich_abramov_email2], [профиль][kbit_makarevich_abramov_sfedu])<br/>2. Маро Екатерина Александровна ([@][kbit_makarevich_maro_email], [@][kbit_makarevich_maro_email2], [профиль][kbit_makarevich_maro_sfedu], [vk][kbit_makarevich_maro_vk]) |                           |
+| Город    | Кафедра                                                                           | Ссылки                                                      | Копии                                                           | Ответственные лица                                                                                                                                                                                                                                                                                                                        | Структурные подразделения |
+| -------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Таганрог | Кафедра безопасности информационных технологий им. О. Б. Макаревича ИКТИБ ИТА ЮФУ | [вк 1][kbit_makarevich_vk1]<br/>[вк 2][kbit_makarevich_vk2] | [вк 1][kbit_makarevich_vk1_a]<br/>[вк 2][kbit_makarevich_vk2_a] | 1. Абрамов Евгений Сергеевич ([@][kbit_makarevich_abramov_email], [@][kbit_makarevich_abramov_email2], [профиль][kbit_makarevich_abramov_sfedu])<br/>2. Маро Екатерина Александровна ([@][kbit_makarevich_maro_email], [@][kbit_makarevich_maro_email2], [профиль][kbit_makarevich_maro_sfedu], [vk][kbit_makarevich_maro_vk])            |                           |
+| Таганрог | Кафедра системного анализа и телекоммуникаций ИКТИБ ИТА ЮФУ                       | [вк][sait_iktib_vk1]                                        | [вк][sait_iktib_vk1_a]                                          | 1. Рогозов Юрий Иванович ([@][sait_iktib_rogozov_email1], [@][sait_iktib_rogozov_email2], [@][sait_iktib_rogozov_email3], [профиль][sait_iktib_rogozov_sfedu])<br/>2. Кучеров Сергей Александрович ([@][sait_iktib_kucherov_email1], [@][sait_iktib_kucherov_email2], [профиль][sait_iktib_kucherov_sfedu], [vk][sait_iktib_kucherov_vk]) |                           |
 
 ## Прочие подразделения
 
@@ -63,6 +65,26 @@
 [kbit_makarevich_maro_sfedu]: https://sfedu.ru/s7/person/ru/eamaro
 
 [kbit_makarevich_maro_vk]: https://vk.ru/id267324073
+
+[sait_iktib_vk1]: https://vk.ru/wall-103545242_2413
+
+[sait_iktib_vk1_a]: https://archive.li/HIEGs
+
+[sait_iktib_rogozov_email1]: mailto:yrogozov@sfedu.ru
+
+[sait_iktib_rogozov_email2]: mailto:rogozov@tti.sfedu.ru
+
+[sait_iktib_rogozov_email3]: mailto:rogozov@tsure.ru
+
+[sait_iktib_rogozov_sfedu]: https://sfedu.ru/s7/person/ru/yrogozov
+
+[sait_iktib_kucherov_email1]: mailto:skucherov@sfedu.ru
+
+[sait_iktib_kucherov_email2]: mailto:sergey.kutcherov@gmail.com
+
+[sait_iktib_kucherov_sfedu]: https://sfedu.ru/s7/person/ru/skucherov
+
+[sait_iktib_kucherov_vk]: https://vk.com/s.kucherov
 
 [po_iktib_vk1]: https://vk.ru/wall-177747188_6898
 
