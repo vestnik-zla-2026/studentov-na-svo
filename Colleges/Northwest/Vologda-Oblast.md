@@ -26,11 +26,14 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Вологодская область
 
-| Город   | Колледж, техникум                         | Ссылки         | Копии               | Ответственные лица                                                                                                                                  | Структурные подразделения |
-| ------- | ----------------------------------------- | -------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Вологда | Губернаторский колледж народных промыслов | [вк][gknp_vk1] | [вк][gknp_vk1_arch] | 1. Косьева Алла Владимировна ([профиль][gknp_kosyeva])<br/>2. Секретарева Любовь Сергеевна ([профиль][gknp_sekretareva], [vk][gknp_sekretareva_vk]) |                           |
+| Город     | Колледж, техникум                                          | Ссылки                                                                                  | Копии                                                                                           | Ответственные лица                                                                                                                                  | Структурные подразделения |
+| --------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Вологда   | Губернаторский колледж народных промыслов                  | [вк][gknp_vk1]                                                                          | [вк][gknp_vk1_arch]                                                                             | 1. Косьева Алла Владимировна ([профиль][gknp_kosyeva])<br/>2. Секретарева Любовь Сергеевна ([профиль][gknp_sekretareva], [vk][gknp_sekretareva_vk]) |                           |
+| Череповец | Череповецкий лесомеханический техникум имени В. П. Чкалова | [вк 1][clmt_vk1]<br/>[вк 2][clmt_vk2]                                                   | [вк 1][clmt_vk1_a]<br/>[вк 2][clmt_vk2_a]                                                       | 1. Ревина Елена Дмитриевна ([профиль][clmt_revina_site], [vk][clmt_revina_vk])                                                                      |                           |
+| Череповец | Череповецкий медицинский колледж имени Н. М. Амосова       | [сайт 1][chmk_site1]<br/>[сайт 2][chmk_site2]<br/>[вк 1][chmk_vk1]<br/>[вк 2][chmk_vk2] | [сайт 1][chmk_site1_a]<br/>[сайт 2][chmk_site2_a]<br/>[вк 1][chmk_vk1_a]<br/>[вк 2][chmk_vk2_a] | 1. Александрова Анна Михайловна ([профиль][chmk_alexandrova_site])                                                                                  |                           |
 
 [gknp_vk1]: https://vk.ru/wall-106890704_11114
 
@@ -41,3 +44,33 @@
 [gknp_sekretareva]: https://gubcollege.gosuslugi.ru/o-nas/sotrudniki/sekretareva-lyubov-sergeevna.html
 
 [gknp_sekretareva_vk]: https://vk.ru/id10233605
+
+[clmt_vk1]: https://vk.ru/wall-144974045_14889
+
+[clmt_vk1_a]: https://archive.li/5fegN
+
+[clmt_vk2]: https://vk.ru/wall-144974045_14741
+
+[clmt_vk2_a]: https://archive.li/ce8hi
+
+[clmt_revina_site]: https://lesmeh.gosuslugi.ru/o-nas/sotrudniki/revina-elena-dmitrievna.html
+
+[clmt_revina_vk]: https://vk.ru/revinalena
+
+[chmk_site1]: https://spo35-amosov.gosuslugi.ru/novosti-i-sobytiya/predstaviteli-voyskovoy-chasti-25594-proveli-besedu-so-studentami-o-vozmozhnostyah-prohozhdeniya-voennoy-sluzhby-po-kontraktu.html
+
+[chmk_site1_a]: https://web.archive.org/web/20261001122600/https://spo35-amosov.gosuslugi.ru/novosti-i-sobytiya/predstaviteli-voyskovoy-chasti-25594-proveli-besedu-so-studentami-o-vozmozhnostyah-prohozhdeniya-voennoy-sluzhby-po-kontraktu.html
+
+[chmk_site2]: https://spo35-amosov.gosuslugi.ru/novosti-i-sobytiya/sluzhba-po-kontraktu-v-vologodskoy-oblasti-prisoedinyaytes-k-nadezhnoy-komande.html
+
+[chmk_site2_a]: https://archive.li/lzyrl
+
+[chmk_vk1]: https://vk.ru/wall-103441357_22543
+
+[chmk_vk1_a]: https://archive.li/RuCnX
+
+[chmk_vk2]: https://vk.ru/wall-103441357_21749
+
+[chmk_vk2_a]: https://archive.li/YNfsO
+
+[chmk_alexandrova_site]: https://spo35-amosov.gosuslugi.ru/o-nas/sotrudniki/alexandrova-anna-mihaylovna.html
