@@ -107,13 +107,13 @@
 
 [aut_savinov_vk]: https://vk.ru/id710695524
 
-[aut_savinov_email]: mailto\:aut.savinov@yandex.ru
+[aut_savinov_email]: mailto:aut.savinov@yandex.ru
 
 [aut_savinov_niiss]: https://statexpert.ru/contests/director-of-the-year/savinov-anatoliy-nikolaevich/
 
 [aut_ryumkova_vk]: https://vk.ru/mashar95
 
-[aut_ryumkova_email]: mailto\:soyuz_aut@mail.ru
+[aut_ryumkova_email]: mailto:soyuz_aut@mail.ru
 
 [aut_sitnik_vk]: https://vk.ru/marina_sitnik
 
