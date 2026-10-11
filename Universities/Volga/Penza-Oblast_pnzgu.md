@@ -26,11 +26,37 @@
 **Вы можете сообщить об известных вам фактах вербовки или же стать нашим волонтёром**. Подробная информация на странице [README.md](/README.md) нашего проекта.
 
 <!-- PREAMBLE END -->
+
 # Пензенский государственный университет
 
-| Город | Институт                     | Ссылки                      | Копии                               | Ответственные лица                                              | Структурные подразделения                   |
-| ----- | ---------------------------- | --------------------------- | ----------------------------------- | --------------------------------------------------------------- | ------------------------------------------- |
-| Пенза | Политехнический институт ПГУ | [сайт][politeh_pnzgu_site1] | [сайт][politeh_pnzgu_site1_archive] | 1. Козлов Геннадий Васильевич ([профиль][politeh_pnzgu_kozlov]) | [факультеты](Penza-Oblast_pnzgu_politeh.md) |
+| Город | Институт                                         | Ссылки                      | Копии                               | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Структурные подразделения                   |
+| ----- | ------------------------------------------------ | --------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Пенза | Педагогический институт им. В. Г. Белинского ПГУ | [сайт][ppi_pgu_site1]       | [сайт][ppi_pgu_site1_arch]          | 1. Сурина Ольга Петровна ([профиль][ppi_pgu_surina_profile], [@][ppi_pgu_surina_email])<br/>3. Сухова Ольга Александровна ([профиль 1][ppi_pgu_sukhova_profile1], [профиль 2][ppi_pgu_sukhova_profile2], [@][ppi_pgu_sukhova_email])<br/>3. Паршина (Цапулина) Вера Николаевна ([vk][ppi_pgu_parshina_vk], [профиль][ppi_pgu_parshina_profile], [@][ppi_pgu_parshina_email])<br/>3. Тасимов Виктор Евгеньевич ([@][ppi_pgu_tasimov_email], [упоминание][ppi_pgu_tasimov_mention]) | [факультеты](Penza-Oblast_pnzgu_ppi.md)     |
+| Пенза | Политехнический институт ПГУ                     | [сайт][politeh_pnzgu_site1] | [сайт][politeh_pnzgu_site1_archive] | 1. Козлов Геннадий Васильевич ([профиль][politeh_pnzgu_kozlov])                                                                                                                                                                                                                                                                                                                                                                                                                   | [факультеты](Penza-Oblast_pnzgu_politeh.md) |
+
+[ppi_pgu_site1]: https://ppi.pnzgu.ru/main_news/2026/05/22/8460595
+
+[ppi_pgu_site1_arch]: https://archive.li/qoQcC
+
+[ppi_pgu_surina_profile]: https://archive.li/0e0vZ
+
+[ppi_pgu_surina_email]: mailto:o.surina2013@yandex.ru
+
+[ppi_pgu_sukhova_profile1]: https://archive.li/abdiL
+
+[ppi_pgu_sukhova_profile2]: https://archive.li/0l3kx
+
+[ppi_pgu_sukhova_email]: mailto:savtemp@yandex.ru
+
+[ppi_pgu_parshina_vk]: https://vk.ru/id239106342
+
+[ppi_pgu_parshina_profile]: https://archive.li/agaac
+
+[ppi_pgu_parshina_email]: mailto:parshina.v.n@mail.ru
+
+[ppi_pgu_tasimov_email]: mailto:tasimchuk@gmail.ru
+
+[ppi_pgu_tasimov_mention]: https://archive.li/J2984
 
 [politeh_pnzgu_site1]: https://www.pnzgu.ru/screen/2026/03/19/16020008
 
