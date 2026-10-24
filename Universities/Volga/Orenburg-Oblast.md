@@ -29,11 +29,78 @@
 
 # Оренбургская область
 
-| Город    | Университет, институт, филиал                                                                                         | Ссылки                                                                                                                                                                      | Копии                                                                                                                                                                                                          | Ответственные лица                                                                                                                                                                                                                                                           | Структурные подразделения |
-| -------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Оренбург | Оренбургский государственный университет им. В. А. Бондаренко                                                         | [сайт 1][osu_news36588]<br/>[сайт 2][osu_news37021]<br/>[вк 1][osu_vk37316]<br/>[вк 2][osu_vk36861]<br/>[вк 3][osu_vk36029]<br/>[вк 4][osu_vk35997]<br/>[вк 5][osu_vk35903] | [сайт 1][osu_news36588_arch]<br/>[сайт 2][osu_news37021_arch]<br/>[вк 1][osu_vk37316_arch]<br/>[вк 2][osu_vk36861_arch]<br/>[вк 3][osu_vk36029_arch]<br/>[вк 4][osu_vk35997_arch]<br/>[вк 5][osu_vk35903_arch] | 1. Мирошников Сергей Александрович ([профиль][osu_miroshnikov], [wiki][osu_miroshnikov_wiki])<br/>2. Шигаева Олеся Ивановна ([упоминание][osu_doc2568])<br/>2. Чувилина Арина ([упоминание][osu_doc2568])<br/>3. Чубаров Сергей<br/>3. Ковалев Сергей<br/>3. Бровкин Василий |                           |
-| Орск     | Орский гуманитарно-технологический институт (филиал) Оренбургского государственного университета им. В. А. Бондаренко | [сайт][ogti_site1]<br/>[вк 1][ogti_vk1]<br/>[вк 2][ogti_vk2]<br/>[вк 3][ogti_vk3]<br/>[вк 4][ogti_vk4]                                                                      | [сайт][ogti_site1_arch]<br/>[вк 1][ogti_vk1_arch]<br/>[вк 2][ogti_vk2_arch]<br/>[вк 3][ogti_vk3_arch]<br/>[вк 4][ogti_vk4_arch]                                                                                | 1. Головин Владимир Валерьевич<br/>3. Иртаев Антон Батыржанович<br/>3. Кадышев Александр                                                                                                                                                                                     |                           |
-| Орск     | Орский филиал Московского финансово-юридического университета МФЮА                                                    | [сайт][ofmua_site1]<br/>[вк][ofmua_vk1]                                                                                                                                     | [сайт][ofmua_site1_arch]<br/>[вк][ofmua_vk1_arch]                                                                                                                                                              | 1. Труханкина Елена Анатольевна ([@][trukhankina_ea_email], [vk][trukhankina_ea_vk])<br/>2. Чабанова Аксана Юрьевна ([@][chabanova_ay_email], [vk][chabanova_ay_vk])<br/>2. Титов Роман Игоревич ([vk][titov_ri_vk])                                                         |                           |
+| Город      | Университет, институт, филиал                                                                                         | Ссылки                                                                                                                                                                                                                                                                                                            | Копии                                                                                                                                                                                                                                                                                                                                                                         | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Структурные подразделения |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Новотроицк | Новотроицкий филиал Национального исследовательского технологического университета «МИСИС»                            | [сайт 1][nf_misis_site1]<br/>[сайт 2][nf_misis_site2]<br/>[вк 1][nf_misis_vk1]<br/>[вк 2][nf_misis_vk2]<br/>[вк 3][nf_misis_vk3]<br/>[вк 4][nf_misis_vk4]<br/>[вк 5][nf_misis_vk5]<br/>[вк 6][nf_misis_vk6]<br/>[вк 7][nf_misis_vk7]<br/>[вк 8][nf_misis_vk8]<br/>[вк 9][nf_misis_vk9]<br/>[вк 10][nf_misis_vk10] | [сайт 1][nf_misis_site1_arch]<br/>[сайт 2][nf_misis_site2_arch]<br/>[вк 1][nf_misis_vk1_arch]<br/>[вк 2][nf_misis_vk2_arch]<br/>[вк 3][nf_misis_vk3_arch]<br/>[вк 4][nf_misis_vk4_arch]<br/>[вк 5][nf_misis_vk5_arch]<br/>[вк 6][nf_misis_vk6_arch]<br/>[вк 7][nf_misis_vk7_arch]<br/>[вк 8][nf_misis_vk8_arch]<br/>[вк 9][nf_misis_vk9_arch]<br/>[вк 10][nf_misis_vk10_arch] | 1. Котова Лариса Анатольевна ([профиль][nf_misis_kotova_profile], [@][nf_misis_kotova_email1], [@][nf_misis_kotova_email2], [@][nf_misis_kotova_email3])<br/>2. Кожевникова Елена Владимировна ([vk][nf_misis_kozhevnikova_vk], [@][nf_misis_kozhevnikova_email])<br/>2. Нефедова Евгения Викторовна ([vk][nf_misis_nefedova_vk], [@][nf_misis_nefedova_email])<br/>3. Запорожская Елена Николаевна ([@][nf_misis_zaporozhskaya_email])<br/>3. Копысов Сергей Александрович |                           |
+| Оренбург   | Оренбургский государственный университет им. В. А. Бондаренко                                                         | [сайт 1][osu_news36588]<br/>[сайт 2][osu_news37021]<br/>[вк 1][osu_vk37316]<br/>[вк 2][osu_vk36861]<br/>[вк 3][osu_vk36029]<br/>[вк 4][osu_vk35997]<br/>[вк 5][osu_vk35903]                                                                                                                                       | [сайт 1][osu_news36588_arch]<br/>[сайт 2][osu_news37021_arch]<br/>[вк 1][osu_vk37316_arch]<br/>[вк 2][osu_vk36861_arch]<br/>[вк 3][osu_vk36029_arch]<br/>[вк 4][osu_vk35997_arch]<br/>[вк 5][osu_vk35903_arch]                                                                                                                                                                | 1. Мирошников Сергей Александрович ([профиль][osu_miroshnikov], [wiki][osu_miroshnikov_wiki])<br/>2. Шигаева Олеся Ивановна ([упоминание][osu_doc2568])<br/>2. Чувилина Арина ([упоминание][osu_doc2568])<br/>3. Чубаров Сергей<br/>3. Ковалев Сергей<br/>3. Бровкин Василий                                                                                                                                                                                                |                           |
+| Орск       | Орский гуманитарно-технологический институт (филиал) Оренбургского государственного университета им. В. А. Бондаренко | [сайт][ogti_site1]<br/>[вк 1][ogti_vk1]<br/>[вк 2][ogti_vk2]<br/>[вк 3][ogti_vk3]<br/>[вк 4][ogti_vk4]                                                                                                                                                                                                            | [сайт][ogti_site1_arch]<br/>[вк 1][ogti_vk1_arch]<br/>[вк 2][ogti_vk2_arch]<br/>[вк 3][ogti_vk3_arch]<br/>[вк 4][ogti_vk4_arch]                                                                                                                                                                                                                                               | 1. Головин Владимир Валерьевич<br/>3. Иртаев Антон Батыржанович<br/>3. Кадышев Александр                                                                                                                                                                                                                                                                                                                                                                                    |                           |
+| Орск       | Орский филиал Московского финансово-юридического университета МФЮА                                                    | [сайт][ofmua_site1]<br/>[вк][ofmua_vk1]                                                                                                                                                                                                                                                                           | [сайт][ofmua_site1_arch]<br/>[вк][ofmua_vk1_arch]                                                                                                                                                                                                                                                                                                                             | 1. Труханкина Елена Анатольевна ([@][trukhankina_ea_email], [vk][trukhankina_ea_vk])<br/>2. Чабанова Аксана Юрьевна ([@][chabanova_ay_email], [vk][chabanova_ay_vk])<br/>2. Титов Роман Игоревич ([vk][titov_ri_vk])                                                                                                                                                                                                                                                        |                           |
+
+[nf_misis_site1]: https://nf.misis.ru/
+
+[nf_misis_site1_arch]: https://archive.li/SpgyN
+
+[nf_misis_site2]: https://nf.misis.ru/students/vojska-bespilotnykh-sistem
+
+[nf_misis_site2_arch]: https://web.archive.org/web/20261011224758/https://nf.misis.ru/students/vojska-bespilotnykh-sistem
+
+[nf_misis_vk1]: https://vk.ru/wall-56087948_6577
+
+[nf_misis_vk1_arch]: https://archive.li/eKmFl
+
+[nf_misis_vk2]: https://vk.ru/wall-56087948_6565
+
+[nf_misis_vk2_arch]: https://archive.li/0hAjg
+
+[nf_misis_vk3]: https://vk.ru/wall-56087948_6051
+
+[nf_misis_vk3_arch]: https://archive.li/Lv4SP
+
+[nf_misis_vk4]: https://vk.ru/wall-56087948_6044
+
+[nf_misis_vk4_arch]: https://archive.li/juHnJ
+
+[nf_misis_vk5]: https://vk.ru/wall-56087948_6025
+
+[nf_misis_vk5_arch]: https://archive.li/0RgYS
+
+[nf_misis_vk6]: https://vk.ru/wall-56087948_5936
+
+[nf_misis_vk6_arch]: https://archive.li/9cy4q
+
+[nf_misis_vk7]: https://vk.ru/wall-56087948_5861
+
+[nf_misis_vk7_arch]: https://archive.li/yxapq
+
+[nf_misis_vk8]: https://vk.ru/wall-56087948_5708
+
+[nf_misis_vk8_arch]: https://archive.li/M8qy8
+
+[nf_misis_vk9]: https://vk.ru/wall-56087948_5656
+
+[nf_misis_vk9_arch]: https://archive.li/fA0Wd
+
+[nf_misis_vk10]: https://vk.ru/wall-56087948_5597
+
+[nf_misis_vk10_arch]: https://archive.li/rcLRt
+
+[nf_misis_kotova_profile]: https://nf.misis.ru/podrazdeleniya/management/director
+
+[nf_misis_kotova_email1]: mailto:kotova.la@misis.ru
+
+[nf_misis_kotova_email2]: mailto:kotova@misis.ru
+
+[nf_misis_kotova_email3]: mailto:lkotova_06@mail.ru
+
+[nf_misis_kozhevnikova_vk]: https://vk.ru/id83430491
+
+[nf_misis_kozhevnikova_email]: mailto:kozhevnikova.ev@misis.ru
+
+[nf_misis_nefedova_vk]: https://vk.ru/id410597947
+
+[nf_misis_nefedova_email]: mailto:nefedova.ev@misis.ru
+
+[nf_misis_zaporozhskaya_email]: mailto:zaporozjhskaya.e.n@misis.ru
 
 [osu_news36588]: http://www.osu.ru/news/36588
 
