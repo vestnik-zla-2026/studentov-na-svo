@@ -32,13 +32,16 @@
 | Город      | Университет, институт, филиал                                                                              | Ссылки                                                       | Копии                                                                                | Ответственные лица                                                                                                            | Структурные подразделения |
 | ---------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | Трёхгорный | Трехгорный технологический институт – филиал Национального исследовательского ядерного университета «МИФИ» | [сайт 1][tti_site1]<br/>[сайт 2][tti_site2]<br/>[вк][tti_vk] | [сайт 1][tti_site1_archive]<br/>[сайт 2][tti_site2_archive]<br/>[вк][tti_vk_archive] | 1. Улитина Татьяна Ивановна ([@][ulitina_mail])<br/>2. Суровцова Елена Георгиевна ([@][surovtsova_mail], [vk][surovtsova_vk]) |                           |
-| Челябинск  | Южно-Уральский государственный институт искусств им. П. И. Чайковского                                     | [сайт][chelyab_site]                                         | [сайт][chelyab_archive]                                                              | 1. Сизова Елена Равильевна ([профиль][chelyab_person])                                                                                  |                           |
+| Челябинск  | Уральский филиал Российского государственного университета правосудия имени В. М. Лебедева (г. Челябинск)  | [вк 1][uf_rgup_vk1]<br/>[вк 2][uf_rgup_vk2]                  | [вк 1][uf_rgup_vk1_arch]<br/>[вк 2][uf_rgup_vk2_arch]                                | 1. Лихачев Алексей Геннадьевич ([@][uf_rgup_lichachev_email])                                                                 |                           |
+| Челябинск  | Южно-Уральский государственный институт искусств имени П. И. Чайковского                                   | [сайт][chelyab_site]                                         | [сайт][chelyab_archive]                                                              | 1. Сизова Елена Равильевна ([@][ersizova_email1], [профиль][chelyab_person])                                                  |                           |
 
 [chelyab_site]: https://www.uyrgii.ru/ministerstvo-oborony-rf-priglashaet-na-sluzhbu-po-kontraktu-v-voyskah-bespilotnyh-sistem-vbs
 
 [chelyab_archive]: https://web.archive.org/web/20260404031345/https://www.uyrgii.ru/ministerstvo-oborony-rf-priglashaet-na-sluzhbu-po-kontraktu-v-voyskah-bespilotnyh-sistem-vbs
 
 [chelyab_person]: https://www.uyrgii.ru/%D0%A1%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%A0%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0
+
+[ersizova_email1]: mailto:elsizova@mail.ru
 
 [tti_site1]: https://tti-mephi.ru/node/1503
 
@@ -57,3 +60,13 @@
 [surovtsova_mail]: mailto:EGSurovtsova@mephi.ru
 
 [surovtsova_vk]: https://vk.com/id206465818
+
+[uf_rgup_vk1]: https://vk.ru/wall-195823356_1812
+
+[uf_rgup_vk1_arch]: https://archive.li/vPnJr
+
+[uf_rgup_vk2]: https://vk.ru/wall-195823356_1662
+
+[uf_rgup_vk2_arch]: https://archive.li/seqmh
+
+[uf_rgup_lichachev_email]: mailto:lihoi@ya.ru

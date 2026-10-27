@@ -29,16 +29,19 @@
 
 # Республика Татарстан
 
-| Город   | Университет, институт, филиал                                                    | Ссылки                  | Копии                           | Ответственные лица                                                                                                                      | Структурные подразделения |
-| ------- | -------------------------------------------------------------------------------- | ----------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Елабуга | Елабужский институт (филиал) Казанского (Приволжского) федерального университета | [сайт][elabuga_site1]   | [сайт][elabuga_site1_archive]   | 1. Умаров Марат Файзуллаевич                                                                                                            |                           |
-| Казань  | Казанский (Приволжский) федеральный университет                                  | [презентация][kpfu_pdf] | [презентация][kpfu_pdf_archive] | 1. Сафин Ленар Ринатович ([wiki][safin_wiki])<br/>3. Гималетдинов Альберт Минигаязович ([@][gimaletdinov_email], [vk][gimaletdinov_vk]) |                           |
+| Город   | Университет, институт, филиал                                                                          | Ссылки                  | Копии                           | Ответственные лица                                                                                                                                                                                                                                                                                                                                                                                                                                          | Структурные подразделения |
+| ------- | ------------------------------------------------------------------------------------------------------ | ----------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Елабуга | Елабужский институт (филиал) Казанского (Приволжского) федерального университета                       | [сайт][elabuga_site1]   | [сайт][elabuga_site1_archive]   | 1. Умаров Марат Файзуллаевич ([@][mfumarov_email1], [@][mfumarov_email2], [профиль][mfumarov_profile])                                                                                                                                                                                                                                                                                                                                                      |                           |
+| Казань  | Казанский филиал Российского государственного университета правосудия имени В. М. Лебедева (г. Казань) | [вк][kf_rgup_vk1]       | [вк][kf_rgup_vk1_arch]          | 1. Шарифуллин Рамиль Анварович ([профиль][kf_rgup_sharifullin_profile])<br/>2. Дюндина Алевтина Павловна ([vk][kf_rgup_dyundina_vk])<br/>2. Аглиуллина Алия Альфредовна ([vk][kf_rgup_agliullina_vk])<br/>2. Зудерман Ольга Владимировна ([vk][kf_rgup_zuderman_vk])<br/>2. Сергеева Альбина Зуфаровна ([vk][kf_rgup_sergeeva_vk])<br/>2. Рошка Ирина Сергеевна ([vk][kf_rgup_roshka_vk])<br/>2. Нигматуллин Айдан Булатович ([vk][kf_rgup_nigmatullin_vk]) |                           |
+| Казань  | Казанский (Приволжский) федеральный университет                                                        | [презентация][kpfu_pdf] | [презентация][kpfu_pdf_archive] | 1. Сафин Ленар Ринатович ([@][lrsafin_email1], [wiki][safin_wiki])<br/>3. Гималетдинов Альберт Минигаязович ([@][gimaletdinov_email], [vk][gimaletdinov_vk])                                                                                                                                                                                                                                                                                                |                           |
 
 [kpfu_pdf]: https://kpfu.ru/portal/docs/F1053378099/Prezentaciya_ERA_Vojska.BpS.pdf
 
 [kpfu_pdf_archive]: https://web.archive.org/web/20260510204457/https://kpfu.ru/portal/docs/F1053378099/Prezentaciya_ERA_Vojska.BpS.pdf
 
 [safin_wiki]: https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%84%D0%B8%D0%BD,_%D0%9B%D0%B5%D0%BD%D0%B0%D1%80_%D0%A0%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%87
+
+[lrsafin_email1]: mailto:lenar.safin@kpfu.ru
 
 [gimaletdinov_email]: mailto:AMGimaletdinov@kpfu.ru
 
@@ -47,3 +50,27 @@
 [elabuga_site1]: https://kpfu.ru/elabuga/vstupaj-v-vojska-bespilotnyh-sistem-481114.html
 
 [elabuga_site1_archive]: https://web.archive.org/web/20260510204426/https://kpfu.ru/elabuga/vstupaj-v-vojska-bespilotnyh-sistem-481114.html
+
+[mfumarov_email1]: mailto:MFUmarov@kpfu.ru
+
+[mfumarov_email2]: mailto:maratfayzullaevich@bk.ru
+
+[mfumarov_profile]: https://kpfu.ru/marat.umarov
+
+[kf_rgup_vk1]: https://vk.ru/wall-356953_22686
+
+[kf_rgup_vk1_arch]: https://archive.li/0lScF
+
+[kf_rgup_sharifullin_profile]: https://kb.rgup.ru/pages/rector
+
+[kf_rgup_dyundina_vk]: https://vk.ru/id359824924
+
+[kf_rgup_agliullina_vk]: https://vk.ru/id164684372
+
+[kf_rgup_zuderman_vk]: https://vk.ru/id231502809
+
+[kf_rgup_sergeeva_vk]: https://vk.ru/id662280992
+
+[kf_rgup_roshka_vk]: https://vk.ru/id7069340
+
+[kf_rgup_nigmatullin_vk]: https://vk.ru/id378771187
