@@ -29,13 +29,14 @@
 
 # Автономная Республика Крым (оккупированная территория Украины)
 
-| Город       | Университет, институт, филиал                                          | Ссылки                                                                                          | Копии                                                                                                                    | Ответственные лица                                                                                       | Структурные подразделения |
-| ----------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Керчь       | Керченский государственный морской технологический университет         | [сайт][kgmtu_news]                                                                              | [сайт][kgmtu_archive]                                                                                                    | 1. Масюткин Евгений Петрович                                                                             |                           |
-| Симферополь | Крымский инженерно-педагогический университет им. Февзи Якубова        | [вк][kipu_vk]                                                                                   | [вк][kipu_vk_archive]                                                                                                    | 1. Якубов Чингиз Февзиевич ([wiki][yakubov_wiki])<br/>3. Фазылов Нияз Решатович ([@][kipu_fazylov_mail]) |                           |
-| Симферополь | Крымский университет культуры, искусств и туризма                      | [сайт][kukiit_news]                                                                             | [сайт][kukiit_archive]                                                                                                   | 1. Горенкин Валерий Анатольевич ([wiki][gorenkin_wiki])                                                  |                           |
-| Симферополь | Крымский федеральный университет им. В. И. Вернадского                 | [вк 1][cfu_vk1]<br/>[вк 2][cfu_vk2]<br/>[вк 3][cfu_vk3]<br/>[вк 4][cfu_vk4]<br/>[вк 5][cfu_vk5] | [вк 1][cfu_archive1]<br/>[вк 2][cfu_archive2]<br/>[вк 3][cfu_archive3]<br/>[вк 4][cfu_archive4]<br/>[вк 5][cfu_archive5] | 1. Курьянов Владимир Олегович                                                                            | [институты](Ukraine__Crimea_cfuv.md)  |
-| Ялта        | Гуманитарно-педагогическая академия — филиал КФУ им. В. И. Вернадского | [вк][gpa_vk]                                                                                    | [вк][gpa_archive]                                                                                                        | 1. Горбунова Наталья Владимировна ([профиль][gpa_director])                                              |                           |
+| Город       | Университет, институт, филиал                                                                              | Ссылки                                                                                                                                                 | Копии                                                                                                                                                                           | Ответственные лица                                                                                                                                                                                                                                                                                                                            | Структурные подразделения                 |
+| ----------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| Керчь       | Керченский государственный морской технологический университет                                             | [сайт][kgmtu_news]                                                                                                                                     | [сайт][kgmtu_archive]                                                                                                                                                           | 1. Масюткин Евгений Петрович                                                                                                                                                                                                                                                                                                                  |                                           |
+| Симферополь | Крымский инженерно-педагогический университет им. Февзи Якубова                                            | [вк][kipu_vk]                                                                                                                                          | [вк][kipu_vk_archive]                                                                                                                                                           | 1. Якубов Чингиз Февзиевич ([@][yakubov_email1], [wiki][yakubov_wiki])<br/>3. Фазылов Нияз Решатович ([@][kipu_fazylov_mail])                                                                                                                                                                                                                 |                                           |
+| Симферополь | Крымский университет культуры, искусств и туризма                                                          | [сайт][kukiit_news]                                                                                                                                    | [сайт][kukiit_archive]                                                                                                                                                          | 1. Горенкин Валерий Анатольевич ([wiki][gorenkin_wiki])                                                                                                                                                                                                                                                                                       |                                           |
+| Симферополь | Крымский федеральный университет им. В. И. Вернадского                                                     | [вк 1][cfu_vk1]<br/>[вк 2][cfu_vk2]<br/>[вк 3][cfu_vk3]<br/>[вк 4][cfu_vk4]<br/>[вк 5][cfu_vk5]                                                        | [вк 1][cfu_archive1]<br/>[вк 2][cfu_archive2]<br/>[вк 3][cfu_archive3]<br/>[вк 4][cfu_archive4]<br/>[вк 5][cfu_archive5]                                                        | 1. Курьянов Владимир Олегович                                                                                                                                                                                                                                                                                                                 | [институты](Ukraine__Crimea_cfuv.md)      |
+| Симферополь | Крымский филиал Российского государственного университета правосудия имени В. М. Лебедева (г. Симферополь) | [вк 1][kf_crimea_rgup_vk1]<br/>[вк 2][kf_crimea_rgup_vk2]<br/>[вк 3][kf_crimea_rgup_vk3]<br/>[вк 4][kf_crimea_rgup_vk4]<br/>[вк 5][kf_crimea_rgup_vk5] | [вк 1][kf_crimea_rgup_vk1_arch]<br/>[вк 2][kf_crimea_rgup_vk2_arch]<br/>[вк 3][kf_crimea_rgup_vk3_arch]<br/>[вк 4][kf_crimea_rgup_vk4_arch]<br/>[вк 5][kf_crimea_rgup_vk5_arch] | 1. Трофимов Сергей Анатольевич ([vk][kf_crimea_rgup_trofimov_vk])<br/>2. Хоменко Александр Сергеевич ([vk][kf_crimea_rgup_khomenko_vk])<br/>2. Кеньо Дарина ([vk][kf_crimea_rgup_kenyo_vk])<br/>2. Юзык София ([vk][kf_crimea_rgup_yuzyk_vk])<br/>2. Рябцев Роман Игоревич ([vk][kf_crimea_rgup_ryabtsev_vk])<br/>3. Чудновец Юрий Викторович | [факультеты](Ukraine__Crimea_crb-rgup.md) |
+| Ялта        | Гуманитарно-педагогическая академия — филиал Крымского федерального университета им. В. И. Вернадского     | [вк][gpa_vk]                                                                                                                                           | [вк][gpa_archive]                                                                                                                                                               | 1. Горбунова Наталья Владимировна ([@][nvgorbunova_email1], [профиль][gpa_director])                                                                                                                                                                                                                                                          |                                           |
 
 [kipu_vk]: https://vk.com/wall-61940644_17822
 
@@ -73,10 +74,44 @@
 
 [gpa_director]: https://gpa.cfuv.ru/ru/akademiya/direktsiya-akademii/3651-gorbunova-natalya-vladimirovna
 
+[nvgorbunova_email1]: mailto:natalya-gor2008@yandex.ru
+
 [kgmtu_news]: https://kgmtu.ru/novosti/studentam-rasskazali-o-voennoy-sluzhbe-v-voyskakh-bpla
 
 [kgmtu_archive]: https://megalodon.jp/2026-0406-0026-06/https://kgmtu.ru:443/novosti/studentam-rasskazali-o-voennoy-sluzhbe-v-voyskakh-bpla
 
 [yakubov_wiki]: https://ru.wikipedia.org/wiki/%D0%AF%D0%BA%D1%83%D0%B1%D0%BE%D0%B2,_%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8%D0%B7_%D0%A4%D0%B5%D0%B2%D0%B7%D0%B8%D0%B5%D0%B2%D0%B8%D1%87
 
+[yakubov_email1]: mailto:yakubov_chingiz@mail.ru
+
 [gorenkin_wiki]: https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B5%D0%BD%D0%BA%D0%B8%D0%BD,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
+
+[kf_crimea_rgup_vk1]: https://vk.ru/wall-56606648_33472
+
+[kf_crimea_rgup_vk1_arch]: https://archive.li/5w4fb
+
+[kf_crimea_rgup_vk2]: https://vk.ru/wall-56606648_31640
+
+[kf_crimea_rgup_vk2_arch]: https://archive.li/XCY1C
+
+[kf_crimea_rgup_vk3]: https://vk.ru/wall-56606648_31167
+
+[kf_crimea_rgup_vk3_arch]: https://archive.li/yJAyB
+
+[kf_crimea_rgup_vk4]: https://vk.ru/wall-56606648_31076
+
+[kf_crimea_rgup_vk4_arch]: https://archive.li/4CS17
+
+[kf_crimea_rgup_vk5]: https://vk.ru/wall-56606648_31056
+
+[kf_crimea_rgup_vk5_arch]: https://archive.li/2YLSI
+
+[kf_crimea_rgup_trofimov_vk]: https://vk.ru/id6477378
+
+[kf_crimea_rgup_khomenko_vk]: https://vk.ru/alkhomenko
+
+[kf_crimea_rgup_kenyo_vk]: https://vk.ru/one_of_the_blue_eyes
+
+[kf_crimea_rgup_yuzyk_vk]: https://vk.ru/s.yuzyk
+
+[kf_crimea_rgup_ryabtsev_vk]: https://vk.ru/romchik_krf
