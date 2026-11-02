@@ -34,6 +34,7 @@
 | Хабаровск | Дальневосточный государственный университет путей сообщения                                                                                       | [телеграм 1][dvgups_tg1]<br/>[телеграм 2][dvgups_tg2]<br/>[телеграм 3][dvgups_tg3]<br/>[телеграм 4][dvgups_tg4]<br/>[вк][dvgups_vk]                                                                                                                     | [телеграм 1][dvgups_tg1_archive]<br/>[телеграм 2][dvgups_tg2_archive]<br/>[телеграм 3][dvgups_tg3_archive]<br/>[телеграм 4][dvgups_tg4_archive]<br/>[вк][dvgups_vk_archive]                                                                                                                                                                     | 1. Буровцев Владимир Викторович ([@][burovtsev_email], [wiki][burovtsev_wiki], [профиль][burovtsev_site])  |                           |
 | Хабаровск | Дальневосточный институт (филиал) Всероссийского государственного университета юстиции (РПА Минюста России) в г. Хабаровске                       | [сайт 1][dvfuju_khv_site1]<br/>[сайт 2][dvfuju_khv_site2]<br/>[вк 1][dvfuju_khv_vk1]<br/>[вк 2][dvfuju_khv_vk2]<br/>[вк 3][dvfuju_khv_vk3]<br/>[вк 4][dvfuju_khv_vk4]<br/>[вк 5][dvfuju_khv_vk5]                                                        | [сайт 1][dvfuju_khv_site1_arch]<br/>[сайт 2][dvfuju_khv_site2_arch]<br/>[вк 1][dvfuju_khv_vk1_arch]<br/>[вк 2][dvfuju_khv_vk2_arch]<br/>[вк 3][dvfuju_khv_vk3_arch]<br/>[вк 4][dvfuju_khv_vk4_arch]<br/>[вк 5][dvfuju_khv_vk5_arch]                                                                                                             | 1. Кулыгин Владимир Владимирович ([профиль][dvfuju_khv_kulygin])<br/>3. Шабанова Светлана Васильевна       |                           |
 | Хабаровск | Дальневосточный институт управления — филиал Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации | [вк][ranepa_vk]                                                                                                                                                                                                                                         | [вк][ranepa_vk_archive]                                                                                                                                                                                                                                                                                                                         | 1. Меркулов Евгений Сергеевич ([@][merkulov_email])<br/>2. Воронин Роман Александрович ([@][voronin_mail]) |                           |
+| Хабаровск | Дальневосточный филиал Российского государственного университета правосудия имени В. М. Лебедева (г. Хабаровск)                                   | [сайт][df_rgup_site1]<br/>[вк 1][df_rgup_vk1]<br/>[вк 2][df_rgup_vk2]                                                                                                                                                                                   | [сайт][df_rgup_site1_arch]<br/>[вк 1][df_rgup_vk1_arch]<br/>[вк 2][df_rgup_vk2_arch]                                                                                                                                                                                                                                                            | 1. Волков Константин Александрович ([@][df_rgup_volkov_email])<br/>3. Нагослоев П. В.                      |                           |
 | Хабаровск | Хабаровский институт инфокоммуникаций (филиал) Сибирского государственного университета телекоммуникаций и информатики                            | [сайт 1][hiik_web1]<br/>[сайт 2][hiik_web2]<br/>[сайт 3][hiik_web3]<br/>[сайт 4][hiik_web4]<br/>[листовка][hiik_pdf1]<br/>[брошюра][hiik_pdf2]<br/>[вк 1][hiik_vk1]<br/>[вк 2][hiik_vk2]<br/>[вк 3][hiik_vk3]<br/>[вк 4][hiik_vk4]<br/>[вк 5][hiik_vk5] | [сайт 1][hiik_web1_archive]<br/>[сайт 2][hiik_web2_archive]<br/>[сайт 3][hiik_web3_archive]<br/>[сайт 4][hiik_web4_archive]<br/>[листовка][hiik_pdf1_archive]<br/>[брошюра][hiik_pdf2_archive]<br/>[вк 1][hiik_vk1_archive]<br/>[вк 2][hiik_vk2_archive]<br/>[вк 3][hiik_vk3_archive]<br/>[вк 4][hiik_vk4_archive]<br/>[вк 5][hiik_vk5_archive] | 1. Данилов Роман Михайлович ([@][hiik_danilov_email])<br/>3. Витман Латиф Латифжонович                     |                           |
 
 [dvgups_tg1]: https://t.me/My_dvgups/7156
@@ -147,3 +148,17 @@
 [dvfuju_khv_vk5_arch]: https://archive.md/gWYZ8
 
 [dvfuju_khv_kulygin]: https://archive.md/DAOa2
+
+[df_rgup_site1]: https://feb.rgup.ru/news/informacionnaya-vstrecha-dlya-studentov-podlezhashhih-prizyvu
+
+[df_rgup_site1_arch]: https://web.archive.org/web/20261026110501/https://feb.rgup.ru/news/informacionnaya-vstrecha-dlya-studentov-podlezhashhih-prizyvu
+
+[df_rgup_vk1]: https://vk.ru/wall-106713817_12157
+
+[df_rgup_vk1_arch]: https://archive.li/8cNLI
+
+[df_rgup_vk2]: https://vk.ru/wall-106713817_11293
+
+[df_rgup_vk2_arch]: https://archive.li/8WJH3
+
+[df_rgup_volkov_email]: mailto:volkovka@mail.ru
