@@ -37,6 +37,7 @@
 | Альметьевск  | Альметьевский торгово-экономический техникум         | [вк][atet_vk1]                        | [вк][atet_vk1_archive]                                | 1. Закирова Зульфия Гильфановна ([профиль][atet_zakirova_profile])<br/>2. Мирвалиева Людмила Сергеевна ([vk][atet_mirvalieva_vk], [профиль][atet_mirvalieva_profile])<br/>2. Калимуллина Ландыш Минзакиевна ([vk][atet_kalimullina_vk])<br/>3. Зайцев В. И.                                                                                                                                                                                                            |                           |
 | Болгар       | Спасский техникум отраслевых технологий              | [вк][stot_vk_1]                       | [вк][stot_vk_1_a]                                     | 1. Рыжев Сергей Владимирович ([профиль][stot_ryzhev_site], [@][stot_ryzhev_email])<br/>2. Кузьмина Маргарита Александровна ([vk][stot_kuzmina_vk], [профиль][stot_kuzmina_site], [@][stot_kuzmina_email])<br/>2. Давыдова Ирина Анатольевна ([профиль][stot_davydova_site], [vk][stot_davydova_vk])<br/>2. Шишкина Анжелика ([vk][stot_shishkina_vk])<br/>2. Лазутина Надежда ([vk][stot_lazutina_vk])<br/>3. Симанов С. В.<br/>3. Равшанов А. Р.<br/>3. Савинов Е. В. |                           |
 | Зеленодольск | Зеленодольский судостроительный колледж              | [вк][zelsk_vk1]                       | [вк][zelsk_vk1_arch]                                  | 1. Резатдинов Эдуард Фаргатович                                                                                                                                                                                                                                                                                                                                                                                                                                        |                           |
+| Лаишево      | Лаишевский технико-экономический техникум            | [вк][lttet_vk1]                       | [вк][lttet_vk1_arch]                                  | 1. Кузнецова Мария Григорьевна ([профиль][lttet_kuznetsova_profile])<br/>2. Гайнуллина Дания Шавкатовна ([профиль][lttet_gainullina_profile], [vk][lttet_gainullina_vk])                                                                                                                                                                                                                                                                                               |                           |
 
 [ackf_site1]: https://edu.tatar.ru/almet/sch-secondary/ph-culture/read-news/4058325
 
@@ -101,3 +102,13 @@
 [zelsk_vk1]: https://vk.com/wall-222804276_1645
 
 [zelsk_vk1_arch]: https://archive.md/ulnDd
+
+[lttet_vk1]: https://vk.ru/wall-148740510_5747
+
+[lttet_vk1_arch]: https://archive.li/mE34e
+
+[lttet_kuznetsova_profile]: https://edu.tatar.ru/laishevo/org6202/page1351426.htm
+
+[lttet_gainullina_profile]: https://edu.tatar.ru/laishevo/org6202/page3049911.htm
+
+[lttet_gainullina_vk]: https://vk.ru/id11388326
