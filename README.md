@@ -161,11 +161,11 @@ Third-party materials, archived copies, and quoted content remain subject to the
 
 ## Уральский федеральный округ
 
-| Регион                                   | Учебные заведения                                                                              | Регион                          | Учебные заведения                                                                                        |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Курганская область                       | [колледжи](Colleges/Ural/Kurgan-Oblast.md)                                                     | Свердловская область            | [университеты](Universities/Ural/Sverdlovsk-Oblast.md), [колледжи](Colleges/Ural/Sverdlovsk-Oblast.md)   |
-| Тюменская область                        | [университеты](Universities/Ural/Tyumen-Oblast.md), [колледжи](Colleges/Ural/Tyumen-Oblast.md) | Челябинская область             | [университеты](Universities/Ural/Chelyabinsk-Oblast.md), [колледжи](Colleges/Ural/Chelyabinsk-Oblast.md) |
-| Ханты-Мансийский автономный округ — Югра | [колледжи](Colleges/Ural/Khanty-Mansi-Autonomous-Okrug-Yugra.md)                               | Ямало-Ненецкий автономный округ | [колледжи](Colleges/Ural/Yamalo-Nenets-Autonomous-Okrug.md)                                              |
+| Регион                                   | Учебные заведения                                                                                                                          | Регион                          | Учебные заведения                                                                                        |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Курганская область                       | [колледжи](Colleges/Ural/Kurgan-Oblast.md)                                                                                                 | Свердловская область            | [университеты](Universities/Ural/Sverdlovsk-Oblast.md), [колледжи](Colleges/Ural/Sverdlovsk-Oblast.md)   |
+| Тюменская область                        | [университеты](Universities/Ural/Tyumen-Oblast.md), [колледжи](Colleges/Ural/Tyumen-Oblast.md)                                             | Челябинская область             | [университеты](Universities/Ural/Chelyabinsk-Oblast.md), [колледжи](Colleges/Ural/Chelyabinsk-Oblast.md) |
+| Ханты-Мансийский автономный округ — Югра | [университеты](Universities/Ural/Khanty-Mansi-Autonomous-Okrug-Yugra.md), [колледжи](Colleges/Ural/Khanty-Mansi-Autonomous-Okrug-Yugra.md) | Ямало-Ненецкий автономный округ | [колледжи](Colleges/Ural/Yamalo-Nenets-Autonomous-Okrug.md)                                              |
 
 ## Центральный федеральный округ
 

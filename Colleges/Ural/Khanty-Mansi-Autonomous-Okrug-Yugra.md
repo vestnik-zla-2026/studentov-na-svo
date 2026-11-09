@@ -29,11 +29,12 @@
 
 # Ханты-Мансийский автономный округ — Югра
 
-| Город, посёлок          | Колледж, техникум, отделение СПО вуза                                    | Ссылки                              | Копии                                         | Ответственные лица                                                                                                                                                                                      | Структурные подразделения |
-| ----------------------- | ------------------------------------------------------------------------ | ----------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Игрим (Березовский р-н) | Игримский политехнический колледж                                        | [сайт][ipk_site1]<br/>[вк][ipk_vk1] | [сайт][ipk_site1_arch]<br/>[вк][ipk_vk1_arch] | 1. Гейстонина Людмила Геннадьевна<br/>2. Лабутина Татьяна Викторовна ([vk][ipk_labutina_vk])<br/>2. Стрижова Татьяна Валерьевна ([vk][ipk_strizhova_vk])<br/>3. Захаров Алексей Александрович           |                           |
-| Мегион                  | Мегионский политехнический колледж                                       | [вк][mpk_vk1]                       | [вк][mpk_vk1_arch]                            | 1. Князева Оксана Валерьевна ([@][knyazeva_ov_email], [профиль][knyazeva_ov_profile])<br/>2. Мичурин Антуан Владимирович ([@][michurin_av_email], [vk][michurin_av_vk], [профиль][michurin_av_profile]) |                           |
-| Нефтеюганск             | Индустриальный институт (филиал) Югорского государственного университета | [вк][indi_ugrasu_vk1]               | [вк][indi_ugrasu_vk1_arch]                    | 1. Кожедеров Александр Игоревич ([@][kojederov_email])                                                                                                                                                  |                           |
+| Город, посёлок          | Колледж, техникум, отделение СПО вуза                                    | Ссылки                                                          | Копии                                                                          | Ответственные лица                                                                                                                                                                                      | Структурные подразделения |
+| ----------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Игрим (Березовский р-н) | Игримский политехнический колледж                                        | [сайт][ipk_site1]<br/>[вк][ipk_vk1]                             | [сайт][ipk_site1_arch]<br/>[вк][ipk_vk1_arch]                                  | 1. Гейстонина Людмила Геннадьевна<br/>2. Лабутина Татьяна Викторовна ([vk][ipk_labutina_vk])<br/>2. Стрижова Татьяна Валерьевна ([vk][ipk_strizhova_vk])<br/>3. Захаров Алексей Александрович           |                           |
+| Мегион                  | Мегионский политехнический колледж                                       | [вк][mpk_vk1]                                                   | [вк][mpk_vk1_arch]                                                             | 1. Князева Оксана Валерьевна ([@][knyazeva_ov_email], [профиль][knyazeva_ov_profile])<br/>2. Мичурин Антуан Владимирович ([@][michurin_av_email], [vk][michurin_av_vk], [профиль][michurin_av_profile]) |                           |
+| Нефтеюганск             | Индустриальный институт (филиал) Югорского государственного университета | [вк][indi_ugrasu_vk1]                                           | [вк][indi_ugrasu_vk1_arch]                                                     | 1. Кожедеров Александр Игоревич ([@][kojederov_email])                                                                                                                                                  |                           |
+| Радужный                | Радужнинский политехнический колледж                                     | [сайт][rpk_site1]<br/>[листовка][rpk_leaflet]<br/>[вк][rpk_vk1] | [сайт][rpk_site1_arch]<br/>[листовка][rpk_leaflet_arch]<br/>[вк][rpk_vk1_arch] | 1. Карнаухов Владимир Владимирович ([профиль][rpk_karnauhov])<br/>2. Кошкина Людмила Викторовна ([профиль][rpk_koshkina], [vk][rpk_koshkina_vk])                                                        |                           |
 
 [ipk_site1]: https://ipcollege.ru/press-centr/obrazovanie-novogo-strategicheski-vazhnogo-roda-vojsk-vojsk-bespilotnyx-sistem.html
 
@@ -66,3 +67,21 @@
 [michurin_av_vk]: https://vk.com/id89239424
 
 [michurin_av_profile]: https://www.megpk.ru/sveden/manual/@a152614
+
+[rpk_site1]: https://college-rpk-r86.gosweb.gosuslugi.ru/novosti-i-sobytiya/bars.html
+
+[rpk_site1_arch]: https://web.archive.org/web/20261109101137/https://college-rpk-r86.gosweb.gosuslugi.ru/novosti-i-sobytiya/bars.html
+
+[rpk_leaflet]: https://college-rpk-r86.gosweb.gosuslugi.ru/netcat_files/userfiles/Novosti/BARS/A4_BARS.pdf
+
+[rpk_leaflet_arch]: https://web.archive.org/web/20261109101226/https://college-rpk-r86.gosweb.gosuslugi.ru/netcat_files/userfiles/Novosti/BARS/A4_BARS.pdf
+
+[rpk_vk1]: https://vk.ru/wall-114523054_3592
+
+[rpk_vk1_arch]: https://archive.li/547J0
+
+[rpk_karnauhov]: https://college-rpk-r86.gosweb.gosuslugi.ru/svedeniya-ob-obrazovatelnoy-organizatsii/rukovodstvo/karnauhov-vladimir-vladimirovich.html
+
+[rpk_koshkina]: https://college-rpk-r86.gosweb.gosuslugi.ru/svedeniya-ob-obrazovatelnoy-organizatsii/pedagogicheskiy-sostav/koshkina-lyudmila-viktorovna-1.html
+
+[rpk_koshkina_vk]: https://vk.ru/id670259313
