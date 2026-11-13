@@ -29,9 +29,44 @@
 
 # Херсонская область (оккупированная территория Украины)
 
-| Город    | Университет, институт, филиал      | Ссылки           | Копии               | Ответственные лица                                                                                  | Структурные подразделения |
-| -------- | ---------------------------------- | ---------------- | ------------------- | --------------------------------------------------------------------------------------------------- | ------------------------- |
-| Геническ | Херсонский технический университет | [сайт][htu_news] | [сайт][htu_archive] | 1. Райко Галина Александровна ([gur][raiko_gur], [профиль][htu_rector])<br/>3. Зубанова Анжела Александровна |                           |
+| Город, поселок             | Университет, институт, филиал      | Ссылки                                                                                                                                                                                                                 | Копии                                                                                                                                                                                                                                                     | Ответственные лица                                                                                                                                                        | Структурные подразделения |
+| -------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Антоновка (Скадовский р-н) | Херсонский аграрный университет    | [сайт][hau_antonovka_site_1]<br/>[вк 1][hau_antonovka_vk_1]<br/>[вк 2][hau_antonovka_vk_2]<br/>[вк 3][hau_antonovka_vk_3]<br/>[вк 4][hau_antonovka_vk_4]<br/>[вк 5][hau_antonovka_vk_5]<br/>[вк 6][hau_antonovka_vk_6] | [сайт][hau_antonovka_site_1_arch]<br/>[вк 1][hau_antonovka_vk_1_arch]<br/>[вк 2][hau_antonovka_vk_2_arch]<br/>[вк 3][hau_antonovka_vk_3_arch]<br/>[вк 4][hau_antonovka_vk_4_arch]<br/>[вк 5][hau_antonovka_vk_5_arch]<br/>[вк 6][hau_antonovka_vk_6_arch] | 1. Путинцева Светлана Викторовна ([vk][hau_antonovka_person_1_vk], [профиль][hau_antonovka_person_1_site], [@][hau_antonovka_email_1])<br/>3. Ерёменко Андрей Анатольевич |                           |
+| Геническ                   | Херсонский технический университет | [сайт][htu_news]                                                                                                                                                                                                       | [сайт][htu_archive]                                                                                                                                                                                                                                       | 1. Райко Галина Александровна ([профиль ГУР][raiko_gur], [профиль][htu_rector], [@][rayko_email1], [vk][rayko_vk], [ok][rayko_ok])<br/>3. Зубанова Анжела Александровна   |                           |
+
+[hau_antonovka_site_1]: https://hau-edu.ru/news/v-khau-proshla-vstrecha-s-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-/
+
+[hau_antonovka_site_1_arch]: https://web.archive.org/web/20261113110854/https://hau-edu.ru/news/v-khau-proshla-vstrecha-s-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-/
+
+[hau_antonovka_vk_1]: https://vk.ru/wall-226145927_1708
+
+[hau_antonovka_vk_1_arch]: https://archive.li/cz9kW
+
+[hau_antonovka_vk_2]: https://vk.ru/wall-226145927_1701
+
+[hau_antonovka_vk_2_arch]: https://archive.li/GPkE3
+
+[hau_antonovka_vk_3]: https://vk.ru/wall-226145927_1176
+
+[hau_antonovka_vk_3_arch]: https://archive.li/rK6ag
+
+[hau_antonovka_vk_4]: https://vk.ru/wall-226145927_1095
+
+[hau_antonovka_vk_4_arch]: https://archive.li/uS5cl
+
+[hau_antonovka_vk_5]: https://vk.ru/wall-226145927_821
+
+[hau_antonovka_vk_5_arch]: https://archive.li/6bHs9
+
+[hau_antonovka_vk_6]: https://vk.ru/wall-226145927_794
+
+[hau_antonovka_vk_6_arch]: https://archive.li/62lJ1
+
+[hau_antonovka_person_1_vk]: https://vk.ru/id821248381
+
+[hau_antonovka_person_1_site]: https://www.hau-edu.ru/ob-universitete/structure-signatures/prepodovateli/putintseva-svetlana-viktorovna/
+
+[hau_antonovka_email_1]: mailto:s.putintseva@hau-edu.ru
 
 [htu_news]: https://www.ktuniver.ru/mob-otdel/voennaya-sluzhba-v-voyskakh-bespilotnykh-sistem.php
 
@@ -40,3 +75,9 @@
 [htu_rector]: https://www.ktuniver.ru/sveden/managers/organy-upravleniya-obrazovatelnoy-organizatsii/rayko-galina-aleksandrovna/
 
 [raiko_gur]: https://war-sanctions.gur.gov.ua/ru/kidnappers/persons/28823
+
+[rayko_vk]: https://vk.ru/id339918447
+
+[rayko_ok]: https://ok.ru/profile/551537698135
+
+[rayko_email1]: mailto:rayko.galina@gmail.com

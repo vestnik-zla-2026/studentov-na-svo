@@ -29,9 +29,44 @@
 
 # Херсонская область (оккупированная территория Украины)
 
-| Город    | Колледж, техникум               | Ссылки                  | Копии                           | Ответственные лица           | Структурные подразделения |
-| -------- | ------------------------------- | ----------------------- | ------------------------------- | ---------------------------- | ------------------------- |
-| Геническ | Генический строительный колледж | [вк][genichesk_strc_vk] | [вк][genichesk_strc_vk_archive] | 1. Молчанов Павел Викторович |                           |
+| Город                      | Колледж, техникум                                              | Ссылки                                                                                                                                                                                                                                                                        | Копии                                                                                                                                                                                                                                                                                                                 | Ответственные лица                                                                                             | Структурные подразделения |
+| -------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Антоновка (Скадовский р-н) | Скадовский аграрный колледж Херсонского аграрного университета | [сайт][skad_agr_college_site_1]<br/>[вк 1][skad_agr_college_vk_1]<br/>[вк 2][skad_agr_college_vk_2]<br/>[вк 3][skad_agr_college_vk_3]<br/>[вк 4][skad_agr_college_vk_4]<br/>[вк 5][skad_agr_college_vk_5]<br/>[вк 6][skad_agr_college_vk_6]<br/>[вк 7][skad_agr_college_vk_7] | [сайт][skad_agr_college_site_1_arch]<br/>[вк 1][skad_agr_college_vk_1_arch]<br/>[вк 2][skad_agr_college_vk_2_arch]<br/>[вк 3][skad_agr_college_vk_3_arch]<br/>[вк 4][skad_agr_college_vk_4_arch]<br/>[вк 5][skad_agr_college_vk_5_arch]<br/>[вк 6][skad_agr_college_vk_6_arch]<br/>[вк 7][skad_agr_college_vk_7_arch] | 1. Португальская Татьяна Геннадьевна ([профиль][skad_agr_college_person_1])<br/>3. Ерёменко Андрей Анатольевич |                           |
+| Геническ                   | Генический строительный колледж                                | [вк][genichesk_strc_vk]                                                                                                                                                                                                                                                       | [вк][genichesk_strc_vk_archive]                                                                                                                                                                                                                                                                                       | 1. Молчанов Павел Викторович                                                                                   |                           |
+
+[skad_agr_college_site_1]: https://hau-edu.ru/news/v-khau-proshla-vstrecha-s-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-/
+
+[skad_agr_college_site_1_arch]: https://web.archive.org/web/20261113110854/https://hau-edu.ru/news/v-khau-proshla-vstrecha-s-predstavitelyami-punkta-otbora-na-voennuyu-sluzhbu-po-kontraktu-/
+
+[skad_agr_college_vk_1]: https://vk.ru/wall-226145927_1708
+
+[skad_agr_college_vk_1_arch]: https://archive.li/cz9kW
+
+[skad_agr_college_vk_2]: https://vk.ru/wall-226145927_1701
+
+[skad_agr_college_vk_2_arch]: https://archive.li/GPkE3
+
+[skad_agr_college_vk_3]: https://vk.ru/wall-226145927_1176
+
+[skad_agr_college_vk_3_arch]: https://archive.li/rK6ag
+
+[skad_agr_college_vk_4]: https://vk.ru/wall-226145927_1095
+
+[skad_agr_college_vk_4_arch]: https://archive.li/uS5cl
+
+[skad_agr_college_vk_5]: https://vk.ru/wall-226145927_821
+
+[skad_agr_college_vk_5_arch]: https://archive.li/6bHs9
+
+[skad_agr_college_vk_6]: https://vk.ru/wall-226145927_794
+
+[skad_agr_college_vk_6_arch]: https://archive.li/62lJ1
+
+[skad_agr_college_vk_7]: https://vk.ru/wall-232443225_494
+
+[skad_agr_college_vk_7_arch]: https://archive.li/Clgsd
+
+[skad_agr_college_person_1]: https://hau-edu.ru/ob-universitete/structure-signatures/prepodovateli/portugalskaya-tatyana-gennadevna/
 
 [genichesk_strc_vk]: https://vk.com/wall-220925282_494
 
