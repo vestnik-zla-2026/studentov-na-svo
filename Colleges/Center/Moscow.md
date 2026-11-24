@@ -35,6 +35,7 @@
 | Москва | Колледж права имени Н. С. Киселевой Московского государственного юридического университета имени О. Е. Кутафина (МГЮА) | [сайт][msal_kp_site_1]<br/>[вк 1][msal_kp_vk_1]<br/>[вк 2][msal_kp_vk_2] | [сайт][msal_kp_site_1_arch]<br/>[вк 1][msal_kp_vk_1_arch]<br/>[вк 2][msal_kp_vk_2_arch] | 1. Черкасова Кристина Владимировна ([профиль][msal_kp_cherkasova], [@][msal_kp_cherkasova_email])<br/>2. Завгородский Арсений ([vk][msal_kp_zavgorodskiy_vk])<br/>2. Кожевников Никита ([vk][msal_kp_kozhevnikov_vk])<br/>2. Кучинская Дарья ([vk][msal_kp_kuchinskaya_vk])<br/>2. Ларина София ([vk][msal_kp_larina_vk])<br/>2. Беченова Алиса ([vk][msal_kp_bechenova_vk]) |                           |
 | Москва | Колледж телекоммуникаций ордена Трудового Красного Знамени Московского технического университета связи и информатики   | [сайт][ctmtuci_site1]                                                    | [сайт][ctmtuci_site1_arch]                                                              | 1. Парецкий Алексей Дмитриевич                                                                                                                                                                                                                                                                                                                                               |                           |
 | Москва | Московский автомобильно-дорожный колледж им. А. А. Николаева                                                           | [СМИ][madk_astra_1]                                                      | [СМИ][madk_astra_1_a]                                                                   | 1. Фомин Роман Александрович ([@][madk_fomin_email])                                                                                                                                                                                                                                                                                                                         |                           |
+| Москва | Московский государственный колледж музыкального исполнительства им. Ф. Шопена                                          | [сайт][mgkmi_site_1]                                                     | [сайт][mgkmi_site_1_arch]                                                               | 1. Гудова Елена Ивановна ([vk][mgkmi_person_1_vk], [профиль][mgkmi_person_1_site], [@][mgkmi_email_1], [@][mgkmi_email_2])                                                                                                                                                                                                                                                   |                           |
 | Москва | Московский театральный колледж им. Л. А. Филатова                                                                      | [вк][mtkf_vk1]                                                           | [вк][mtkf_vk1_archive]                                                                  | 1. Жибцов Василий Александрович ([@][mtkf_zhibtsov_email])                                                                                                                                                                                                                                                                                                                   |                           |
 
 [vk348]: https://vk.com/wall-226771914_348
@@ -94,3 +95,15 @@
 [mtkf_vk1_archive]: https://archive.md/A0nnP
 
 [mtkf_zhibtsov_email]: mailto:ZhibtsovVA@culture.mos.ru
+
+[mgkmi_site_1]: https://mgkmi.ru/archives/17941
+
+[mgkmi_site_1_arch]: https://archive.li/c3nvS
+
+[mgkmi_person_1_vk]: https://vk.ru/id748654190
+
+[mgkmi_person_1_site]: https://mgkmi.ru/%D0%B3%D1%83%D0%B4%D0%BE%D0%B2%D0%B0-%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0
+
+[mgkmi_email_1]: mailto:gudovaei@culture.mos.ru
+
+[mgkmi_email_2]: mailto:elenagudova@yandex.ru
