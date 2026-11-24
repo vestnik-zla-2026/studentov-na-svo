@@ -46,6 +46,7 @@
 | Сергиев Посад                          | Сергиево-Посадский филиал Всероссийского государственного университета кинематографии им. С. А. Герасимова                                                                                       | [сайт][vgiksp_site1]<br/>[вк][vgiksp_vk1]                                                                                                                                                                                                         | [сайт][vgiksp_site1a]<br/>[вк][vgiksp_vk1a]                                                                                                                                                                                                                                                                                       | 1. Хлебникова Жанна Руслановна<br/>2. Евмененко Екатерина Михайловна ([vk][vgiksp_evmenenko_vk])<br/>2. Морозов Артемий<br/>2. Лалуев Андрей<br/>3. Докторов Павел Евгеньевич<br/>3. Шелопаев Евгений<br/>3. Дмитриев Денис Вячеславович<br/>3. Рыжов Андрей Дмитриевич<br/>3. Костин Алексей Евгеньевич<br/>3. Глухов Сергей Александрович |                           |
 | Федоскино (Мытищинский р-н)            | Федоскинский институт лаковой миниатюрной живописи – филиал Российского университета традиционных художественных промыслов                                                                       | [сайт][filmp_ruthp_site1]<br/>[вк 1][filmp_ruthp_vk1]<br/>[вк 2][filmp_ruthp_vk2]                                                                                                                                                                 | [сайт][filmp_ruthp_site1_arch]<br/>[вк 1][filmp_ruthp_vk1_arch]<br/>[вк 2][filmp_ruthp_vk2_arch]                                                                                                                                                                                                                                  | 1. Салтанов Михаил Алексеевич                                                                                                                                                                                                                                                                                                               |                           |
 | Фрязино                                | Филиал МИРЭА – Российского технологического университета в г. Фрязино                                                                                                                            | [вк 1][mirea_vk1]<br/>[вк 2][mirea_vk2]                                                                                                                                                                                                           | [вк 1][mirea_vk1_archive]<br/>[вк 2][mirea_vk2_archive]                                                                                                                                                                                                                                                                           | 1. Макарова Людмила Александровна ([@][makarova_mail])                                                                                                                                                                                                                                                                                      |                           |
+| Черкизово (г. о. Пушкинский)           | Российский государственный университет туризма и сервиса                                                                                                                                         | [сайт 1][rguts_site1]<br/>[сайт 2][rguts_site2]<br/>[буклет][rguts_buklet]<br/>[лифлет][rguts_liflet]<br/>[вк 1][rguts_vk1]<br/>[вк 2][rguts_vk2]<br/>[вк 3][rguts_vk3]<br/>[вк 4][rguts_vk4]<br/>[вк 5][rguts_vk5]                               | [сайт 1][rguts_site1_arch]<br/>[сайт 2][rguts_site2_arch]<br/>[буклет][rguts_buklet_arch]<br/>[лифлет][rguts_liflet_arch]<br/>[вк 1][rguts_vk1_arch]<br/>[вк 2][rguts_vk2_arch]<br/>[вк 3][rguts_vk3_arch]<br/>[вк 4][rguts_vk4_arch]<br/>[вк 5][rguts_vk5_arch]                                                                  | 1. Капинус Оксана Сергеевна ([wiki][rguts_kapinus_wiki], [профиль РАН][rguts_kapinus_ras], [диссернет][rguts_kapinus_dissernet])<br/>3. Варламова Екатерина ([vk][rguts_varlamova_vk], [@][rguts_varlamova_email])                                                                                                                          |                           |
 | Электроизолятор (Раменский м. о.)      | Гжельский государственный университет                                                                                                                                                            | [сайт][gzhel_0423172324]<br/>[вк][vk25522_gzh]                                                                                                                                                                                                    | [сайт][gzhel_0423172324_arch]<br/>[вк][vk25522_gzh_arch]                                                                                                                                                                                                                                                                          | 1. Сомов Денис Сергеевич<br/>3. Пивоваров Александр Геннадьевич                                                                                                                                                                                                                                                                             |                           |
 
 [bihrd_site1]: http://bf-vshni.ru/vbsvsr.html
@@ -269,3 +270,49 @@
 [ruc_nabieva_email1]: mailto:anabieva@ruc.su
 
 [ruc_nabieva_email2]: mailto:alsunab@mail.ru
+
+[rguts_site1]: https://rguts.ru/page/zasisaj-rodinu-v-sostave-otrada-mgua-v-vojskah-bespilotnyh-sistem
+
+[rguts_site1_arch]: https://web.archive.org/web/20261114150729/https://rguts.ru/page/zasisaj-rodinu-v-sostave-otrada-mgua-v-vojskah-bespilotnyh-sistem
+
+[rguts_site2]: https://rguts.ru/announcements/view/821?category=opportunities
+
+[rguts_site2_arch]: https://web.archive.org/web/20261114150956/https://rguts.ru/announcements/view/821?category=opportunities
+
+[rguts_buklet]: https://new.rguts.ru/files/otryad/buklet.pdf
+
+[rguts_buklet_arch]: https://web.archive.org/web/20260214072414/https://new.rguts.ru/files/otryad/buklet.pdf
+
+[rguts_liflet]: https://new.rguts.ru/files/otryad/liflet.pdf
+
+[rguts_liflet_arch]: https://web.archive.org/web/20260213174132/https://new.rguts.ru/files/otryad/liflet.pdf
+
+[rguts_vk1]: https://vk.ru/wall-49715995_22606
+
+[rguts_vk1_arch]: https://archive.li/imY0W
+
+[rguts_vk2]: https://vk.ru/wall-49715995_22260
+
+[rguts_vk2_arch]: https://archive.li/DwWja
+
+[rguts_vk3]: https://vk.ru/wall-49715995_21827
+
+[rguts_vk3_arch]: https://archive.li/2RxEa
+
+[rguts_vk4]: https://vk.ru/wall-49715995_21708
+
+[rguts_vk4_arch]: https://archive.li/0aLt4
+
+[rguts_vk5]: https://vk.ru/wall-49715995_21652
+
+[rguts_vk5_arch]: https://archive.li/Tjlhc
+
+[rguts_kapinus_wiki]: https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D0%BD%D1%83%D1%81,_%D0%9E%D0%BA%D1%81%D0%B0%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0
+
+[rguts_kapinus_ras]: https://prof-ras.ru/index.php?option=com_k2&view=item&id=1078:kapinus-oksana-sergeevna&Itemid=103
+
+[rguts_kapinus_dissernet]: https://www.dissernet.org/person/KapinusOS
+
+[rguts_varlamova_vk]: https://vk.ru/ekaterinenka
+
+[rguts_varlamova_email]: mailto:6870044@mail.ru
